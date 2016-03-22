@@ -53,10 +53,9 @@ var getText = function(textlist, block) {
                 [],
                 []
             ];
-        // console.log(start, end, textlist.length);
         if (block == 1) {
             if (textlist[0].length < 400) {
-                console.log(textlist[0].length);
+                // console.log(textlist[0].length);
                 return [textlist[0], textlist];
             }
             var divide = textlist[0].substring(0, 400).lastIndexOf("\.")
@@ -65,9 +64,11 @@ var getText = function(textlist, block) {
             textlist.splice(1, 0, rest);
             // console.log(textlist);
             // console.log(divide);
+            console.log(typeof(rest));
             return [textblock, textlist];
         } else {
-            console.log("some other block ", textlist);
+            console.log("block number ", block-2, start, end, textlist.length-1);
+            // console.log("some other block ", textlist);
             return [textlist.slice(start, end).join(""), textlist] || ["", textlist];
         }
 
@@ -105,20 +106,25 @@ module.exports = function(designer) {
         */
         textHead = getText(parsedList, 1);
         parsedList = textHead[1];
+        // console.log(parsedList);
+        console.log(designer.langs[i]);
+        if (designer.langs[i] == "da-DK")
+            console.log(getText(parsedList,2)[0]);
+            // console.log(parsedList.slice(1,3).join(""), parsedList.slice(3,5).join(""));
 
         textcontainer.ele(
             "custom-attributes", {
                 "attribute-id": "blockContent2",
                 "xml:lang": designer.langs[i]
             },
-            getText(parsedList, 3));
+            getText(parsedList, 3)[0]);
 
         textcontainer.ele(
             "custom-attributes", {
                 "attribute-id": "blockContent1",
                 "xml:lang": designer.langs[i]
             },
-            getText(parsedList, 2));
+            getText(parsedList, 2)[0]);
 
 
 
