@@ -68,14 +68,18 @@ module.exports = function(designer, xml) {
     container.ele("online-flag", true);
     container.ele("searchable-flag", false);
     container.ele("page-attributes");
+    console.log(designer.langs, designer.langs.length);
     var textcontainer = container.ele("custom-attributes");
     for (var i = 0; i < designer.langs.length; i++) {
 
         var parsedList = parse(designer.contents[i]),
             text = getText(parsedList);
 
+        console.log(designer.langs[i]);
+        if(designer.langs[i] == "ko-KR".toLowerCase())
+            console.log(parsedList);
         if (!text)
-            break;
+            continue;
         textcontainer.ele(
             "custom-attribute", {
                 "attribute-id": "blockText",
