@@ -31,60 +31,31 @@ function parse(htmlstring) {
     parser.end();
     return textList;
 }
-//var txt = fs.readFileSync("_designers_1/_denmark_da-dk.html");
 
-// var xml = builder.create("library", {
-//     "xmlns": "http://www.demandware.com/xml/impex/library/2006-10-31",
-//     "library-id": "SharedLibrary"
-// });
-
-/*
- * getText(block : {number}) 
- *
- * @param block {number} The block number needed. 1 indicates the text block
- * and 2 and 3 are the contentblock 1 and 2
- */
-var getText = function(textlist, block) {
-        var index = Math.ceil((textlist.length - 1) / 2),
-            start = ((block - 2) * index) + 1,
-            end = ((block - 2) * index) + index + 1;
+var getText = function(textlist) {
         if (!textlist[0])
-            return [
-                [],
-                []
-            ];
-        if (block == 1) {
-            if (textlist[0].length < 400) {
-                // console.log(textlist[0].length);
-                return [textlist[0], textlist];
-            }
-            var divide = textlist[0].substring(0, 400).lastIndexOf("\.")
-            var textblock = textlist[0].substring(0, divide + 1);
-            var rest = "<p>" + textlist[0].substring(divide + 1) + "</p>";
-            textlist.splice(1, 0, rest);
-            // console.log(textlist);
-            // console.log(divide);
-            console.log(typeof(rest));
-            return [textblock, textlist];
-        } else {
-            console.log("block number ", block-2, start, end, textlist.length-1);
-            // console.log("some other block ", textlist);
-            return [textlist.slice(start, end).join(""), textlist] || ["", textlist];
-        }
+            return;
 
-    }
-    // getText(parse(txt), 2);
-    // console.log(getText(parse(txt), 1)[0]);
-    // console.log(
-    //     "header:\n",
-    //     getText(parse(txt), 1)[0],
-    //     "\ncontentblock1\n",
-    //     getText(parse(txt), 2)[0],
-    //     "\ncontentblock2\n",
-    //     getText(parse(txt), 3)[0],
-    //     "\n\nParsed input\n", 
-    //     parse(txt)
-    // );
+        var textblock,
+            contentBlock1,
+            contentBlock2;
+
+        if (textlist[0].length < 400) {
+            textblock = textlist[0];
+        } else {
+            var divide = textlist[0].substring(0, 400).lastIndexOf("\.")
+            var rest = "<p>" + textlist[0].substring(divide + 1) + "</p>";
+            textblock = textlist[0].substring(0, divide + 1);
+            textlist.splice(1, 0, rest);
+        }
+        var allTxt = textlist.slice(1, textlist.length).join("");
+        var left = allTxt.substring(0, allTxt.length/2).lastIndexOf("\.");
+        var right = allTxt.substring(allTxt.length/2).indexOf("\.");
+        var index = Math.abs(left - allTxt.length/2) < Math.abs(right - allTxt.length/2) ? left : right;
+        contentBlock1 = allTxt.slice(0, index+1).trim() + "</p>";
+        contentBlock2 = "<p>" + allTxt.slice(index+1).trim();
+        return [txtblock, contentBlock1, contentBlock2];
+}
 
 module.exports = function(designer, xml) {
 
@@ -99,41 +70,32 @@ module.exports = function(designer, xml) {
     var textcontainer = container.ele("custom-attributes");
     for (var i = 0; i < designer.langs.length; i++) {
 
-        parsedList = parse(designer.contents[i]);
-        /*
-            Because text head may update textlist if the text is too long
-            then the remaining text is inserted at the 2nd position in textlist
-        */
-        textHead = getText(parsedList, 1);
-        parsedList = textHead[1];
-        // console.log(parsedList);
-        console.log(designer.langs[i]);
-        if (designer.langs[i] == "da-DK")
-            console.log(getText(parsedList,2)[0]);
-            // console.log(parsedList.slice(1,3).join(""), parsedList.slice(3,5).join(""));
+        var parsedList = parse(designer.contents[i]),
+            text        = getText(parsedList);
 
+        if (!text)
+            return;
+       
         textcontainer.ele(
             "custom-attributes", {
-                "attribute-id": "blockContent2",
+                "attribute-id": "blockText",
                 "xml:lang": designer.langs[i]
             },
-            getText(parsedList, 3)[0]);
+            text[0]);
 
         textcontainer.ele(
             "custom-attributes", {
                 "attribute-id": "blockContent1",
                 "xml:lang": designer.langs[i]
             },
-            getText(parsedList, 2)[0]);
-
-
+            text[1]);
 
         textcontainer.ele(
             "custom-attributes", {
-                "attribute-id": "blockText",
+                "attribute-id": "blockContent2",
                 "xml:lang": designer.langs[i]
             },
-            textHead[0]);
+            text[2]);
     }
     container.ele("folder-links").ele("classification-link", {
         "folder-id": "designer"
