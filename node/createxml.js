@@ -7,8 +7,8 @@ var buildxml = require("./buildxml.js"),
         "encoding": "UTF-8"
     });
 
-xml.attr("xmlns", "http://www.demandware.com/xml/impex/library/2006-10-31");
-xml.attr("library-id", "SharedLibrary");
+xml.att("xmlns", "http://www.demandware.com/xml/impex/library/2006-10-31");
+xml.att("library-id", "SharedLibrary");
 
 var designer_ids = [
     "designer-1", "designer-2", "designer-3", "designer-4", "designer-5", "designer-6",
@@ -88,8 +88,9 @@ for (i = 0; i < l; i++) {
         content_object.contents.push(content);
     }
     buildxml(content_object, xml);
+    break;
 }
 
-fs.writeFileSync("johnny_oste_bravo.xml", xml.end({
+fs.writeFileSync("test_import_designer_1.xml", xml.end({
     pretty: true
 }));

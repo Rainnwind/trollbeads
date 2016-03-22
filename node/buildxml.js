@@ -33,28 +33,28 @@ function parse(htmlstring) {
 }
 
 var getText = function(textlist) {
-        if (!textlist[0])
-            return;
+    if (!textlist[0])
+        return;
 
-        var textblock,
-            contentBlock1,
-            contentBlock2;
+    var textblock,
+        contentBlock1,
+        contentBlock2;
 
-        if (textlist[0].length < 400) {
-            textblock = textlist[0];
-        } else {
-            var divide = textlist[0].substring(0, 400).lastIndexOf("\.")
-            var rest = "<p>" + textlist[0].substring(divide + 1) + "</p>";
-            textblock = textlist[0].substring(0, divide + 1);
-            textlist.splice(1, 0, rest);
-        }
-        var allTxt = textlist.slice(1, textlist.length).join("");
-        var left = allTxt.substring(0, allTxt.length/2).lastIndexOf("\.");
-        var right = allTxt.substring(allTxt.length/2).indexOf("\.");
-        var index = Math.abs(left - allTxt.length/2) < Math.abs(right - allTxt.length/2) ? left : right;
-        contentBlock1 = allTxt.slice(0, index+1).trim() + "</p>";
-        contentBlock2 = "<p>" + allTxt.slice(index+1).trim();
-        return [textblock, contentBlock1, contentBlock2];
+    if (textlist[0].length < 400) {
+        textblock = textlist[0];
+    } else {
+        var divide = textlist[0].substring(0, 400).lastIndexOf("\.")
+        var rest = "<p>" + textlist[0].substring(divide + 1) + "</p>";
+        textblock = textlist[0].substring(0, divide + 1);
+        textlist.splice(1, 0, rest);
+    }
+    var allTxt = textlist.slice(1, textlist.length).join("");
+    var left = allTxt.substring(0, allTxt.length / 2).lastIndexOf("\.");
+    var right = allTxt.substring(allTxt.length / 2).indexOf("\.");
+    var index = Math.abs(left - allTxt.length / 2) < Math.abs(right - allTxt.length / 2) ? left : right;
+    contentBlock1 = allTxt.slice(0, index + 1).trim() + "</p>";
+    contentBlock2 = "<p>" + allTxt.slice(index + 1).trim();
+    return [textblock, contentBlock1, contentBlock2];
 }
 
 module.exports = function(designer, xml) {
@@ -64,18 +64,18 @@ module.exports = function(designer, xml) {
     });
     container.ele("display-name", {
         "xml:lang": "x-default"
-    });
+    }, designer.name);
     container.ele("online-flag", true);
     container.ele("searchable-flag", false);
+    container.ele("page-attributes");
     var textcontainer = container.ele("custom-attributes");
     for (var i = 0; i < designer.langs.length; i++) {
 
         var parsedList = parse(designer.contents[i]),
-            text        = getText(parsedList);
+            text = getText(parsedList);
 
         if (!text)
-            return;
-       
+            break;
         textcontainer.ele(
             "custom-attributes", {
                 "attribute-id": "blockText",
