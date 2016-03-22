@@ -49,8 +49,8 @@ var getText = function(textlist) {
         textlist.splice(1, 0, rest);
     }
     var allTxt = textlist.slice(1, textlist.length).join("");
-    var left = allTxt.substring(0, allTxt.length / 2).lastIndexOf("\.");
-    var right = allTxt.substring(allTxt.length / 2).indexOf("\.");
+    var left = allTxt.substring(0, allTxt.length / 2).length - allTxt.substring(0, allTxt.length / 2).split("").reverse().join("").search(/\.|\u3002/);
+    var right = allTxt.substring(allTxt.length / 2).indexOf(/\.|\u3002/);
     var index = Math.abs(left - allTxt.length / 2) < Math.abs(right - allTxt.length / 2) ? left : right;
     contentBlock1 = allTxt.slice(0, index + 1).trim() + "</p>";
     contentBlock2 = "<p>" + allTxt.slice(index + 1).trim();
@@ -75,23 +75,23 @@ module.exports = function(designer, xml) {
             text = getText(parsedList);
 
         if (!text)
-            break;
+            continue;
         textcontainer.ele(
-            "custom-attribute", {
+            "custom-attributes", {
                 "attribute-id": "blockText",
                 "xml:lang": designer.langs[i]
             },
             text[0]);
 
         textcontainer.ele(
-            "custom-attribute", {
+            "custom-attributes", {
                 "attribute-id": "blockContent1",
                 "xml:lang": designer.langs[i]
             },
             text[1]);
 
         textcontainer.ele(
-            "custom-attribute", {
+            "custom-attributes", {
                 "attribute-id": "blockContent2",
                 "xml:lang": designer.langs[i]
             },
