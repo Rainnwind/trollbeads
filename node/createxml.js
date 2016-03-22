@@ -1,7 +1,8 @@
 var buildxml = require("./buildxml.js"),
+    builder = require("xmlbuilder"),
     htmlparser = require("htmlparser2"),
 
-    var xml = builder.create("library", {
+    xml = builder.create("library", {
         "xmlns": "http://www.demandware.com/xml/impex/library/2006-10-31",
         "library-id": "SharedLibrary"
     });
