@@ -2,10 +2,13 @@ var buildxml = require("./buildxml.js"),
     builder = require("xmlbuilder"),
     htmlparser = require("htmlparser2"),
 
+
     xml = builder.create("library", {
-        "xmlns": "http://www.demandware.com/xml/impex/library/2006-10-31",
-        "library-id": "SharedLibrary"
+        "encoding": "UTF-8"
     });
+
+xml.attr("xmlns", "http://www.demandware.com/xml/impex/library/2006-10-31");
+xml.attr("library-id", "SharedLibrary");
 
 var designer_ids = [
     "designer-1", "designer-2", "designer-3", "designer-4", "designer-5", "designer-6",
