@@ -137,6 +137,5 @@ module.exports = function(designer, xml) {
     }
     container.ele("folder-links").ele("classification-link", {
         "folder-id": "designer"
-    })
-    fs.appendFileSync("johnny_oste_bravo.xml", xml.end({pretty: true}));
+    });
 }

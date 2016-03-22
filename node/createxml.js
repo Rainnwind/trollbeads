@@ -86,3 +86,7 @@ for (i = 0; i < l; i++) {
     }
     buildxml(content_object, xml);
 }
+
+fs.writeFileSync("johnny_oste_bravo.xml", xml.end({
+    pretty: true
+}));
