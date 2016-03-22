@@ -77,21 +77,21 @@ module.exports = function(designer, xml) {
         if (!text)
             break;
         textcontainer.ele(
-            "custom-attributes", {
+            "custom-attribute", {
                 "attribute-id": "blockText",
                 "xml:lang": designer.langs[i]
             },
             text[0]);
 
         textcontainer.ele(
-            "custom-attributes", {
+            "custom-attribute", {
                 "attribute-id": "blockContent1",
                 "xml:lang": designer.langs[i]
             },
             text[1]);
 
         textcontainer.ele(
-            "custom-attributes", {
+            "custom-attribute", {
                 "attribute-id": "blockContent2",
                 "xml:lang": designer.langs[i]
             },
