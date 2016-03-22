@@ -33,10 +33,10 @@ function parse(htmlstring) {
 }
 //var txt = fs.readFileSync("_designers_1/_denmark_da-dk.html");
 
-var xml = builder.create("library", {
-    "xmlns": "http://www.demandware.com/xml/impex/library/2006-10-31",
-    "library-id": "SharedLibrary"
-});
+// var xml = builder.create("library", {
+//     "xmlns": "http://www.demandware.com/xml/impex/library/2006-10-31",
+//     "library-id": "SharedLibrary"
+// });
 
 /*
  * getText(block : {number}) 
@@ -86,7 +86,7 @@ var getText = function(textlist, block) {
     //     parse(txt)
     // );
 
-module.exports = function(designer) {
+module.exports = function(designer, xml) {
 
     var container = xml.ele("content", {
         "content-id": designer.id
