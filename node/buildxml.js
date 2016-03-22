@@ -48,17 +48,18 @@ var getText = function(textlist) {
         textblock = textlist[0].substring(0, divide + 1);
         textlist.splice(1, 0, rest);
     }
-    var allTxt = textlist.slice(1, textlist.length).join("");
-    var left = allTxt.substring(0, allTxt.length / 2).length - allTxt.substring(0, allTxt.length / 2).split("").reverse().join("").search(/\.|\u3002/);
-    var right = allTxt.substring(allTxt.length / 2).indexOf(/\.|\u3002/);
-    var index = Math.abs(left - allTxt.length / 2) < Math.abs(right - allTxt.length / 2) ? left : right;
+    var allTxt = textlist.slice(1, textlist.length).join("").replace(/\s+/g, ' ');
+    var backwards = allTxt.substring(0, allTxt.length / 2).split("").reverse().join("").search(/\.\s|\u3002\s/);
+        backwards = backwards !== -1 ? backwards : allTxt.substring(0, allTxt.length /2).length;
+    var left = allTxt.substring(0, allTxt.length / 2).length - backwards;
+    var right = allTxt.substring(allTxt.length / 2).search(/\.\s|\u3002\s/);
+    var index = Math.abs(left - allTxt.length / 2) < Math.abs(right - allTxt.length / 2) ? left : right + Math.floor(allTxt.length/2);
     contentBlock1 = allTxt.slice(0, index + 1).trim() + "</p>";
     contentBlock2 = "<p>" + allTxt.slice(index + 1).trim();
     return [textblock, contentBlock1, contentBlock2];
 }
 
 module.exports = function(designer, xml) {
-
     var container = xml.ele("content", {
         "content-id": designer.id
     });
@@ -68,16 +69,12 @@ module.exports = function(designer, xml) {
     container.ele("online-flag", true);
     container.ele("searchable-flag", false);
     container.ele("page-attributes");
-    console.log(designer.langs, designer.langs.length);
     var textcontainer = container.ele("custom-attributes");
     for (var i = 0; i < designer.langs.length; i++) {
 
         var parsedList = parse(designer.contents[i]),
             text = getText(parsedList);
 
-        console.log(designer.langs[i]);
-        if(designer.langs[i] == "ko-KR".toLowerCase())
-            console.log(parsedList);
         if (!text)
             continue;
         textcontainer.ele(
