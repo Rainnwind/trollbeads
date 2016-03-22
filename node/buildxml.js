@@ -54,7 +54,7 @@ var getText = function(textlist) {
         var index = Math.abs(left - allTxt.length/2) < Math.abs(right - allTxt.length/2) ? left : right;
         contentBlock1 = allTxt.slice(0, index+1).trim() + "</p>";
         contentBlock2 = "<p>" + allTxt.slice(index+1).trim();
-        return [txtblock, contentBlock1, contentBlock2];
+        return [textblock, contentBlock1, contentBlock2];
 }
 
 module.exports = function(designer, xml) {
