@@ -1,5 +1,10 @@
-var buildxml = require("./buildxml.js");
-var buildxml2 = require("./buildxml2.js");
+var buildxml = require("./buildxml.js"),
+    htmlparser = require("htmlparser2"),
+
+    var xml = builder.create("library", {
+        "xmlns": "http://www.demandware.com/xml/impex/library/2006-10-31",
+        "library-id": "SharedLibrary"
+    });
 
 var designer_ids = [
     "designer-1", "designer-2", "designer-3", "designer-4", "designer-5", "designer-6",
@@ -78,6 +83,5 @@ for (i = 0; i < l; i++) {
         content_object.langs.push(languages[j]);
         content_object.contents.push(content);
     }
-    buildxml(content_object);
-    break;
+    buildxml(content_object, xml);
 }
