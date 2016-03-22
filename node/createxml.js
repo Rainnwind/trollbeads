@@ -52,7 +52,7 @@ var languages_orig = [
     "/czech-republic/cs-cz", "/denmark/da-dk", "/nederlands/nl-nl", "/france/fr-fr", "/germany/de-de",
     "/italy/it-it", "/japan/ja-jp", "/south-korea/ko-kr", "/lithuania/lt-lt", "/spain/es-es"
 ];
-var languages = ["cs-CZ", "da-DK", "nl", "fr", "de", "it", "ja-JP", "ko_KR", "lt-LT", "es"];
+var languages = ["cs-CZ", "da-DK", "nl", "fr", "de", "it", "ja-JP", "ko-kr", "lt-LT", "es"];
 
 var fs = require("fs"),
     path = require("path");
