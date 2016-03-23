@@ -17,12 +17,9 @@ var designer_ids = [
     "/designers/90", "/designers/91", "/designers/92", "/designers/94", "/designers/96", "/designers/93",
     "/designers/95", "/designers/73", "/designers/97", "/designers/98"
 ];
-// var languages = [
-//     "/czech-republic/cs-cz", "/denmark/da-dk", "/nederlands/nl-nl", "/france/fr-fr", "/germany/de-de",
-//     "/italy/it-it", "/japan/ja-jp", "/south-korea/ko-kr", "/lithuania/lt-lt", "/spain/es-es"
-// ];
 var languages = [
-    "/czech-republic/cs-cz"
+    "/czech-republic/cs-cz", "/denmark/da-dk", "/nederlands/nl-nl", "/france/fr-fr", "/germany/de-de",
+    "/italy/it-it", "/japan/ja-jp", "/south-korea/ko-kr", "/lithuania/lt-lt", "/spain/es-es"
 ];
 
 //host + lang + designer_id
