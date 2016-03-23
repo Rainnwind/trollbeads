@@ -40,17 +40,19 @@ var getText = function(textlist) {
         contentBlock1,
         contentBlock2;
 
+    var Rpattern = /\.(\<|\s|$)|\"\s|\u3002\s/
+    var Lpattern = /(\<|\s|^)\.|\s\"|\s\u3002/
+
     if (textlist[0].length < 400) {
         textblock = textlist[0];
     } else {
-        var divide = textlist[0].substring(0, 400).lastIndexOf("\.")
+        var divide = textlist[0].substring(0, 400).split("").reverse().join("").search(Lpattern);
+        divide = textlist[0].substring(0, 400).length - divide -1;
         var rest = "<p>" + textlist[0].substring(divide + 1) + "</p>";
         textblock = textlist[0].substring(0, divide + 1);
         textlist.splice(1, 0, rest);
     }
     var allTxt = textlist.slice(1, textlist.length).join("").replace(/\s+|\<span\>|\<\/span\>/g, ' ');
-    var Rpattern = /\.(\<|\s|$)|\"\s|\u3002\s/
-    var Lpattern = /(\<|\s|^)\.|\s\"|\s\u3002/
     var left = allTxt.substring(0, allTxt.length / 2).split("").reverse().join("").search(Lpattern);
         // console.log("left ", 
         //     allTxt.substring(0, allTxt.length / 2).split("").reverse().join("").charAt(left+1), 
@@ -60,7 +62,7 @@ var getText = function(textlist) {
         // console.log(left, allTxt.substring(allTxt.length / 2).search(Rpattern))
     var right = allTxt.substring(allTxt.length / 2).search(Rpattern);
         right = right !== -1 ? right : allTxt.length
-    console.log(left, right, (allTxt.length/2));
+    // console.log(left, right, (allTxt.length/2));
     var index = left < right ? allTxt.substring(0, allTxt.length / 2).length - left-1 : right + Math.floor(allTxt.length / 2);
     // console.log(allTxt.substring(0, allTxt.length / 2), allTxt.charAt(left), "\n\n\n", allTxt.substring(allTxt.length / 2), allTxt.charAt(right), index, allTxt.length / 2, allTxt.charAt(index));
     
