@@ -14,18 +14,19 @@ function parse(htmlstring) {
             // }
         },
         ontext: function(text) {
+            // console.log(text);
             if (text.replace(/\s*|\n/g, "").length) {
                 if (textList.length === 1 && textList.length && textList[0].length < headerMaxLength) {
-                    console.log("charCodeAt(0) ", text.charCodeAt());
+                    // console.log("charCodeAt(0) ", text.charCodeAt());
                     var i = text.search(/\n\n/);
                     var j = textList[0].charCodeAt(textList.length -1) === 10 && text.charCodeAt(0) === 10;
                     if (i != -1 || j ) {
                         var index = i > 1 ? i : 1
-                        console.log("THISIS I ", i, j, text);
+                        // console.log("THISIS I ", i, j, text);
                         // if (i > 1)
                         textList[0] += text.slice(0, index);
                         textList.push("<p>" + text.slice(index) + "</p>");
-                        console.log(index, textList);
+                        // console.log(index, textList);
                     }
                     // textList[0] += text;
                 }
@@ -39,7 +40,7 @@ function parse(htmlstring) {
         },
         onclosetag: function(tagname) {
             // 
-            console.log(tagname);
+            // console.log(tagname);
         }
     }, {
         decodeEntities: true
@@ -62,7 +63,7 @@ var getText = function(textlist) {
 
     if (textlist[0].length < headerMaxLength) {
         textblock = textlist[0];
-        console.log(textblock)
+        // console.log(textblock)
     } else {
         var divide = textlist[0].substring(0, headerMaxLength).split("").reverse().join("").search(Lpattern);
         divide = textlist[0].substring(0, headerMaxLength).length - divide -1;
@@ -72,15 +73,15 @@ var getText = function(textlist) {
     }
     var allTxt = textlist.slice(1, textlist.length).join("").replace(/\s+|\<span\>|\<\/span\>/g, ' ');
     var left = allTxt.substring(0, allTxt.length / 2).split("").reverse().join("").search(Lpattern);
-        console.log("left ", 
-            allTxt.substring(0, allTxt.length / 2).split("").reverse().join("").charAt(left+1)
-        );
+        // console.log("left ", 
+        //     allTxt.substring(0, allTxt.length / 2).split("").reverse().join("").charAt(left+1)
+        // );
         left = left !== -1 ? left : allTxt.length;
         // console.log(left, allTxt.substring(allTxt.length / 2).search(Rpattern))
     var right = allTxt.substring(allTxt.length / 2).search(Rpattern);
-        console.log("right ", allTxt.substring(allTxt.length/2).charAt(right));
+        // console.log("right ", allTxt.substring(allTxt.length/2).charAt(right));
         right = right !== -1 ? right : allTxt.length
-    console.log(left, right, (allTxt.length/2));
+    // console.log(left, right, (allTxt.length/2));
     var index = left < right ? allTxt.substring(0, allTxt.length / 2).length - left-1 : right + Math.floor(allTxt.length / 2);
     // console.log(allTxt.substring(0, allTxt.length / 2), allTxt.charAt(left), "\n\n\n", allTxt.substring(allTxt.length / 2), allTxt.charAt(right), index, allTxt.length / 2, allTxt.charAt(index));
     
@@ -105,8 +106,11 @@ module.exports = function(designer, xml) {
     for (var i = 0; i < designer.langs.length; i++) {
 
         console.log(designer.langs[i]);
-        var parsedList = parse(designer.contents[i]),
+        var strippedContents = designer.contents[i].replace(/\<(span|a|em)\>|\<\/(span|a|em)\>/g, ' ').replace(/\<(span|a|em).*\>/, " ");
+        console.log(strippedContents);
+        var parsedList = parse(strippedContents),
             text = getText(parsedList);
+        // console.log(parsedList);
 
         if (!text)
             continue;
