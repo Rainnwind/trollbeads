@@ -61,8 +61,8 @@ var i, l = designer_ids_orig.length,
     j, k = languages_orig.length;
 
 for (i = 0; i < l; i++) {
-    if (designer_ids_orig[i] != "/designers/22")
-        continue;
+    // if (designer_ids_orig[i] != "/designers/22")
+    //     continue;
     var name_address = path.join(__dirname, "../phantom/designers", designer_ids_orig[i].replace(/\//g, "_"), "name.html");
     try {
         var name = fs.readFileSync(name_address, "utf-8");
@@ -77,8 +77,8 @@ for (i = 0; i < l; i++) {
         name: name
     };
     for (j = 0; j < k; j++) {
-        if (languages[j] != "da-DK") 
-            continue;
+        // if (languages[j] != "da-DK") 
+        //     continue;
         var content_address = path.join(__dirname, "../phantom/designers", designer_ids_orig[i].replace(/\//g, "_"), languages_orig[j].replace(/\//g, "_") + ".html");
         try {
             var content = fs.readFileSync(content_address, "utf-8");
