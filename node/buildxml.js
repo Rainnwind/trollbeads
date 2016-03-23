@@ -56,10 +56,11 @@ var getText = function(textlist) {
         //     allTxt.substring(0, allTxt.length / 2).split("").reverse().join("").charAt(left+1), 
         //     left, allTxt.substring(0, allTxt.length / 2).split("").reverse().join("")
         // );
-        left = left !== -1 ? left : allTxt.substring(0, allTxt.length /2).length;
+        left = left !== -1 ? left : allTxt.length;
         // console.log(left, allTxt.substring(allTxt.length / 2).search(Rpattern))
     var right = allTxt.substring(allTxt.length / 2).search(Rpattern);
-    // console.log(left, right, allTxt.length/2);
+        right = right !== -1 ? right : allTxt.length
+    console.log(left, right, (allTxt.length/2));
     var index = left < right ? allTxt.substring(0, allTxt.length / 2).length - left-1 : right + Math.floor(allTxt.length / 2);
     // console.log(allTxt.substring(0, allTxt.length / 2), allTxt.charAt(left), "\n\n\n", allTxt.substring(allTxt.length / 2), allTxt.charAt(right), index, allTxt.length / 2, allTxt.charAt(index));
     
