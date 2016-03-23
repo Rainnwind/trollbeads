@@ -48,18 +48,29 @@ var getText = function(textlist) {
         textblock = textlist[0].substring(0, divide + 1);
         textlist.splice(1, 0, rest);
     }
-    var allTxt = textlist.slice(1, textlist.length).join("").replace(/\s+/g, ' ');
-    var backwards = allTxt.substring(0, allTxt.length / 2).split("").reverse().join("").search(/\.\s|\u3002\s/);
-        backwards = backwards !== -1 ? backwards : allTxt.substring(0, allTxt.length /2).length;
-    var left = allTxt.substring(0, allTxt.length / 2).length - backwards;
-    var right = allTxt.substring(allTxt.length / 2).search(/\.\s|\u3002\s/);
-    var index = Math.abs(left - allTxt.length / 2) < Math.abs(right - allTxt.length / 2) ? left : right + Math.floor(allTxt.length/2);
+    var allTxt = textlist.slice(1, textlist.length).join("").replace(/\s+|\<span\>|\<\/span\>/g, ' ');
+    var Rpattern = /\.(\<|\s|$)|\"\s|\u3002\s/
+    var Lpattern = /(\<|\s|^)\.|\s\"|\s\u3002/
+    var left = allTxt.substring(0, allTxt.length / 2).split("").reverse().join("").search(Lpattern);
+        // console.log("left ", 
+        //     allTxt.substring(0, allTxt.length / 2).split("").reverse().join("").charAt(left+1), 
+        //     left, allTxt.substring(0, allTxt.length / 2).split("").reverse().join("")
+        // );
+        left = left !== -1 ? left : allTxt.substring(0, allTxt.length /2).length;
+        // console.log(left, allTxt.substring(allTxt.length / 2).search(Rpattern))
+    var right = allTxt.substring(allTxt.length / 2).search(Rpattern);
+    // console.log(left, right, allTxt.length/2);
+    var index = left < right ? allTxt.substring(0, allTxt.length / 2).length - left-1 : right + Math.floor(allTxt.length / 2);
+    // console.log(allTxt.substring(0, allTxt.length / 2), allTxt.charAt(left), "\n\n\n", allTxt.substring(allTxt.length / 2), allTxt.charAt(right), index, allTxt.length / 2, allTxt.charAt(index));
+    
     contentBlock1 = allTxt.slice(0, index + 1).trim() + "</p>";
     contentBlock2 = "<p>" + allTxt.slice(index + 1).trim();
     return [textblock, contentBlock1, contentBlock2];
 }
 
 module.exports = function(designer, xml) {
+    // console.log("------------------------------------")
+    // console.log(designer.name);
     var container = xml.ele("content", {
         "content-id": designer.id
     });
@@ -72,6 +83,7 @@ module.exports = function(designer, xml) {
     var textcontainer = container.ele("custom-attributes");
     for (var i = 0; i < designer.langs.length; i++) {
 
+        // console.log(designer.langs[i]);
         var parsedList = parse(designer.contents[i]),
             text = getText(parsedList);
 
