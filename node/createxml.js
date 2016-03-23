@@ -61,7 +61,7 @@ var i, l = designer_ids_orig.length,
     j, k = languages_orig.length;
 
 for (i = 0; i < l; i++) {
-    // if (designer_ids_orig[i] != "/designers/93")
+    // if (designer_ids_orig[i] != "/designers/7")
     //     continue;
     var name_address = path.join(__dirname, "../phantom/designers", designer_ids_orig[i].replace(/\//g, "_"), "name.html");
     try {
@@ -77,7 +77,7 @@ for (i = 0; i < l; i++) {
         name: name
     };
     for (j = 0; j < k; j++) {
-        // if (languages[j] != "de") 
+        // if (languages[j] != "da-DK") 
         //     continue;
         var content_address = path.join(__dirname, "../phantom/designers", designer_ids_orig[i].replace(/\//g, "_"), languages_orig[j].replace(/\//g, "_") + ".html");
         try {
@@ -94,6 +94,6 @@ for (i = 0; i < l; i++) {
     buildxml(content_object, xml);
 }
 
-fs.writeFileSync("test_import_designer_1.xml", xml.end({
+fs.writeFileSync("full_import.xml", xml.end({
     pretty: true
 }));

@@ -1,20 +1,36 @@
 var htmlparser = require("htmlparser2"),
     builder = require("xmlbuilder"),
-    fs = require("fs");
+    fs = require("fs"),
+    headerMaxLength = 300;
 
 function parse(htmlstring) {
     var textList = [];
     var element = "";
     var parser = new htmlparser.Parser({
         onopentag: function(name, attribs) {
-            if (textList.length) {
-                element = name;
-            }
+            // console.log(name);
+            // if (textList.length) {
+            //     element = name;
+            // }
         },
         ontext: function(text) {
             if (text.replace(/\s*|\n/g, "").length) {
-                if (element && element !== "br") {
-                    textList.push("<" + element + ">" + text + "</" + element + ">");
+                if (textList.length === 1 && textList.length && textList[0].length < headerMaxLength) {
+                    console.log("charCodeAt(0) ", text.charCodeAt());
+                    var i = text.search(/\n\n/);
+                    var j = textList[0].charCodeAt(textList.length -1) === 10 && text.charCodeAt(0) === 10;
+                    if (i != -1 || j ) {
+                        var index = i > 1 ? i : 1
+                        console.log("THISIS I ", i, j, text);
+                        // if (i > 1)
+                        textList[0] += text.slice(0, index);
+                        textList.push("<p>" + text.slice(index) + "</p>");
+                        console.log(index, textList);
+                    }
+                    // textList[0] += text;
+                }
+                else if (textList.length) {
+                    textList.push("<p>" + text + "</p>");
                     element = ""
                 } else {
                     textList.push(text);
@@ -23,6 +39,7 @@ function parse(htmlstring) {
         },
         onclosetag: function(tagname) {
             // 
+            console.log(tagname);
         }
     }, {
         decodeEntities: true
@@ -43,26 +60,27 @@ var getText = function(textlist) {
     var Rpattern = /\.(\<|\s|$)|\"\s|\u3002\s/
     var Lpattern = /(\<|\s|^)\.|\s\"|\s\u3002/
 
-    if (textlist[0].length < 400) {
+    if (textlist[0].length < headerMaxLength) {
         textblock = textlist[0];
+        console.log(textblock)
     } else {
-        var divide = textlist[0].substring(0, 400).split("").reverse().join("").search(Lpattern);
-        divide = textlist[0].substring(0, 400).length - divide -1;
+        var divide = textlist[0].substring(0, headerMaxLength).split("").reverse().join("").search(Lpattern);
+        divide = textlist[0].substring(0, headerMaxLength).length - divide -1;
         var rest = "<p>" + textlist[0].substring(divide + 1) + "</p>";
         textblock = textlist[0].substring(0, divide + 1);
         textlist.splice(1, 0, rest);
     }
     var allTxt = textlist.slice(1, textlist.length).join("").replace(/\s+|\<span\>|\<\/span\>/g, ' ');
     var left = allTxt.substring(0, allTxt.length / 2).split("").reverse().join("").search(Lpattern);
-        // console.log("left ", 
-        //     allTxt.substring(0, allTxt.length / 2).split("").reverse().join("").charAt(left+1), 
-        //     left, allTxt.substring(0, allTxt.length / 2).split("").reverse().join("")
-        // );
+        console.log("left ", 
+            allTxt.substring(0, allTxt.length / 2).split("").reverse().join("").charAt(left+1)
+        );
         left = left !== -1 ? left : allTxt.length;
         // console.log(left, allTxt.substring(allTxt.length / 2).search(Rpattern))
     var right = allTxt.substring(allTxt.length / 2).search(Rpattern);
+        console.log("right ", allTxt.substring(allTxt.length/2).charAt(right));
         right = right !== -1 ? right : allTxt.length
-    // console.log(left, right, (allTxt.length/2));
+    console.log(left, right, (allTxt.length/2));
     var index = left < right ? allTxt.substring(0, allTxt.length / 2).length - left-1 : right + Math.floor(allTxt.length / 2);
     // console.log(allTxt.substring(0, allTxt.length / 2), allTxt.charAt(left), "\n\n\n", allTxt.substring(allTxt.length / 2), allTxt.charAt(right), index, allTxt.length / 2, allTxt.charAt(index));
     
@@ -72,8 +90,8 @@ var getText = function(textlist) {
 }
 
 module.exports = function(designer, xml) {
-    // console.log("------------------------------------")
-    // console.log(designer.name);
+    console.log("------------------------------------")
+    console.log(designer.name);
     var container = xml.ele("content", {
         "content-id": designer.id
     });
@@ -86,7 +104,7 @@ module.exports = function(designer, xml) {
     var textcontainer = container.ele("custom-attributes");
     for (var i = 0; i < designer.langs.length; i++) {
 
-        // console.log(designer.langs[i]);
+        console.log(designer.langs[i]);
         var parsedList = parse(designer.contents[i]),
             text = getText(parsedList);
 
