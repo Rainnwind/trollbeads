@@ -61,8 +61,8 @@ var i, l = designer_ids_orig.length,
     j, k = languages_orig.length;
 
 for (i = 0; i < l; i++) {
-    if (designer_ids_orig[i] != "/designers/10")
-        continue;
+    // if (designer_ids_orig[i] != "/designers/10")
+    //     continue;
     var name_address = path.join(__dirname, "../phantom/designers", designer_ids_orig[i].replace(/\//g, "_"), "name.html");
     try {
         var name = fs.readFileSync(name_address, "utf-8");

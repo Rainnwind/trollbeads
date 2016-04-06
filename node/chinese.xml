@@ -1,5 +1,131 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <library xmlns="http://www.demandware.com/xml/impex/library/2006-10-31" library-id="SharedLibrary">
+  <content content-id="designer-1">
+    <display-name xml:lang="x-default">Lise Aagaard</display-name>
+    <online-flag>true</online-flag>
+    <searchable-flag>false</searchable-flag>
+    <page-attributes/>
+    <custom-attributes>
+      <custom-attribute attribute-id="blockText" xml:lang="zh-cn">&lt;p&gt;成长在一个珠宝商的家庭，我从出生就拥有可以不断学习艺术，轮廓和物料的优越环境。在专业上不断面对创作上的一切可能和界限，老实说，任何东西，万物都是&amp;nbsp;我的灵感来源。生活中的变化还有世界上各式各样的金属，宝石，珍珠，琥珀，琉璃都可以燃起我的好奇心。我深深的感恩，通过工作我有机会感动到世界各地的人&amp;nbsp;民。&lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent1" xml:lang="zh-cn">&lt;p&gt;当她说话的时候， Lise&amp;nbsp;Aagaard 强调所有的珠都是尽心打造的。就像这些珠，她充满活力，乐趣，生动而且知识渊博。像琉璃珠，没有人可以强迫 Lise 做违背意愿的事。&amp;nbsp; Lise 的动力完全源于对创作的热爱。&lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent2" xml:lang="zh-cn">&lt;p&gt;她用这股热情去做 trollbeads 的设计和经营 trollbeads 公司，公司现在已有过千款产品并销售到世界&amp;nbsp;各地。 &lt;/p&gt;&lt;p&gt;节选自 "An&amp;nbsp;Icon&amp;nbsp;in&amp;nbsp;Jewellery&amp;nbsp;Design" &lt;/p&gt;</custom-attribute>
+    </custom-attributes>
+    <folder-links>
+      <classification-link folder-id="designer"/>
+    </folder-links>
+  </content>
+  <content content-id="designer-2">
+    <display-name xml:lang="x-default">Søren Nielsen</display-name>
+    <online-flag>true</online-flag>
+    <searchable-flag>false</searchable-flag>
+    <page-attributes/>
+    <custom-attributes>
+      <custom-attribute attribute-id="blockText" xml:lang="zh-cn">&lt;p&gt;我的第一个 trollbeads  设计是把纯银制成的小脸蛋和姿势串在皮革上。设计的意图是讲故事和与人沟通。从第一个  trollbeads  设计至今已超过  30  年，新设计还会陆续登场。小精灵，故事，神话和其他文化通通都是我的灵感来源。 &lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent1" xml:lang="zh-cn">&lt;p&gt;当 S ø ren 坐在燃烧器前，他的想法经由他手中的蜡状固体就那么自然的发生了。&lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent2" xml:lang="zh-cn">&lt;p&gt;天然，流畅和瞬间的惊喜。 &lt;/p&gt;</custom-attribute>
+    </custom-attributes>
+    <folder-links>
+      <classification-link folder-id="designer"/>
+    </folder-links>
+  </content>
+  <content content-id="designer-3">
+    <display-name xml:lang="x-default">Asger Max Andersen</display-name>
+    <online-flag>true</online-flag>
+    <searchable-flag>false</searchable-flag>
+    <page-attributes/>
+    <custom-attributes>
+      <custom-attribute attribute-id="blockText" xml:lang="zh-cn">&lt;p&gt;从 1965  年在哥本哈根成为合资格的银匠到  1975  在丹麦罗斯基勒创业之前，  Asger  一直在国外教学和工作。 &lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent1" xml:lang="zh-cn">&lt;p&gt;每周一早上，我会和哥哥见面。&lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent2" xml:lang="zh-cn">&lt;p&gt;我们会驾驶小艇在峡湾的地方航行几个小时，我们已经这样做好几年了。&lt;/p&gt;</custom-attribute>
+    </custom-attributes>
+    <folder-links>
+      <classification-link folder-id="designer"/>
+    </folder-links>
+  </content>
+  <content content-id="designer-4">
+    <display-name xml:lang="x-default">Christel Kaaber</display-name>
+    <online-flag>true</online-flag>
+    <searchable-flag>false</searchable-flag>
+    <page-attributes/>
+    <custom-attributes>
+      <custom-attribute attribute-id="blockText" xml:lang="zh-cn">&lt;p&gt;当我在 Svend&amp;nbsp;Nielsen  实习的时候，我已经可以接受和参与  trollbeads  的制作了。在这段时间设计我自己的珠珠，我主要专注于简约、直接的设计。 &lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent1" xml:lang="zh-cn">&lt;p&gt;" 不，我已经不再上健身房了，我开始会去喝点小酒！ " 发现我进来之前， Christel 正笑着结束手机里的对话。&lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent2" xml:lang="zh-cn">&lt;p&gt;" 放心，事实并不全然！ " &lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;</custom-attribute>
+    </custom-attributes>
+    <folder-links>
+      <classification-link folder-id="designer"/>
+    </folder-links>
+  </content>
+  <content content-id="designer-5">
+    <display-name xml:lang="x-default">Corinne Jarvis</display-name>
+    <online-flag>true</online-flag>
+    <searchable-flag>false</searchable-flag>
+    <page-attributes/>
+    <custom-attributes>
+      <custom-attribute attribute-id="blockText" xml:lang="zh-cn">&lt;p&gt;Corinne 在十年前为  trollbeads  设计了地球珠。现在她已经身为人母并成为了演讲语言病理学家。她是完全没有经过训练自学制作珠珠的。所有  Corinne  设计的珠珠都流露着她对生态和大自然的爱。 &lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent1" xml:lang="zh-cn">&lt;p&gt;Corinne 生命中的其中一个愿望就是可以帮助儿童。&lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent2" xml:lang="zh-cn">&lt;p&gt;她来自佛蒙特州，现住在俄勒冈州，她和丈夫一起建立了 Wildcats&amp;nbsp;Glassworks 。 &lt;/p&gt;</custom-attribute>
+    </custom-attributes>
+    <folder-links>
+      <classification-link folder-id="designer"/>
+    </folder-links>
+  </content>
+  <content content-id="designer-6">
+    <display-name xml:lang="x-default">Gitte Bjørn</display-name>
+    <online-flag>true</online-flag>
+    <searchable-flag>false</searchable-flag>
+    <page-attributes/>
+    <custom-attributes>
+      <custom-attribute attribute-id="blockText" xml:lang="zh-cn">&lt;p&gt;Gitte&amp;nbsp;Bj ø  rn  在  1993  年在学习金匠技能的，在她的毕业设计里已经非常明显的看出她想往雕刻上发展。她在丹麦及国际上都有展览，她是这样描述自己的工作的： &lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent1" xml:lang="zh-cn">&lt;p&gt;在工作中，我努力让想象的部分拥有空间和真实的存在，仍然，我容许自己生活在哥德时期的神话与动物平行的世界里。这样的话让我可以肯定自己前方的快乐与刺激。&lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent2" xml:lang="zh-cn">&lt;p&gt;&lt;/p&gt;&lt;p&gt;这说明我们必须通过她的工作室去了解她生活的世界 - 那里生活着一个工作狂。 &lt;/p&gt;&lt;p&gt;环视我的四周 - 这里没有一样东西是我不想带回家的挂起来的，每样东西都呼吸着品味。 &lt;/p&gt;</custom-attribute>
+    </custom-attributes>
+    <folder-links>
+      <classification-link folder-id="designer"/>
+    </folder-links>
+  </content>
+  <content content-id="designer-7">
+    <display-name xml:lang="x-default">Isabel Aagaard</display-name>
+    <online-flag>true</online-flag>
+    <searchable-flag>false</searchable-flag>
+    <page-attributes/>
+    <custom-attributes>
+      <custom-attribute attribute-id="blockText" xml:lang="zh-cn">&lt;p&gt;当你出生在跟我一样有创意的家庭时，自然也会选择加入。我的第一粒珠珠灵感来自于折纸这种日本艺术。我一直都对传统和几何结构着迷。&lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent1" xml:lang="zh-cn">&lt;p&gt;映入眼帘的第一件事。&lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent2" xml:lang="zh-cn">&lt;p&gt;他们的光彩和笑声，他们在检阅和聊天，一秒钟就可以传达出一千种感情，然后他们向你望去 ... &lt;/p&gt;</custom-attribute>
+    </custom-attributes>
+    <folder-links>
+      <classification-link folder-id="designer"/>
+    </folder-links>
+  </content>
+  <content content-id="designer-8">
+    <display-name xml:lang="x-default">Jens Nielsen</display-name>
+    <online-flag>true</online-flag>
+    <searchable-flag>false</searchable-flag>
+    <page-attributes/>
+    <custom-attributes>
+      <custom-attribute attribute-id="blockText" xml:lang="zh-cn">&lt;p&gt;我在这个团队的第一天就已经开始不断完善丹麦镯品这个概念。必须要熟悉和了解如何制作琉璃珠的工艺，同时要知道如何使用现代技术。这样我们才能可以独一无二的首饰推出市场并得到合理的定价。对我来说，这是一个将创意灵感与现代生产理论结合的刺激挑战。&lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent1" xml:lang="zh-cn">&lt;p&gt;对细节的关注要求。&lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent2" xml:lang="zh-cn">&lt;p&gt;前方聚集着柔和的曲线，沉重的底部，还有光滑的外表，全部结合成一个美丽，经典的快艇模型。&lt;/p&gt;</custom-attribute>
+    </custom-attributes>
+    <folder-links>
+      <classification-link folder-id="designer"/>
+    </folder-links>
+  </content>
+  <content content-id="designer-9">
+    <display-name xml:lang="x-default">Jytte Kløve</display-name>
+    <online-flag>true</online-flag>
+    <searchable-flag>false</searchable-flag>
+    <page-attributes/>
+    <custom-attributes>
+      <custom-attribute attribute-id="blockText" xml:lang="zh-cn">&lt;p&gt;金匠 Jytte&amp;nbsp;Kl  ø  ve  刚刚结束  25  年非常活跃的职业生涯。过去她曾在家乡和国外举办过数目惊人的展览。她也荣获了数不清的奖项和奖金。她在丹麦  Lyngby  个人的工作室工作，她是这样形容她的创作过程的： &lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent1" xml:lang="zh-cn">&lt;p&gt;我是一艘开往未来的船的掌托。货物安全的存放在我的下面。船桥上的风光美好 - 世上没有第二个景象于此相同，每天都是新的日出，新的色彩，因为每个清晨又是生命的另一天，一切皆有可能。&lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent2" xml:lang="zh-cn">&lt;p&gt;&lt;/p&gt;&lt;p&gt;不到一眨眼的功夫，她爬上弹床在空中翻了个跟斗。 " 没错 - 我要去上弹床课。这是队伍里另个年纪稍长的人 - 他 24 岁。 " &lt;/p&gt;</custom-attribute>
+    </custom-attributes>
+    <folder-links>
+      <classification-link folder-id="designer"/>
+    </folder-links>
+  </content>
   <content content-id="designer-10">
     <display-name xml:lang="x-default">Kate Fowle Meleney</display-name>
     <online-flag>true</online-flag>
@@ -9,6 +135,1184 @@
       <custom-attribute attribute-id="blockText" xml:lang="zh-cn">&lt;p&gt;Kate&amp;nbsp;Fowle&amp;nbsp;Meleney 有教过工艺制作，出版过书籍和在节目中当过玻璃制作的评委。她也在世界各地的展会里做陈列展示。  Kate  现在生活在美国完成她取名为  "  可穿戴的雕塑  "  的设计。 &lt;/p&gt;</custom-attribute>
       <custom-attribute attribute-id="blockContent1" xml:lang="zh-cn"/>
       <custom-attribute attribute-id="blockContent2" xml:lang="zh-cn"/>
+    </custom-attributes>
+    <folder-links>
+      <classification-link folder-id="designer"/>
+    </folder-links>
+  </content>
+  <content content-id="designer-11">
+    <display-name xml:lang="x-default">Lars Glad</display-name>
+    <online-flag>true</online-flag>
+    <searchable-flag>false</searchable-flag>
+    <page-attributes/>
+    <custom-attributes>
+      <custom-attribute attribute-id="blockText" xml:lang="zh-cn">&lt;p&gt;我的灵感无疑是来自于我的斯堪的纳维亚背景。简洁的斯堪的纳维亚外观和冒险的北欧神话融合在一起，重新诠释出一个纯净和简单的意义，我们可以用时尚和不朽来形容，但经常被加入力学的表达。&lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent1" xml:lang="zh-cn"/>
+      <custom-attribute attribute-id="blockContent2" xml:lang="zh-cn"/>
+    </custom-attributes>
+    <folder-links>
+      <classification-link folder-id="designer"/>
+    </folder-links>
+  </content>
+  <content content-id="designer-12">
+    <display-name xml:lang="x-default">Maria Nielsen</display-name>
+    <online-flag>true</online-flag>
+    <searchable-flag>false</searchable-flag>
+    <page-attributes/>
+    <custom-attributes>
+      <custom-attribute attribute-id="blockText" xml:lang="zh-cn">&lt;p&gt;从 1997  年起  Maria&amp;nbsp;Nielsen  在丹麦老  Dragor  中心开始管理  Barbara&amp;nbsp;Maria  金匠。  Maria&amp;nbsp;Nielsen  在  IDC  得到钻石分级认证资格，她是丹麦最优秀的钻石评级专家。在她的工作室  Maria  担任新产品设计和生产的职务。 &lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent1" xml:lang="zh-cn">&lt;p&gt;从事艺术和设计的 Maria 说： "&lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent2" xml:lang="zh-cn">&lt;p&gt;能够将客人的情感转化成一件手工珠宝令我非常鼓舞，首饰可以帮助我们表达和增强自我。 " &lt;/p&gt;</custom-attribute>
+    </custom-attributes>
+    <folder-links>
+      <classification-link folder-id="designer"/>
+    </folder-links>
+  </content>
+  <content content-id="designer-13">
+    <display-name xml:lang="x-default">Anders Martin Bruun</display-name>
+    <online-flag>true</online-flag>
+    <searchable-flag>false</searchable-flag>
+    <page-attributes/>
+    <custom-attributes>
+      <custom-attribute attribute-id="blockText" xml:lang="zh-cn">&lt;p&gt;我把自己看作是一个喜欢在工作的时候吸收各样细节的独立商人，艺术家，设计师，金匠和艺人。我会尽力精致和纯粹的表达创作，和 trollbeads  合作非常有挑战性，让人兴奋。 &lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent1" xml:lang="zh-cn">&lt;p&gt;在设计珠珠的时候，我试着将幽默和可爱细节和小洞一起融入成为一个整体。&lt;/p&gt;&lt;p&gt;我的灵感来自于说大千世界和生活中奇闻。&lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent2" xml:lang="zh-cn">&lt;p&gt;&lt;/p&gt;&lt;p&gt;Martin 长着鹿般温柔的眼睛，除了动物园没有其他地方我们可以拍到这个新手爸爸的照片。 &lt;/p&gt;</custom-attribute>
+    </custom-attributes>
+    <folder-links>
+      <classification-link folder-id="designer"/>
+    </folder-links>
+  </content>
+  <content content-id="designer-14">
+    <display-name xml:lang="x-default">Mette Saabye</display-name>
+    <online-flag>true</online-flag>
+    <searchable-flag>false</searchable-flag>
+    <page-attributes/>
+    <custom-attributes>
+      <custom-attribute attribute-id="blockText" xml:lang="zh-cn">&lt;p&gt;Mette&amp;nbsp;Saabye 出生于  1969  年，受过专业珠宝技术训练。她是在佛罗伦萨的  Fuji  工作室学习珠宝设计，并在  1996  年在贵金属技术学院毕业。之后她成为一位设计师和珠宝艺术家。 &lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent1" xml:lang="zh-cn">&lt;p&gt;Mette&amp;nbsp;Saabye 是丹麦最受欢迎的实验艺术家之一。近年，她正在开发与特征，真实感知和个人感官有关的珍贵集独一无二的珠宝。 &lt;/p&gt;&lt;p&gt;同时也以平易近人的题材进行设计，如手工，可能性，功能性，美观，装饰，身体与首饰之间的关系等等。&lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent2" xml:lang="zh-cn">&lt;p&gt;&lt;/p&gt;&lt;p&gt;Mette&amp;nbsp;Saabye 的设计得过无数的奖项，包括 St.&amp;nbsp;Loye&amp;nbsp;prize ，一个哥本哈根金匠协会为年轻才干设立的奖项， Biennale&amp;nbsp;Prize 工业设计类奖，和政府艺术部门的 3 年工作补贴。 &lt;/p&gt;&lt;p&gt;她非常适合拍黑白照片。她散发着冷艳，高贵和典雅，就像 " 蒂凡尼的早餐 " 里的奥黛丽赫本的现代版。 &lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;</custom-attribute>
+    </custom-attributes>
+    <folder-links>
+      <classification-link folder-id="designer"/>
+    </folder-links>
+  </content>
+  <content content-id="designer-15">
+    <display-name xml:lang="x-default">Michael Weihe</display-name>
+    <online-flag>true</online-flag>
+    <searchable-flag>false</searchable-flag>
+    <page-attributes/>
+    <custom-attributes>
+      <custom-attribute attribute-id="blockText" xml:lang="zh-cn">&lt;p&gt;我在 2000  年在  Georg&amp;nbsp;Jensen  银匠工作室学成，成为一名银匠。  2001  年我开始  Weihe  银匠工作室，现在在丹麦哈泽斯莱乌有一个工作室和（星期日）商店。我喜欢运用自然元素作为我构思作品时的参考，用大型的机器来制作更立体的设计。我挑出细节，加以完善，再把它们重新做成首饰。 &lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent1" xml:lang="zh-cn">&lt;p&gt;阳光灿烂， Michael 和他的女友就像他们期待的样子&amp;nbsp; -&amp;nbsp; 哥本哈根的游客。&lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent2" xml:lang="zh-cn">&lt;p&gt;我们同意在哥本哈根的 Glyptotek 公园见面。 " 这里有一个美好的小精灵。没有比这更贴切不过的了。。。 " &lt;/p&gt;</custom-attribute>
+    </custom-attributes>
+    <folder-links>
+      <classification-link folder-id="designer"/>
+    </folder-links>
+  </content>
+  <content content-id="designer-16">
+    <display-name xml:lang="x-default">Nicolas Aagaard</display-name>
+    <online-flag>true</online-flag>
+    <searchable-flag>false</searchable-flag>
+    <page-attributes/>
+    <custom-attributes>
+      <custom-attribute attribute-id="blockText" xml:lang="zh-cn">&lt;p&gt;能成为丹麦镯品的一份子真是难以置信的兴奋，尤其是我是家族的第三代丹麦镯品设计师。丹麦镯品历史久远，我可以向身边众多经验丰富的银匠学习。&lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent1" xml:lang="zh-cn">&lt;p&gt;当我制作珠珠，我试着给它赋予生命。这些珠珠的存在必有价值。对我来说丹麦镯品并不只是首饰，每颗珠珠都有生命，灵魂和故事。&lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent2" xml:lang="zh-cn">&lt;p&gt;&lt;/p&gt;&lt;p&gt;Nicolas 不需做作就便可让人觉得愉悦，是男孩与男人间的完美混合体。 &lt;/p&gt;</custom-attribute>
+    </custom-attributes>
+    <folder-links>
+      <classification-link folder-id="designer"/>
+    </folder-links>
+  </content>
+  <content content-id="designer-17">
+    <display-name xml:lang="x-default">Ragnar R. Jørgensen</display-name>
+    <online-flag>true</online-flag>
+    <searchable-flag>false</searchable-flag>
+    <page-attributes/>
+    <custom-attributes>
+      <custom-attribute attribute-id="blockText" xml:lang="zh-cn">&lt;p&gt;Ragnar R. Jørgensen在美国和丹麦接受专业的金饰训练，并且从在丹麦、瑞典、挪威、美国与珠宝首饰打交道的过程中获得了宝贵而且独特的经验。Ragnar R. Jørgensen现在是丹麦最著名的珠宝设计师之一，并且在哥本哈根有自己的工作室。&lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent1" xml:lang="zh-cn">&lt;p&gt;在这样国际化的背景下，Ragnar R. Jørgensen融合了传统的斯堪的纳维亚设计风格和精致优雅的大陆风格，这种融合早就了他独特的设计风格，这种风格在他的作品中都得以展现。&lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent2" xml:lang="zh-cn">&lt;p&gt;每一个线条，曲线和边缘，都被精心设计。&lt;/p&gt;&lt;p&gt;虽然常常深藏不露，但是每个设计背后都有独特的故事和深刻的含义。&lt;/p&gt;</custom-attribute>
+    </custom-attributes>
+    <folder-links>
+      <classification-link folder-id="designer"/>
+    </folder-links>
+  </content>
+  <content content-id="designer-18">
+    <display-name xml:lang="x-default">Ričardas Kapučinskas</display-name>
+    <online-flag>true</online-flag>
+    <searchable-flag>false</searchable-flag>
+    <page-attributes/>
+    <custom-attributes>
+      <custom-attribute attribute-id="blockText" xml:lang="zh-cn">&lt;p&gt;我喜欢琉璃的性质。颜色丰富，我就是喜欢成品。过去 5  年里我一直梦想可以制作琉璃，大概在一年半前我终于有机会实现了。 &lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent1" xml:lang="zh-cn">&lt;p&gt;戴上耳机大声的听着交响乐让进入我最佳的工作状态，我的灵感来自音乐和各式各样饱含耐人寻味的文化背景的艺术品。&lt;/p&gt;&lt;p&gt;我和 Rasa 有十分幸福的婚姻，我们有一个儿子交 Kristijonas 。&lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent2" xml:lang="zh-cn">&lt;p&gt;闲时我喜欢和我的铜管乐队 Orkestra 练歌，观看与历史、自然有关的节目。我也喜欢钓鱼和散步。 &lt;/p&gt;&lt;p&gt;(&amp;nbsp;1968&amp;nbsp;-&amp;nbsp;2010&amp;nbsp;)&lt;/p&gt;</custom-attribute>
+    </custom-attributes>
+    <folder-links>
+      <classification-link folder-id="designer"/>
+    </folder-links>
+  </content>
+  <content content-id="designer-19">
+    <display-name xml:lang="x-default">Signe M. Schumann</display-name>
+    <online-flag>true</online-flag>
+    <searchable-flag>false</searchable-flag>
+    <page-attributes/>
+    <custom-attributes>
+      <custom-attribute attribute-id="blockText" xml:lang="zh-cn">&lt;p&gt;从 2000  夏天年开始我已经在  Lise&amp;nbsp;Aagaard  这里当银匠。日夜被丹麦镯品围绕，这就自然发生了，我设计了生平的第一粒珠珠。我的姓是  Schumann  ，丹麦有名的巡回马戏团，  S  ø  ren&amp;nbsp;Nielsen  有次对我说，既然叫这个名字就应该来做个马戏团首饰！这就是我设计马戏团小丑的原因。 &lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent1" xml:lang="zh-cn">&lt;p&gt;小孩和狗都趴在她身上。就像暴风眼中的石头一样平静，她坐在阳光下阅读 Morty&amp;nbsp;Mechanic 写的故事书。&lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent2" xml:lang="zh-cn">&lt;p&gt;这是一个普通的下午。 &lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;</custom-attribute>
+    </custom-attributes>
+    <folder-links>
+      <classification-link folder-id="designer"/>
+    </folder-links>
+  </content>
+  <content content-id="designer-20">
+    <display-name xml:lang="x-default">Svend Nielsen</display-name>
+    <online-flag>true</online-flag>
+    <searchable-flag>false</searchable-flag>
+    <page-attributes/>
+    <custom-attributes>
+      <custom-attribute attribute-id="blockText" xml:lang="zh-cn">&lt;p&gt;" 我在  1932  年与其他  8  个人一起开始学徒生涯一直到  1937  年。那时候，在手链上挂上吉祥小物品是完全创新的构思  ...  甚至有报纸会为这事做报导！我们把黄金做成的小水桶和小铲子挂在手链上。 &lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent1" xml:lang="zh-cn">&lt;p&gt;我们做出来的东西必须要卖完！！！他们不想我们的东西太艺术！但是可以设计得 " 有一点与众不同 " ， " 有点创新 " 。这是允许的。 &lt;/p&gt;&lt;p&gt;我被分配在做链子和链条的助理旁边&amp;nbsp; -&amp;nbsp; 我们相处得很好&amp;nbsp; -&amp;nbsp; 我们通常会用掉工厂里六分之五的黄金。我们用金属板和线材来制作所有的东西。一年之后那个助理就不做了，我很幸运地已经掌握了需要的技能。 &lt;/p&gt;&lt;p&gt;在完成学徒训练之后我只休息了很短的时间&amp;nbsp; -&amp;nbsp; 之后我就可我的朋友 Carl 到罗马加入了海军。那个秋天我跟随了一个金匠，我们制作了很多白金和铂金的东西。&lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent2" xml:lang="zh-cn">&lt;p&gt;除了夏天，我和 Inga 会一起从巴黎骑自行车去瑞士。 &lt;/p&gt;&lt;p&gt;之后德国人进攻波兰 - 改编了安全部队 - 我被送回家乡 - 从新回去制作白金 - 然后，在 4 月 9 号我申请到一个在 Person 和&amp;nbsp; Ø sterberg 那边的职位&amp;nbsp; -&amp;nbsp; 老同事&amp;nbsp; -&amp;nbsp; 对我来说是段轻松的时光，他们甚至没有注意到我的存在。 &lt;/p&gt;&lt;p&gt;从 1945 年我开始在 Kultorvet 然后到 Klaraboderne 单独工作。 &lt;/p&gt;&lt;p&gt;(1917&amp;nbsp;-&amp;nbsp;2007).&lt;/p&gt;</custom-attribute>
+    </custom-attributes>
+    <folder-links>
+      <classification-link folder-id="designer"/>
+    </folder-links>
+  </content>
+  <content content-id="designer-21">
+    <display-name xml:lang="x-default">Tom Blicher</display-name>
+    <online-flag>true</online-flag>
+    <searchable-flag>false</searchable-flag>
+    <page-attributes/>
+    <custom-attributes>
+      <custom-attribute attribute-id="blockText" xml:lang="zh-cn">&lt;p&gt;Tom&amp;nbsp;Blicher 从  1992  年开始在自己的工作室设计珠宝。 &lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent1" xml:lang="zh-cn">&lt;p&gt;他的灵感来自于自然的结构与动态，和在里面找到的线条。这些线条会体现在 Tom 设计的首饰里面。他是这样形容他的创作过程的： &lt;/p&gt;&lt;p&gt;我设计自己的首饰，每个作品都是一个独立的小雕刻品。在我的想象中它们都是一个大型的雕像。他们的线条和动态必须支援这样的放大才能完整的浮现在我的眼前。&lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent2" xml:lang="zh-cn">&lt;p&gt;&lt;/p&gt;&lt;p&gt;他站在自己圆形的温室前面看上去就象是个快乐的神像。在他的脑海里浮现出一个衣不蔽体的女神向他冷笑，他的身边围绕着茂密错落有致的橄榄树，香蕉树和风信子。 Tom 沉醉在他自己的世界里。 &lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;</custom-attribute>
+    </custom-attributes>
+    <folder-links>
+      <classification-link folder-id="designer"/>
+    </folder-links>
+  </content>
+  <content content-id="designer-22">
+    <display-name xml:lang="x-default">Trine Tanja Falsled</display-name>
+    <online-flag>true</online-flag>
+    <searchable-flag>false</searchable-flag>
+    <page-attributes/>
+    <custom-attributes>
+      <custom-attribute attribute-id="blockText" xml:lang="zh-cn">&lt;p&gt;制作珠珠是一个兴奋的过程。首先我会整理动物之间的联系。然后我会把那个动物的特征尽量细致的描述出来。我在 Svend&amp;nbsp;Nielsen  当学徒的时候设计了我大部分的作品，很兴奋的看到这些设计现在已经变成快变成一整个动物园了！我希望你们满意这些珠珠。 &lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent1" xml:lang="zh-cn">&lt;p&gt;" 我穿上跑步鞋，奔跑出前门，在蓝天下滚滚的玉米田中。&lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent2" xml:lang="zh-cn">&lt;p&gt;实在是太美好了。 " &lt;/p&gt;</custom-attribute>
+    </custom-attributes>
+    <folder-links>
+      <classification-link folder-id="designer"/>
+    </folder-links>
+  </content>
+  <content content-id="designer-24">
+    <display-name xml:lang="x-default">Eske Storm</display-name>
+    <online-flag>true</online-flag>
+    <searchable-flag>false</searchable-flag>
+    <page-attributes/>
+    <custom-attributes>
+      <custom-attribute attribute-id="blockText" xml:lang="zh-cn">&lt;p&gt;Eske&amp;nbsp;Storm 毕业于在墨西哥塔斯克的艺术学校，在丹麦哥本哈根的  Hertz&amp;nbsp;&amp;amp;&amp;nbsp;Jakobsen  学成金匠课程的。他在丹麦艺术与手工比赛中获得铜奖，并在  2001  年在哥本哈根市中心的  trollbeads  总部办公司旁边开了自己的商店。他的顾客有来自皇说室到奥斯陆的自由小城的人都有。 &lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent1" xml:lang="zh-cn">&lt;p&gt;" 我喜欢在真实的空间中工作&amp;nbsp; -&amp;nbsp; 你可以叫这里做典型的丹麦设计空间，不过这其实是我自己私人的空间。我的灵感主要来自于在世界各地旅行的经历和当地的文化。我深受北欧古老神话的影响。你可以叫我的设计为 - 维京珠宝。 " &lt;/p&gt;&lt;p&gt;" 对我来说在 trollbeads 的空间里工作是一个非常自然的过程。&lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent2" xml:lang="zh-cn">&lt;p&gt;我在 6-7 岁的时候就刻了我的第一粒格陵兰鸡血石，在同一时期我也刻了我的第一个大象微雕，时至今日，已经改造成象扣。 " &lt;/p&gt;&lt;p&gt;我已经穿过篱笆去到了 " 涂鸦天堂 " ，包围着我的是，废墟与野花，这是最惊人的涂鸦。 " 这里难道不是很不可思议吗？ " &lt;/p&gt;</custom-attribute>
+    </custom-attributes>
+    <folder-links>
+      <classification-link folder-id="designer"/>
+    </folder-links>
+  </content>
+  <content content-id="designer-25">
+    <display-name xml:lang="x-default">Gabriele Weber-Vögele</display-name>
+    <online-flag>true</online-flag>
+    <searchable-flag>false</searchable-flag>
+    <page-attributes/>
+    <custom-attributes>
+      <custom-attribute attribute-id="blockText" xml:lang="zh-cn">&lt;p&gt;Gabriele&amp;nbsp;Weber-V ö  gele  从  1982  年就开始从金匠工作。她在德国居住和工作，自  1992  年获得硕士学位之后她在这里开设了自己的商铺和从事金匠的工作。 &lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent1" xml:lang="zh-cn">&lt;p&gt;" 我喜欢创作独一无二，没有人能比拟的特别设计，我经常使用象征着生命中的某个时刻作细节。从 2006 开始销售 TROLLBEADS, 我非常吃惊有多少人把这些珠和自己生命中的特别时刻联系在一起。&lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent2" xml:lang="zh-cn">&lt;p&gt;" &lt;/p&gt;&lt;p&gt;" 现在住在（德国） Sylt 小岛生活，我受周围的环境所影响。理所当然会联想到灯塔珠，还有 TROLLBEADS 精神，把小小的银块变成感觉，梦想，情绪。 " &lt;/p&gt;</custom-attribute>
+    </custom-attributes>
+    <folder-links>
+      <classification-link folder-id="designer"/>
+    </folder-links>
+  </content>
+  <content content-id="designer-26">
+    <display-name xml:lang="x-default">Tomas Cenius</display-name>
+    <online-flag>true</online-flag>
+    <searchable-flag>false</searchable-flag>
+    <page-attributes/>
+    <custom-attributes>
+      <custom-attribute attribute-id="blockText" xml:lang="zh-cn">&lt;p&gt;自学成才的设计师 Tomas&amp;nbsp;Cenius  形容他自己的风格为简洁的北欧设计与形象化结构相结合。 &lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent1" xml:lang="zh-cn">&lt;p&gt;他用黏土制作漫画人物之后到 S ø ren&amp;nbsp;Nielsen 那里学习用蜡做模型的艺术，从这开始了他的职业生涯。在 S ø ren 的指导之下，他成为了工艺大师并得到了 " 季节 " 指环的美名。他为曾为丹麦王储 Frederik 王储妃 Mary 设计珠宝，但他更喜欢设计任何人都可以负担与享受的首饰。 &lt;/p&gt;&lt;p&gt;"&lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent2" xml:lang="zh-cn">&lt;p&gt;我最大的愿望就是可以制作出美丽的首饰来感动所有人。我对每个出品都是同样的重视，不论是给尊贵的皇储夫妇还是隔壁的邻居女士。 " &lt;/p&gt;&lt;p&gt;" 与丹麦镯品合作的时候，我喜欢我是为了人类情感而设计。 " &lt;/p&gt;&lt;p&gt;" 我的偶像是 Kaj&amp;nbsp;Nielsen ，一个伟大的模型塑造者。他教我最重要的雕刻工具就是：使用阴影边界来制作！ " &lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;</custom-attribute>
+    </custom-attributes>
+    <folder-links>
+      <classification-link folder-id="designer"/>
+    </folder-links>
+  </content>
+  <content content-id="designer-27">
+    <display-name xml:lang="x-default">Allan Bayer</display-name>
+    <online-flag>true</online-flag>
+    <searchable-flag>false</searchable-flag>
+    <page-attributes/>
+    <custom-attributes>
+      <custom-attribute attribute-id="blockText" xml:lang="zh-cn">&lt;p&gt;Allan&amp;nbsp;Bayer 出生于  1974  年，他是在著名设计师  Jytte&amp;nbsp;Kl  ø  ve  的辅导下成为金匠的。在  2007  年，他在哥本哈根开了工作室  /  商店。 &lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent1" xml:lang="zh-cn">&lt;p&gt;在 Allan&amp;nbsp;Bayer 对萨满教与大自然之间的热爱，还有曾经是迷恋繁忙城市生活的机械工程师，制作出美丽和逼真到极致的首饰。 &lt;/p&gt;&lt;p&gt;Allan 的首饰灵感是来自于大自然里错中复杂的结构。他极度专注设计的细节，务求每个创作都忠于他们的自然形态。&lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent2" xml:lang="zh-cn">&lt;p&gt;&lt;/p&gt;&lt;p&gt;用他自己的话说，他是一个真实的城市怪胎，试图把现代社会与自然，力量和感情，摇滚乐与拥抱大树结合起来。&lt;/p&gt;&lt;p&gt;Allan 作品的关键字就是运动与发展，冒险与率直。 &lt;/p&gt;&lt;p&gt;这是 Allan 内心平静的一面，就像一颗老橡树&amp;nbsp; -&amp;nbsp; 一颗种植在年轻男子身体里的百年橡树。 &lt;/p&gt;</custom-attribute>
+    </custom-attributes>
+    <folder-links>
+      <classification-link folder-id="designer"/>
+    </folder-links>
+  </content>
+  <content content-id="designer-28">
+    <display-name xml:lang="x-default">Suzanne Marie Hopping</display-name>
+    <online-flag>true</online-flag>
+    <searchable-flag>false</searchable-flag>
+    <page-attributes/>
+    <custom-attributes>
+      <custom-attribute attribute-id="blockText" xml:lang="zh-cn">&lt;p&gt;Suzanne 住在雪梨，是个自认喜欢吃辣，炎热天气，和任何与艺术、设计、摄影、绘画相关的意大利人。除了对丹麦镯品上瘾之外，她还是个恋狗狂。她最近收养了一直  3  岁曾经参加赛狗，名叫  "  突然间流行  "  的灰狗。现在改名为爱丽丝珍珠。 &lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent1" xml:lang="zh-cn">&lt;p&gt;Suzanne 是一个专业的平面设计师，已从事出版公司多年。在澳洲版的 Cosmopolitan 当了 12 年的美术指导后，她转向挑战自由职业者的工作。 &lt;/p&gt;&lt;p&gt;" 我对 People's&amp;nbsp;Bead 的定义是一个可以跟所有人产生某种形式上的连结，影响和共鸣的物体。&lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent2" xml:lang="zh-cn">&lt;p&gt;我希望可以超越性别与时代，那么任何年龄的男人和女人都可以自豪地戴着它。 &lt;/p&gt;&lt;p&gt;和平是我内心深处的憧憬，在二次世界大战德国战俘营里，被俘虏的爸爸妈妈在里面相遇，他们经受的痛苦给我深刻的印象。&lt;/p&gt;&lt;p&gt;我绝对没有料到会赢得比赛！ " &lt;/p&gt;</custom-attribute>
+    </custom-attributes>
+    <folder-links>
+      <classification-link folder-id="designer"/>
+    </folder-links>
+  </content>
+  <content content-id="designer-29">
+    <display-name xml:lang="x-default">Benedetta Romita</display-name>
+    <online-flag>true</online-flag>
+    <searchable-flag>false</searchable-flag>
+    <page-attributes/>
+    <custom-attributes>
+      <custom-attribute attribute-id="blockText" xml:lang="zh-cn">&lt;p&gt;我在 1976  年出生于罗马，与  trollbeads  诞生同年，从孩童时期开始我已经每天画画。 &lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent1" xml:lang="zh-cn">&lt;p&gt;我拥有 Liceo 学校的意大利中学教师学位，主修科学研究，但最终我还是在罗马的 Moda 服装设计学院以满分和荣誉学士佳绩拿到戏服和服装学位。 &lt;/p&gt;&lt;p&gt;我的艺术背景主要是来自于我对鞋子，包包这些东西和制作这些东西的过程的喜爱，我也喜欢童话里的东西，当 2007 年十月发现 trollbeads 的时候，我马上就想： " 终于找到我的首饰了。 "&lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent2" xml:lang="zh-cn">&lt;p&gt;&lt;/p&gt;&lt;p&gt;我在自己的创作，绘画和拼图中更容易抒发自我，灵感和感觉会来找我，看，新的创作就诞生了。&lt;/p&gt;&lt;p&gt;我一天中最喜欢的两个时段就是在日出破晓之前，还有法文里叫 "lheure&amp;nbsp;bleu" 的时刻，就是日落与夜幕降临之间的时间。开始所有的东西会变成粉红色，之后在全部变成蓝色。 &lt;/p&gt;&lt;p&gt;这就是我。&lt;/p&gt;&lt;p&gt;&amp;nbsp;(1976-2011)&lt;/p&gt;</custom-attribute>
+    </custom-attributes>
+    <folder-links>
+      <classification-link folder-id="designer"/>
+    </folder-links>
+  </content>
+  <content content-id="designer-30">
+    <display-name xml:lang="x-default">Jamie North</display-name>
+    <online-flag>true</online-flag>
+    <searchable-flag>false</searchable-flag>
+    <page-attributes/>
+    <custom-attributes>
+      <custom-attribute attribute-id="blockText" xml:lang="zh-cn">&lt;p&gt;Jamie&amp;nbsp;North住在加拿大卡尔加里，她是一个狂热的手工串珠者，拥有超过5年饰品设计师和讲师经验。&lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent1" xml:lang="zh-cn">&lt;p&gt;"这粒珠的概念是源自我对动物的喜爱，特别是狗，也包括全部的动物。对宠物的爱是史上所有人的共通点。&lt;/p&gt;&lt;p&gt;很多人类欣赏的素养和行为期中一些是来自于我们心爱的宠物，忠诚，宽容，无歧视，包容，谦逊，无条件的爱等等只是其中的小部分。&lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent2" xml:lang="zh-cn">&lt;p&gt;如果每个人待人都可以像我们的宠物对主人那么善良的话，世界一定更加美好。&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;</custom-attribute>
+    </custom-attributes>
+    <folder-links>
+      <classification-link folder-id="designer"/>
+    </folder-links>
+  </content>
+  <content content-id="designer-31">
+    <display-name xml:lang="x-default">Marjoke van de Plassche</display-name>
+    <online-flag>true</online-flag>
+    <searchable-flag>false</searchable-flag>
+    <page-attributes/>
+    <custom-attributes>
+      <custom-attribute attribute-id="blockText" xml:lang="zh-cn">&lt;p&gt;我是一个生物学家，这是为什么我的很多设计意念都是在自然和环境的议题里取材。我是在一年前才开始设计首饰的，就在附近的艺术中心接受金匠训练之后，我就开始欲罢不能了。&lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent1" xml:lang="zh-cn">&lt;p&gt;我为打造金属各种惊人的可能性感到兴奋，上釉的过程特别吸引我。我喜欢纯银上的透明的琉璃组合。&lt;/p&gt;&lt;p&gt;除了生物学者与饰品爱好者的身份之外，我还是三个孩子的妈妈，我的生活非常忙碌。很多想法都是我在做洗衣服，刷盘子和换尿布这些琐事的时候产生的。&lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent2" xml:lang="zh-cn">&lt;p&gt;唯一的问题是我的想法永远比时间多。&lt;/p&gt;&lt;p&gt;在 trollbeads 成长为一个国际机构的同时，我希望可以在系列里加入一粒有关环保的珠。祈望可以带来正面的改变。希望通过我的设计给小孩子建立更好的世界&amp;nbsp; -&amp;nbsp; 当然包括我的。 " &lt;/p&gt;</custom-attribute>
+    </custom-attributes>
+    <folder-links>
+      <classification-link folder-id="designer"/>
+    </folder-links>
+  </content>
+  <content content-id="designer-32">
+    <display-name xml:lang="x-default">Amelia (Milly) Page</display-name>
+    <online-flag>true</online-flag>
+    <searchable-flag>false</searchable-flag>
+    <page-attributes/>
+    <custom-attributes>
+      <custom-attribute attribute-id="blockText" xml:lang="zh-cn">&lt;p&gt;Milly&amp;nbsp;Page 是澳洲墨尔本的学生。她从  8  岁开始加入合唱团，她说  "  音乐和丹麦镯品是他的两个爱好。  "&amp;nbsp;Milly  把这两个爱好完美的结合成  Hallelujah  珠。 &lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent1" xml:lang="zh-cn">&lt;p&gt;" 音乐在人类的生活占有重要地位，跨越所有语言和文化的隔阂。&lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent2" xml:lang="zh-cn">&lt;p&gt;对我来说， Handel's&amp;nbsp;Messiah 唱的 Hallelujah 颂歌特别能够传达这份纯真快乐的感觉。 " &lt;/p&gt;</custom-attribute>
+    </custom-attributes>
+    <folder-links>
+      <classification-link folder-id="designer"/>
+    </folder-links>
+  </content>
+  <content content-id="designer-33">
+    <display-name xml:lang="x-default">Kristian Krysfeldt</display-name>
+    <online-flag>true</online-flag>
+    <searchable-flag>false</searchable-flag>
+    <page-attributes/>
+    <custom-attributes>
+      <custom-attribute attribute-id="blockText" xml:lang="zh-cn">&lt;p&gt;&amp;nbsp;Trollbeads 是一个有趣又充满挑战的表现自我方式。一手拿着尽心打造的项鍊和链扣作框架，同时又开放了纯银制成的都术语，印象，经验和动物的世界。给予冒险家一个探险的天堂，就象是我的  … &lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent1" xml:lang="zh-cn">&lt;p&gt;"" 我迷恋云朵 - 我的女友说我拍云的图片比我家儿子的还多 - 她说的没错。&lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent2" xml:lang="zh-cn">&lt;p&gt;" &lt;/p&gt;</custom-attribute>
+    </custom-attributes>
+    <folder-links>
+      <classification-link folder-id="designer"/>
+    </folder-links>
+  </content>
+  <content content-id="designer-34">
+    <display-name xml:lang="x-default">Anna - Qing Shao Mej</display-name>
+    <online-flag>true</online-flag>
+    <searchable-flag>false</searchable-flag>
+    <page-attributes/>
+    <custom-attributes>
+      <custom-attribute attribute-id="blockText" xml:lang="zh-cn">&lt;p&gt;Anna 来自中国南方广东省的一个小城市。她是一个大型饰品公司的设计师，在那里她学到设计的技术并发展处她自己独特的风格。她的梦想环游世界，更重要的是在  2012  年之前和男友结婚。 &lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent1" xml:lang="zh-cn"/>
+      <custom-attribute attribute-id="blockContent2" xml:lang="zh-cn"/>
+    </custom-attributes>
+    <folder-links>
+      <classification-link folder-id="designer"/>
+    </folder-links>
+  </content>
+  <content content-id="designer-35">
+    <display-name xml:lang="x-default">Nicolai Appel</display-name>
+    <online-flag>true</online-flag>
+    <searchable-flag>false</searchable-flag>
+    <page-attributes/>
+    <custom-attributes>
+      <custom-attribute attribute-id="blockText" xml:lang="zh-cn">&lt;p&gt;出生在 1966  年丹麦哥本哈根。在  Georg&amp;nbsp;Jensen  当金匠学徒，  1996  年在  Institute&amp;nbsp;of&amp;nbsp;Precious&amp;nbsp;Metals  学习设计。参与了国内与国际上的多个展览。为  Stelton  设计和完成  IT&amp;nbsp;University&amp;nbsp;Rector's&amp;nbsp;Chain  的工作。在  2006  年，为格陵兰的黄金珠宝绘制北极熊印章。  Galerie&amp;nbsp;Metal  的成员和创始人之一。 &lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent1" xml:lang="zh-cn"/>
+      <custom-attribute attribute-id="blockContent2" xml:lang="zh-cn"/>
+    </custom-attributes>
+    <folder-links>
+      <classification-link folder-id="designer"/>
+    </folder-links>
+  </content>
+  <content content-id="designer-36">
+    <display-name xml:lang="x-default">Kasia Gasparski</display-name>
+    <online-flag>true</online-flag>
+    <searchable-flag>false</searchable-flag>
+    <page-attributes/>
+    <custom-attributes>
+      <custom-attribute attribute-id="blockText" xml:lang="zh-cn">&lt;p&gt;1990 至  1994  年间，  Kasia&amp;nbsp;Gasparski  在  Jytte&amp;nbsp;Klove  的指导下成为金匠。  1996  年开设个人工作室和展场，  "Guldkompagniet,"  位于哥本哈根中心。她使用平面风格，加入简单具代表性的效果。在  1996  年她得到了三项丹麦美术基金会的奖金，她的作品可以在丹麦和国际的展览中看到。 &lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent1" xml:lang="zh-cn"/>
+      <custom-attribute attribute-id="blockContent2" xml:lang="zh-cn"/>
+    </custom-attributes>
+    <folder-links>
+      <classification-link folder-id="designer"/>
+    </folder-links>
+  </content>
+  <content content-id="designer-37">
+    <display-name xml:lang="x-default">Joseph Norah</display-name>
+    <online-flag>true</online-flag>
+    <searchable-flag>false</searchable-flag>
+    <page-attributes/>
+    <custom-attributes>
+      <custom-attribute attribute-id="blockText" xml:lang="zh-cn">&lt;p&gt;当 Joseph  住在丹麦的时候，曾是丹麦镯品团队的一员。 &lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent1" xml:lang="zh-cn">&lt;p&gt;但当他搬到赛席尔从事木制艺品工作时，他说：我宁愿回去做琉璃 ! &lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent2" xml:lang="zh-cn"/>
+    </custom-attributes>
+    <folder-links>
+      <classification-link folder-id="designer"/>
+    </folder-links>
+  </content>
+  <content content-id="designer-38">
+    <display-name xml:lang="x-default">Alessia Fatone</display-name>
+    <online-flag>true</online-flag>
+    <searchable-flag>false</searchable-flag>
+    <page-attributes/>
+    <custom-attributes>
+      <custom-attribute attribute-id="blockText" xml:lang="zh-cn">&lt;p&gt;我出生于 1970  年，并一直热衷于手工艺术。早在孩童时期一次在穆拉诺岛美妙旅行之后，我就对玻璃艺术  "  一见钟情  "  ，但我是在  30  岁的时候才在托斯卡纳第一次上玻璃制作的课，我在那里认识了  Lise&amp;nbsp;Aagaard  ，美妙的事情发生了。现在我拥有自己的工作室，并以制作玻璃，饰品和有趣的小东西为生。 &lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent1" xml:lang="zh-cn"/>
+      <custom-attribute attribute-id="blockContent2" xml:lang="zh-cn"/>
+    </custom-attributes>
+    <folder-links>
+      <classification-link folder-id="designer"/>
+    </folder-links>
+  </content>
+  <content content-id="designer-39">
+    <display-name xml:lang="x-default">Gail Crosman Moore</display-name>
+    <online-flag>true</online-flag>
+    <searchable-flag>false</searchable-flag>
+    <page-attributes/>
+    <custom-attributes>
+      <custom-attribute attribute-id="blockText" xml:lang="zh-cn">&lt;p&gt;我想我需要一些时间去告诉你我的爱好 …  我需要创作。从纤维，玻璃，陶瓷，金属，纸张制作的东西，没有一个材料是安全的！我的另一需要就是把我的创作从二维带到三维。颜色，结构和质地使我身心欢畅。 &lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent1" xml:lang="zh-cn"/>
+      <custom-attribute attribute-id="blockContent2" xml:lang="zh-cn"/>
+    </custom-attributes>
+    <folder-links>
+      <classification-link folder-id="designer"/>
+    </folder-links>
+  </content>
+  <content content-id="designer-40">
+    <display-name xml:lang="x-default">Kathy Perras</display-name>
+    <online-flag>true</online-flag>
+    <searchable-flag>false</searchable-flag>
+    <page-attributes/>
+    <custom-attributes>
+      <custom-attribute attribute-id="blockText" xml:lang="zh-cn">&lt;p&gt;常常有以老虎为中心的神秘主义和神话。纵观历史，老虎被赋予冒险，权利，热情和性感的象征。这个设计容许我用图腾来展现他们的能量。我希望戴上老虎珠可以让你勇敢迈向冒险旅途，从新燃起对生活的热情。&lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent1" xml:lang="zh-cn"/>
+      <custom-attribute attribute-id="blockContent2" xml:lang="zh-cn"/>
+    </custom-attributes>
+    <folder-links>
+      <classification-link folder-id="designer"/>
+    </folder-links>
+  </content>
+  <content content-id="designer-41">
+    <display-name xml:lang="x-default">Patti Dougherty</display-name>
+    <online-flag>true</online-flag>
+    <searchable-flag>false</searchable-flag>
+    <page-attributes/>
+    <custom-attributes>
+      <custom-attribute attribute-id="blockText" xml:lang="zh-cn">&lt;p&gt;Patti&amp;nbsp;Dougherty 有  Maryland&amp;nbsp;Institute&amp;nbsp;of&amp;nbsp;Contemporary&amp;nbsp;Art  的艺术硕士学位和  Tyler&amp;nbsp;School&amp;nbsp;of&amp;nbsp;Art,&amp;nbsp;Temple&amp;nbsp;University  的艺术学士学位。她的作品已刊登在  ""  串珠艺术家  "&amp;nbsp;"  琉璃艺术  "  等许多手工艺术杂志里。  Patti  的琉璃珠灵感主要来自于天然和自然气象，如火山爆发，珊瑚形成，原始化石，她的作品在美国和丹麦都有展出。 &lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent1" xml:lang="zh-cn"/>
+      <custom-attribute attribute-id="blockContent2" xml:lang="zh-cn"/>
+    </custom-attributes>
+    <folder-links>
+      <classification-link folder-id="designer"/>
+    </folder-links>
+  </content>
+  <content content-id="designer-42">
+    <display-name xml:lang="x-default">Paula Radke</display-name>
+    <online-flag>true</online-flag>
+    <searchable-flag>false</searchable-flag>
+    <page-attributes/>
+    <custom-attributes>
+      <custom-attribute attribute-id="blockText" xml:lang="zh-cn">&lt;p&gt;通过版画，银器铸造，陶瓷等艺术媒介， Paula  在琉璃制作里找到她的兴趣。利用  "  分色  "  的程序，她制作出从不同角度看会变色的琉璃珠。她的产品已经可以在接近  1000  个网点销售，包括如  A.C.&amp;nbsp;Moores,&amp;nbsp;Michaels  这些饰品设计是专柜和工艺品店。 &lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent1" xml:lang="zh-cn"/>
+      <custom-attribute attribute-id="blockContent2" xml:lang="zh-cn"/>
+    </custom-attributes>
+    <folder-links>
+      <classification-link folder-id="designer"/>
+    </folder-links>
+  </content>
+  <content content-id="designer-43">
+    <display-name xml:lang="x-default">Charlotte Lynggaard</display-name>
+    <online-flag>true</online-flag>
+    <searchable-flag>false</searchable-flag>
+    <page-attributes/>
+    <custom-attributes>
+      <custom-attribute attribute-id="blockText" xml:lang="zh-cn">&lt;p&gt;Charlotte 的设计理念就是首饰是在隆重和休闲的场合都可以佩戴的 &lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent1" xml:lang="zh-cn">&lt;p&gt;在丹麦， Charlotte&amp;nbsp;Lynggaard 被认为是潮流指标。她已是三个孩子的妈妈，经常参加电视台有关流行趋势预告的访问。她个人风格着重发挥&amp;nbsp;女性化，同时兼具时尚，高雅，永不过时。&lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent2" xml:lang="zh-cn">&lt;p&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;对她来说，饰品一定要引人注目，要传神，让人过目不忘。 Charlotte&amp;nbsp;Lynggaard 把这种精神灌输到她夺目的设计里面，把高雅注入女性化的设计里。 . &lt;/p&gt;</custom-attribute>
+    </custom-attributes>
+    <folder-links>
+      <classification-link folder-id="designer"/>
+    </folder-links>
+  </content>
+  <content content-id="designer-44">
+    <display-name xml:lang="x-default">Thor Høy</display-name>
+    <online-flag>true</online-flag>
+    <searchable-flag>false</searchable-flag>
+    <page-attributes/>
+    <custom-attributes>
+      <custom-attribute attribute-id="blockText" xml:lang="zh-cn">&lt;p&gt;每个去过的地方，都为我带来灵感 …  从一盏灯，一件家具，一个装潢设计的机器，还是  …  一颗精灵珠  …  它可能在野外或是城市，一段旅程或是跟孩子呆在家里，在劳力工作或艺术创作，在动物或人类之间  …  trollbeads  可以容纳图像与幻想，逻辑与冒险，我因身为其中一员而自豪  … &lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent1" xml:lang="zh-cn"/>
+      <custom-attribute attribute-id="blockContent2" xml:lang="zh-cn"/>
+    </custom-attributes>
+    <folder-links>
+      <classification-link folder-id="designer"/>
+    </folder-links>
+  </content>
+  <content content-id="designer-45">
+    <display-name xml:lang="x-default">Anna Hyllested</display-name>
+    <online-flag>true</online-flag>
+    <searchable-flag>false</searchable-flag>
+    <page-attributes/>
+    <custom-attributes>
+      <custom-attribute attribute-id="blockText" xml:lang="zh-cn">&lt;p&gt;生于 1973  年，  Anna&amp;nbsp;Hyllested1999  年在  Per&amp;nbsp;Borup&amp;nbsp;Design  接受金匠训练。从  2001  年期她在哥本哈根与丈夫  Peter&amp;nbsp;Krebs  开设了  Krebs&amp;nbsp;Hyllested  工作室。 &lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent1" xml:lang="zh-cn">&lt;p&gt;过去的十几年里， Anna 在哥本哈根的工作室里为尊贵的客户群设计系列广泛的珠宝。在这里她尝试将想法用草图，模具，原型变成实物，直到做出完美的作品为止。 &lt;/p&gt;&lt;p&gt;" 对我来说，我完全沉醉于这份工作。&lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent2" xml:lang="zh-cn">&lt;p&gt;尝试结合不同材料，加工细节，不断搜寻作品最适合的表现方式，直到作品完工为止。在实际的世界里，我最关心的设计过程就是这个作品是否能够被接受。在特定的范围以内，我认为，这就是艺术。 " &lt;/p&gt;</custom-attribute>
+    </custom-attributes>
+    <folder-links>
+      <classification-link folder-id="designer"/>
+    </folder-links>
+  </content>
+  <content content-id="designer-46">
+    <display-name xml:lang="x-default">中国限量款设计师</display-name>
+    <online-flag>true</online-flag>
+    <searchable-flag>false</searchable-flag>
+    <page-attributes/>
+    <custom-attributes>
+      <custom-attribute attribute-id="blockText" xml:lang="zh-cn">&lt;p&gt;丹麦镯品邀请六位中国设计师为你展示他们眼中的中国。他们可以自由发挥创意呈现中国的不同风貌&amp;nbsp; -&amp;nbsp;  有民间传说，古老神话，到多姿多彩的现代生活&amp;nbsp;  -&amp;nbsp;  六位设计师创作了丹麦镯品限量版&amp;nbsp;  -&amp;nbsp;  中国系列。 &lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent1" xml:lang="zh-cn">&lt;p&gt;这个系列呈现了生气盎然的中华文化的小部分，从没有留下足迹就非好汉的长城，还有朴实织茧的蚕，从民间传说中的神秘生物到日常可见的活泼生动小动物。&lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent2" xml:lang="zh-cn">&lt;p&gt;&lt;/p&gt;&lt;p&gt;在愿望，快乐，爱情，成功，出入平安之间穿插着生动的翡翠色调，犹如中国农历年放的烟花一样灿烂。&lt;/p&gt;&lt;p&gt;丹麦镯品中国限量款带你窥视丰富多彩的大中华文化。&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;</custom-attribute>
+    </custom-attributes>
+    <folder-links>
+      <classification-link folder-id="designer"/>
+    </folder-links>
+  </content>
+  <content content-id="designer-47">
+    <display-name xml:lang="x-default">Nielsen-Aagaard 家族</display-name>
+    <online-flag>true</online-flag>
+    <searchable-flag>false</searchable-flag>
+    <page-attributes/>
+    <custom-attributes>
+      <custom-attribute attribute-id="blockText" xml:lang="zh-cn">&lt;p&gt;家族成员从左到右：&lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent1" xml:lang="zh-cn">&lt;p&gt;Jens&amp;nbsp;Nielsen&amp;nbsp;-&amp;nbsp;Designer&amp;nbsp;-&amp;nbsp;S ø ren&amp;nbsp;Nielsen&amp;nbsp;(aka&amp;nbsp;S ø ren&amp;nbsp;S ø lvsmed)&amp;nbsp;-&amp;nbsp;Designer&amp;nbsp;-&amp;nbsp;Lise&amp;nbsp;Aagaard&amp;nbsp;-&amp;nbsp;Designer,&amp;nbsp;CEO&amp;nbsp;of&amp;nbsp;Lise&amp;nbsp;Aagaard&amp;nbsp;Copenhagen&amp;nbsp;-&amp;nbsp;Per&amp;nbsp;Kanto-Nielsen&amp;nbsp;-&amp;nbsp;Technical&amp;nbsp;Designer&amp;nbsp;-&amp;nbsp;Peter&amp;nbsp;Aagaard&amp;nbsp;-&amp;nbsp;VP&amp;nbsp;of&amp;nbsp;Lise&amp;nbsp;Aagaard&amp;nbsp;Copenhagen&amp;nbsp;-&amp;nbsp;Isabel&amp;nbsp;Aagaard&amp;nbsp;-&amp;nbsp;Designer&amp;nbsp;-&amp;nbsp;Nicolas&amp;nbsp;Aagaard&amp;nbsp;-&amp;nbsp;Designer&amp;nbsp;-&amp;nbsp;Svend&amp;nbsp;Nielsen&amp;nbsp;(1917&amp;nbsp;-&amp;nbsp;2007)&amp;nbsp;-&amp;nbsp;Designer&amp;nbsp;-&amp;nbsp;Rosita&amp;nbsp;Kanto-Nielsen&amp;nbsp;-&amp;nbsp;Assistant&amp;nbsp;Technical&amp;nbsp;Designer&amp;nbsp;-&amp;nbsp;Niels&amp;nbsp;Robin&amp;nbsp;Aagaard&amp;nbsp;-&amp;nbsp;IT&amp;nbsp;&amp;amp;&amp;nbsp;Graphic&amp;nbsp;Design &lt;/p&gt;&lt;p&gt;Nielsen-Aagaard 家族全体成员都参与了周年纪念手链的创作。&lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent2" xml:lang="zh-cn">&lt;p&gt;&lt;/p&gt;&lt;p&gt;周年纪念手链记录住时间的流逝。见证着过去 30 年来丹麦镯品 s 的各种形态，色彩，和图案；展现出丹麦镯品过去在美学和手工上面的杰出成就。 &lt;/p&gt;&lt;p&gt;生命的开始，从婴儿车往外偷看，用色彩鲜艳的琉璃珠作调色板，到反映超过三十个精彩的年头的图案设计。映照在鲜花和小精灵之见，这段浪漫的经历。&lt;/p&gt;&lt;p&gt;丹麦的历史和传统并没有被遗忘。丹麦最出名的维京舰艇，串珠呈现出严肃的装饰。手链是由小精灵神秘的背包紧紧的连接在一起的。最后，用 18K 金的 " 心动 " 完美的配搭出这条精致的手链。 &lt;/p&gt;&lt;p&gt;周年纪念手链就如过去所有独一无二的丹麦镯品手链一样有一粒带有限量编号的串珠。这条限量版手链将会全球发售。只有最优质的淡水珍珠才可以组成丹麦镯品的一部分。&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;</custom-attribute>
+    </custom-attributes>
+    <folder-links>
+      <classification-link folder-id="designer"/>
+    </folder-links>
+  </content>
+  <content content-id="designer-48">
+    <display-name xml:lang="x-default">Kim Buck</display-name>
+    <online-flag>true</online-flag>
+    <searchable-flag>false</searchable-flag>
+    <page-attributes/>
+    <custom-attributes>
+      <custom-attribute attribute-id="blockText" xml:lang="zh-cn">&lt;p&gt;很高兴能与丹麦镯品合作，丹麦镯品是首饰的真正本质，它让饰品成为一件宝物，让戴着它的人每天都充满意义。从收到的那一天就与首饰建立了连接，或许就像定情信物，随着关系一天天的拉近，首饰变得更有意义。&lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent1" xml:lang="zh-cn">&lt;p&gt;丹麦镯品成为关系里的完美连结，每个部分都有特殊的感情和意义。尽管我们，作为丹麦镯品的设计师，已经为每粒珠设定了含义，但是我们都有个明确的愿望，希望佩带的人赋予这些珠珠新的定义，这就是设计原意，这才是丹麦镯品独一无二的本质。&lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent2" xml:lang="zh-cn">&lt;p&gt;&lt;/p&gt;&lt;p&gt;"Kim&amp;nbsp;Buck 是现代工匠中的出色典范，他却非常了解他的工艺，还有谁比他更了解专业的传统和文化对这个行业的重要性，同时又是材料，技术和工具上的开创者，最后还用他天赋费技术参与影响这个社群。 &lt;/p&gt;&lt;p&gt;Bettina&amp;nbsp;K ø bbe 着（摘录） &lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;</custom-attribute>
+    </custom-attributes>
+    <folder-links>
+      <classification-link folder-id="designer"/>
+    </folder-links>
+  </content>
+  <content content-id="designer-49">
+    <display-name xml:lang="x-default">Søren Nielsen / Thor Høy</display-name>
+    <online-flag>true</online-flag>
+    <searchable-flag>false</searchable-flag>
+    <page-attributes/>
+    <custom-attributes>
+      <custom-attribute attribute-id="blockText" xml:lang="zh-cn">&lt;p&gt;他们是最完美的互补，两个双子座&amp;nbsp; -&amp;nbsp;  相互表达，沟通，不断地创作！  S  ø  ren  以他多年的经验，他从未&amp;nbsp;  -&amp;nbsp;  停止过新的创意，和他点石成金的才华。还有  Thor&amp;nbsp;-&amp;nbsp;  经过专业训练的生产技师，木工，自学成才的设计师，企业家和创造家，只要计算机在手，就可以源源不绝的创造能量和惊喜  … &lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent1" xml:lang="zh-cn"/>
+      <custom-attribute attribute-id="blockContent2" xml:lang="zh-cn"/>
+    </custom-attributes>
+    <folder-links>
+      <classification-link folder-id="designer"/>
+    </folder-links>
+  </content>
+  <content content-id="designer-50">
+    <display-name xml:lang="x-default">Eirin Julia Wendlandt</display-name>
+    <online-flag>true</online-flag>
+    <searchable-flag>false</searchable-flag>
+    <page-attributes/>
+    <custom-attributes>
+      <custom-attribute attribute-id="blockText" xml:lang="zh-cn">&lt;p&gt;一定是非常特别的物件才能够持久流行并分享给其他人。我乐于参与这份工作并提供我的创意。&lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent1" xml:lang="zh-cn">&lt;p&gt;你永远不会知道这个旅程会带你去哪，就像 " 生命 " 一样&amp;nbsp; -&amp;nbsp; 也许会是一次冒险。有时候你必须把你的 " 金球 "&lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent2" xml:lang="zh-cn">&lt;p&gt;沉到井底才能遇到你的青蛙皇子 … 一些魔力，一些希望，一些惊喜，再加上一些色彩和乐趣&amp;nbsp; -&amp;nbsp; 这就是我，这就是我的世界，对我来说，就是丹麦镯品。 &lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;</custom-attribute>
+    </custom-attributes>
+    <folder-links>
+      <classification-link folder-id="designer"/>
+    </folder-links>
+  </content>
+  <content content-id="designer-51">
+    <display-name xml:lang="x-default">Nozomi Kaji</display-name>
+    <online-flag>true</online-flag>
+    <searchable-flag>false</searchable-flag>
+    <page-attributes/>
+    <custom-attributes>
+      <custom-attribute attribute-id="blockText" xml:lang="zh-cn">&lt;p&gt;Nozomi&amp;nbsp; 从小就热爱设计  .&amp;nbsp;  他从  23  岁便开始从事琉璃设计，并快速的学习到如何更进一步的发展与延伸自己的设计作品  . &lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent1" xml:lang="zh-cn">&lt;p&gt;"&lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent2" xml:lang="zh-cn">&lt;p&gt;因为受到传统日本文化影响的关系，我不断的尝试在我的作品中尝试描绘出日本的文化生活，也时也表现出恬静的日本风格 "&amp;nbsp;Nozomi&amp;nbsp; 如是说 &lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;</custom-attribute>
+    </custom-attributes>
+    <folder-links>
+      <classification-link folder-id="designer"/>
+    </folder-links>
+  </content>
+  <content content-id="designer-52">
+    <display-name xml:lang="x-default">Kristi Denning</display-name>
+    <online-flag>true</online-flag>
+    <searchable-flag>false</searchable-flag>
+    <page-attributes/>
+    <custom-attributes>
+      <custom-attribute attribute-id="blockText" xml:lang="zh-cn">&lt;p&gt;从小我就喜欢各式各样，各种体型的小动物。我为生物进化去适应特殊环境这种事情着迷。我可以花几个小时观察这些生物。我最早的记忆就是观察花园里的蜗牛在我手上爬行。&lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent1" xml:lang="zh-cn">&lt;p&gt;我们全家都热爱艺术。我倾向多方面发展，我以花园里的花卉为题材做首饰，画画，配色，拍照和设计。&lt;/p&gt;&lt;p&gt;丹麦镯品成为我的一大爱好。我最初对丹麦镯品感兴趣是因为我可以把喜欢的动物串在手链上。除了那些在动物园里动物以外，还有童话故事里的角色。从最开始，直至现在还是最喜欢的串珠就是幸运龙。&lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent2" xml:lang="zh-cn">&lt;p&gt;&lt;/p&gt;&lt;p&gt;" 自从 2010 年赢得 People's&amp;nbsp;beads 大赛之后，我遇到了很多丹麦镯品爱好者。我从来没有想过在生命中会遇到这么多友好的人。丹麦镯品就象是一个大家族，遇到一个同好就像得到一个挚友。我感到非常荣幸并自豪能成为其中一员。 " &lt;/p&gt;</custom-attribute>
+    </custom-attributes>
+    <folder-links>
+      <classification-link folder-id="designer"/>
+    </folder-links>
+  </content>
+  <content content-id="designer-53">
+    <display-name xml:lang="x-default">Annabap Logman</display-name>
+    <online-flag>true</online-flag>
+    <searchable-flag>false</searchable-flag>
+    <page-attributes/>
+    <custom-attributes>
+      <custom-attribute attribute-id="blockText" xml:lang="zh-cn">&lt;p&gt;热爱和感情是她的动力。&lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent1" xml:lang="zh-cn">&lt;p&gt;充满活力，从未见过的细节闪闪发光，就连最小的物件都让人喜爱。 " 不要只是用眼睛看，应该用心体会在我们身边这些事物的美好。 "&amp;nbsp; 这是 Annabap&amp;nbsp; 自然体会世界的方式。 &lt;/p&gt;&lt;p&gt;不论是一艘生锈的破船还是躺在沙滩上的一片贝壳。这些结构，形状和纹路都是她创作的源泉。&lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent2" xml:lang="zh-cn">&lt;p&gt;当她工作的时候，她总是非常的专注与平静。她吸取的印象与她对首饰的热爱一起释放。&lt;/p&gt;&lt;p&gt;Annabap 的创意遗传自她的奶奶，同样也是一个艺术家。在奶奶的家里喝茶发呆打发时间，我们聊过色彩，艺术，旅行和脑袋里想到的各种各样事情。在这里她对在荷兰斯洪霍芬的金匠和首饰设计学校产生了兴趣，并在 2006 年从这个学校毕业。 &lt;/p&gt;</custom-attribute>
+    </custom-attributes>
+    <folder-links>
+      <classification-link folder-id="designer"/>
+    </folder-links>
+  </content>
+  <content content-id="designer-54">
+    <display-name xml:lang="x-default">Asta Šivokaitė</display-name>
+    <online-flag>true</online-flag>
+    <searchable-flag>false</searchable-flag>
+    <page-attributes/>
+    <custom-attributes>
+      <custom-attribute attribute-id="blockText" xml:lang="zh-cn">&lt;p&gt;从儿时开始，创作就是我生活里面重要的一部分。学习，工作，休闲娱乐中创意无处不在。生活中的变化是我制作琉璃珠的灵感来源。&lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent1" xml:lang="zh-cn">&lt;p&gt;创作我带来快乐，我全程投入到创作里面。灵感无处不在：睡觉，驾驶，听歌，休息等。我将灵感素描下来并将它变成实物。&lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent2" xml:lang="zh-cn">&lt;p&gt;&lt;/p&gt;&lt;p&gt;尽管我的最初的成品是更大的实物，但我想建筑和珠宝制作都需要精细的制作。所以，我非常注意细节上的处理。&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;</custom-attribute>
+    </custom-attributes>
+    <folder-links>
+      <classification-link folder-id="designer"/>
+    </folder-links>
+  </content>
+  <content content-id="designer-55">
+    <display-name xml:lang="x-default">Denise Tong</display-name>
+    <online-flag>true</online-flag>
+    <searchable-flag>false</searchable-flag>
+    <page-attributes/>
+    <custom-attributes>
+      <custom-attribute attribute-id="blockText" xml:lang="zh-cn">&lt;p&gt;Denise&amp;nbsp;Tong 是一个化学工程师，同时亦拥有艺术学位&amp;nbsp;  -&amp;nbsp;  徘徊于理性与感性之间。这些看似冲突的能力赋予她对事物与别不同的看法。 &lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent1" xml:lang="zh-cn">&lt;p&gt;" 灵感无处不在 … 只要多留意周遭环境和感受。 &lt;/p&gt;&lt;p&gt;Denise 在介绍她的灵感的时候说， " 只要灵感涌现，感觉被启动，产生情感，可以见到尽头的光芒，将见到的亮光记录下来然后用试着赋予它不同的意义，如果感觉不对就马上回到原点再进行修改。 &lt;/p&gt;&lt;p&gt;这个串珠灵感来自今年 3 月 11 日日本东岸发生的大地震所引起的海啸。&lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent2" xml:lang="zh-cn">&lt;p&gt;海洋给于我们各样美好的事物&amp;nbsp; -&amp;nbsp; 神奇的海洋生物，给我们供应食物，也是让我们尽情玩乐的水上乐园，等等，而它强大的威力亦可以造成我们不可预知的伤害。 &lt;/p&gt;&lt;p&gt;我脑海里涌现一个想法：我们是如此渺小，我们必须谦虚并尊重大自然。 Denise&amp;nbsp;Tong&amp;nbsp; 说，这就是设计 " 波涛 " 的灵感来源。 &lt;/p&gt;</custom-attribute>
+    </custom-attributes>
+    <folder-links>
+      <classification-link folder-id="designer"/>
+    </folder-links>
+  </content>
+  <content content-id="designer-56">
+    <display-name xml:lang="x-default">Magdalena Jędrzejczak-Nalazek</display-name>
+    <online-flag>true</online-flag>
+    <searchable-flag>false</searchable-flag>
+    <page-attributes/>
+    <custom-attributes>
+      <custom-attribute attribute-id="blockText" xml:lang="zh-cn">&lt;p&gt;Magdalena 在  1972  年出生于华沙，在  1983  年她举家移民到意大利。她毕业于佛罗伦萨的  Accademia&amp;nbsp;di&amp;nbsp;belle&amp;nbsp;Arti  艺术学院。在  1997  年她回到波兰。 &lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent1" xml:lang="zh-cn">&lt;p&gt;过去她曾从事科幻电影，童话， PRG 杂志及广告公司的插图制作。&amp;nbsp;现在她致力于饰品设计，可以将她热爱的金饰变成实物的梦想终于成真。 &lt;/p&gt;&lt;p&gt;"&lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent2" xml:lang="zh-cn">&lt;p&gt;我的第一系列的主要是受意大利油画的感染，特别是 Giorgio&amp;nbsp;De&amp;nbsp;Chirico ，也有像 Amedeo&amp;nbsp;Modigliani 等的画家。灵感也来自于我自己的雕塑，是我在弗洛伦萨求学时制作的。 " &lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;</custom-attribute>
+    </custom-attributes>
+    <folder-links>
+      <classification-link folder-id="designer"/>
+    </folder-links>
+  </content>
+  <content content-id="designer-57">
+    <display-name xml:lang="x-default">Vaineta Gaižutienė</display-name>
+    <online-flag>true</online-flag>
+    <searchable-flag>false</searchable-flag>
+    <page-attributes/>
+    <custom-attributes>
+      <custom-attribute attribute-id="blockText" xml:lang="zh-cn">&lt;p&gt;从小我的梦想就是学习画画。当我第一次制作流利的时候，我明白到画画并一定是局限于纸上。可以将创意发挥到串珠之上。&lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent1" xml:lang="zh-cn">&lt;p&gt;琉璃是一种特殊的材料给予我创作的自由和灵感。琉璃和串珠创造的奇迹启发我的设计串珠。制作出新的琉璃串珠的感觉真好。制作串珠不单单是我的工作，也是我的爱好。&lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent2" xml:lang="zh-cn">&lt;p&gt;&lt;/p&gt;&lt;p&gt;" 新系列是在奇迹诞生时创作的。对我来讲非常的特别，带给我无限快乐与正面能量。 " &lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;</custom-attribute>
+    </custom-attributes>
+    <folder-links>
+      <classification-link folder-id="designer"/>
+    </folder-links>
+  </content>
+  <content content-id="designer-58">
+    <display-name xml:lang="x-default">Ginie Gerrits</display-name>
+    <online-flag>true</online-flag>
+    <searchable-flag>false</searchable-flag>
+    <page-attributes/>
+    <custom-attributes>
+      <custom-attribute attribute-id="blockText" xml:lang="zh-cn">&lt;p&gt;我是 Ginie  ，我现在和丈夫一起居住在荷兰东部。从儿时开始我就被珠宝迷住。我自己制作耳环，手链和吊坠。岁月流逝，我总是忙于用将细小的串珠用银线绑在一起。制作了许多像  trollbeads  那样的串珠。大约在四年前，我发现了  trollbeads  ，原来创作自己的饰品是如此简单的事。我找到了让我不能自抑的新乐趣  ! &lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent1" xml:lang="zh-cn">&lt;p&gt;钢琴珠的灵感来自于我对音乐的热爱。在过去，我参加过合唱团由此爱上音乐。&lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent2" xml:lang="zh-cn">&lt;p&gt;虽然我并不会弹钢琴，但是我一直都而爱钢琴。&lt;/p&gt;</custom-attribute>
+    </custom-attributes>
+    <folder-links>
+      <classification-link folder-id="designer"/>
+    </folder-links>
+  </content>
+  <content content-id="designer-59">
+    <display-name xml:lang="x-default">He Yang Hong</display-name>
+    <online-flag>true</online-flag>
+    <searchable-flag>false</searchable-flag>
+    <page-attributes/>
+    <custom-attributes>
+      <custom-attribute attribute-id="blockText" xml:lang="zh-cn">&lt;p&gt;He&amp;nbsp;Yang&amp;nbsp;Hong 是来自中国  28  岁的设计师，她大学毕业。从事设计已经八年，是公司里顶尖的设计师。她的兴趣是绘画跟旅行。 &lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent1" xml:lang="zh-cn">&lt;p&gt;" 我的设计灵感主要来自于生活和自然。&lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent2" xml:lang="zh-cn">&lt;p&gt;许多设计师的灵感都来自与自然，这使他们对生活有更多的向往并爱惜环境。 " &lt;/p&gt;</custom-attribute>
+    </custom-attributes>
+    <folder-links>
+      <classification-link folder-id="designer"/>
+    </folder-links>
+  </content>
+  <content content-id="designer-61">
+    <display-name xml:lang="x-default">Lone Løvschal</display-name>
+    <online-flag>true</online-flag>
+    <searchable-flag>false</searchable-flag>
+    <page-attributes/>
+    <custom-attributes>
+      <custom-attribute attribute-id="blockText" xml:lang="zh-cn">&lt;p&gt;Lone&amp;nbsp;L ø  vschal  来自丹麦，在丹麦的&amp;nbsp;  Georg&amp;nbsp;Jensen  学习成为一名银匠。她拥有伦敦皇家艺术学院的硕士学位，在毕业之后她从事不同领域的设计，包括纺织品，瓷器，餐具设计。 &lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent1" xml:lang="zh-cn">&lt;p&gt;" 非常荣幸能为 Trollbeads&amp;nbsp; 丹麦镯品设计。我常用原始和感官的方式来做设计，正好符合 trollbeads 品牌传统。&lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent2" xml:lang="zh-cn">&lt;p&gt;精灵珠就是创作微型的雕塑，过程有趣并充满挑战。 ” &lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;</custom-attribute>
+    </custom-attributes>
+    <folder-links>
+      <classification-link folder-id="designer"/>
+    </folder-links>
+  </content>
+  <content content-id="designer-60">
+    <display-name xml:lang="x-default">Lars Søgaard</display-name>
+    <online-flag>true</online-flag>
+    <searchable-flag>false</searchable-flag>
+    <page-attributes/>
+    <custom-attributes>
+      <custom-attribute attribute-id="blockText" xml:lang="zh-cn">&lt;p&gt;Lars&amp;nbsp;S ø  gaard  是一位专业的金匠，有  25  年的设计和产品开发的经验&amp;nbsp;  –&amp;nbsp;  将想象变成实物。 &lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent1" xml:lang="zh-cn">&lt;p&gt;“ 当你抬头看到天空的时候看到什么？我看到各种野生动物，过去一个美丽动人的女人婀娜的舞姿。&lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent2" xml:lang="zh-cn">&lt;p&gt;还有许多的云朵 … &lt;/p&gt;&lt;p&gt;当你认真看着转动的串珠，脑海里会浮现出他们背后的故事？关于爱情友情的故事，生命中曾发生过的点滴？&lt;/p&gt;&lt;p&gt;我希望我的串珠可以创造出新的故事 .... ” &lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;</custom-attribute>
+    </custom-attributes>
+    <folder-links>
+      <classification-link folder-id="designer"/>
+    </folder-links>
+  </content>
+  <content content-id="designer-62">
+    <display-name xml:lang="x-default">Linda Karuso</display-name>
+    <online-flag>true</online-flag>
+    <searchable-flag>false</searchable-flag>
+    <page-attributes/>
+    <custom-attributes>
+      <custom-attribute attribute-id="blockText" xml:lang="zh-cn">&lt;p&gt;Linda&amp;nbsp;Karuso 是一位老师，她擅长发现学生的天份因材施教，  Linda  与家人生活在雪梨。她生来就和饰品，金饰，银饰打交道，她的父亲是当地的一位出色的银匠，喜好饰品制作和切割宝石。即使父亲不在人世，依然深受其影响。 &lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent1" xml:lang="zh-cn">&lt;p&gt;Linda&amp;nbsp;Karuso 是 2012 丹麦镯品全球设计大赛的优胜者之一，精灵珠&amp;nbsp; -&amp;nbsp; 浩瀚宇宙的设计者。&amp;nbsp; &lt;/p&gt;&lt;p&gt;"&lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent2" xml:lang="zh-cn">&lt;p&gt;当要设计丹麦镯品全球大赛作品时候，我的其中一个灵感源是我喜欢的珠宝。我希望我设计出来的主题强力结构感强的精灵珠，搭配在手链里面彰显个性的精灵珠。同时我也想在做工上面更加考究可以突出精灵珠的个性和深度。 " &lt;/p&gt;</custom-attribute>
+    </custom-attributes>
+    <folder-links>
+      <classification-link folder-id="designer"/>
+    </folder-links>
+  </content>
+  <content content-id="designer-63">
+    <display-name xml:lang="x-default">Carolyn Brettell</display-name>
+    <online-flag>true</online-flag>
+    <searchable-flag>false</searchable-flag>
+    <page-attributes/>
+    <custom-attributes>
+      <custom-attribute attribute-id="blockText" xml:lang="zh-cn">&lt;p&gt;Carolyn&amp;nbsp;Brettell 和家人生活在英格兰西南部的郊外。  Carolyn  是位健身教练，主要是叫普拉提和有氧体操。  Carolyn  非常喜欢绘画，她擅长大型的风景画，灵感来源于当地的郊外，还有童年生活过的非洲和希腊。 &lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent1" xml:lang="zh-cn">&lt;p&gt;Carolyn&amp;nbsp;Brettell 是 2012 丹麦镯品全球设计大赛的优胜者之一，是精灵珠&amp;nbsp; -&amp;nbsp; 印地安羽毛的设计者。 &lt;/p&gt;&lt;p&gt;"&lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent2" xml:lang="zh-cn">&lt;p&gt;精灵珠设计灵感来自于晨运时在狗狗背上的一根羽毛，我把羽毛收好后，开始以此为灵感设计，佩戴精灵珠时我希望可以让你想起心灵指示和帮助。 " &lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;</custom-attribute>
+    </custom-attributes>
+    <folder-links>
+      <classification-link folder-id="designer"/>
+    </folder-links>
+  </content>
+  <content content-id="designer-64">
+    <display-name xml:lang="x-default">Yumi Shimizu</display-name>
+    <online-flag>true</online-flag>
+    <searchable-flag>false</searchable-flag>
+    <page-attributes/>
+    <custom-attributes>
+      <custom-attribute attribute-id="blockText" xml:lang="zh-cn">&lt;p&gt;Yumi&amp;nbsp;Shimizu&amp;nbsp; 现今与丈夫和女儿居住在日本。她热衷于学习北欧的文化，艺术和大自然，以及漫步在植物花园和针叶林中。 &lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent1" xml:lang="zh-cn">&lt;p&gt;Yumi&amp;nbsp;Shimizu 是 2012 丹麦镯品全球设计大赛的优胜者之一，精灵珠&amp;nbsp; -&amp;nbsp;&amp;nbsp; 天堂花园的设计者。 &lt;/p&gt;&lt;p&gt;“ 我想象的画面是美丽的花园，充满了灵气，时间与爱。&lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent2" xml:lang="zh-cn">&lt;p&gt;当我去到美丽花园的时候，我感觉到了平静，我把这些生活的感受定义为 “ 天堂 ” ，而 “ 天堂花园 ” 代表了自然和人与人之间的平衡。 &lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;</custom-attribute>
+    </custom-attributes>
+    <folder-links>
+      <classification-link folder-id="designer"/>
+    </folder-links>
+  </content>
+  <content content-id="designer-65">
+    <display-name xml:lang="x-default">Maria af Rolén</display-name>
+    <online-flag>true</online-flag>
+    <searchable-flag>false</searchable-flag>
+    <page-attributes/>
+    <custom-attributes>
+      <custom-attribute attribute-id="blockText" xml:lang="zh-cn">&lt;p&gt;Maria&amp;nbsp;af&amp;nbsp;Rol é  n  在瑞典长大，她的童年都在探索  30000  座斯德哥尔摩小岛，希望和爸爸一起发现埋藏在大海里面的宝藏。她在很小的时候就热爱摄影，并在  2006  年取得摄影学位，从而开始了美国探险之旅  . &lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent1" xml:lang="zh-cn">&lt;p&gt;她非常善良，喜欢小动物，她大部分的休闲时间都花在拯救当地小动物团体的募款活动上。当不用摄影的时间，她也喜欢去挖掘制作饰品的灵感。&lt;/p&gt;&lt;p&gt;Maria&amp;nbsp;af&amp;nbsp;Rol é n 是 2012 丹麦镯品全球设计大赛的优胜者之一，也是精灵珠&amp;nbsp; -&amp;nbsp; 乐观常在的设计者。&lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent2" xml:lang="zh-cn">&lt;p&gt;&lt;/p&gt;&lt;p&gt;" 我绘制的灵感多数来自于自然&amp;nbsp; –&amp;nbsp; 海洋，山脉，树木，还有我们呼吸的空气，简单的，从生到死，我设计的精灵珠&amp;nbsp; " 乐观常在 "&amp;nbsp; 的灵感来自于我自己的生活，我的家人和朋友。在生活中我们都会经历困难，有时候我们需要的就是一点指引我们继续往前的鼓励。 " &lt;/p&gt;</custom-attribute>
+    </custom-attributes>
+    <folder-links>
+      <classification-link folder-id="designer"/>
+    </folder-links>
+  </content>
+  <content content-id="designer-66">
+    <display-name xml:lang="x-default">Kevin Powell</display-name>
+    <online-flag>true</online-flag>
+    <searchable-flag>false</searchable-flag>
+    <page-attributes/>
+    <custom-attributes>
+      <custom-attribute attribute-id="blockText" xml:lang="zh-cn">&lt;p&gt;Kevin&amp;nbsp;Powell 学习绘画和油画，跟随天才的油画家  Aeron&amp;nbsp;McBryde  学习了三年。从温哥华艺术学院的多媒体设计系里学习各式各样从故事版到艺术史的所有知识。 &lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent1" xml:lang="zh-cn">&lt;p&gt;Kevin&amp;nbsp;Powell 是 2012 丹麦镯品全球设计大赛的优胜者之一，也是精灵珠&amp;nbsp; -&amp;nbsp; 挚爱光辉的设计者。 &lt;/p&gt;&lt;p&gt;"&lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent2" xml:lang="zh-cn">&lt;p&gt;我喜欢到郊外爬山踏青，当我带上素描本的时候，我会静下来静静观赏，看和观赏最大的区别在于你可以更清楚的看清事物的本身，可以看到事物真实的结构。从这个过程吸引我的地方是可以用于不一样的目光去重新认识日常的事物。 " &lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;</custom-attribute>
+    </custom-attributes>
+    <folder-links>
+      <classification-link folder-id="designer"/>
+    </folder-links>
+  </content>
+  <content content-id="designer-67">
+    <display-name xml:lang="x-default">Silvia Iacurto</display-name>
+    <online-flag>true</online-flag>
+    <searchable-flag>false</searchable-flag>
+    <page-attributes/>
+    <custom-attributes>
+      <custom-attribute attribute-id="blockText" xml:lang="zh-cn">&lt;p&gt;Silvia&amp;nbsp;Iacurto&amp;nbsp;1988 年出生于罗马，她在  2011  年取得环境工程的学士学位。  " &lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent1" xml:lang="zh-cn">&lt;p&gt;Silvia&amp;nbsp;Iacurto 是丹麦镯品全球设计大赛的优胜者之一，也是精灵珠&amp;nbsp; -&amp;nbsp; 捕梦网的设计者。 &lt;/p&gt;&lt;p&gt;"&lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent2" xml:lang="zh-cn">&lt;p&gt;我一直都而爱绘画和首饰，我希望可以把这两个爱好合并起来，所以设计了第一个精灵珠 " 捕梦网 " 。我觉得捕梦网是有趣的个体，每个人都会给予它不一样的解释。 " &lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;</custom-attribute>
+    </custom-attributes>
+    <folder-links>
+      <classification-link folder-id="designer"/>
+    </folder-links>
+  </content>
+  <content content-id="designer-68">
+    <display-name xml:lang="x-default">Elisabetta Marini</display-name>
+    <online-flag>true</online-flag>
+    <searchable-flag>false</searchable-flag>
+    <page-attributes/>
+    <custom-attributes>
+      <custom-attribute attribute-id="blockText" xml:lang="zh-cn">&lt;p&gt;Elisabetta&amp;nbsp;Marini 在罗马出生，现在生活在罗马郊区一个靠海的地方，她拥有政治学的学士学位和创意管理的硕士学位，  Elisabetta  经常被世事所吸引：油画，绘画，摄影，卡片，装修，唱歌和制作珠宝。 &lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent1" xml:lang="zh-cn">&lt;p&gt;Elisabetta&amp;nbsp;Marini 是 2012 丹麦镯品全球设计大赛的优胜者之一，也是精灵珠&amp;nbsp; -&amp;nbsp; 玫瑰园的设计师。 &lt;/p&gt;&lt;p&gt;"&lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent2" xml:lang="zh-cn">&lt;p&gt;当我一看到全民疯珠珠 2012 丹麦镯品全球设计大赛主题是有关于灵感的时候，我脑海中立刻浮现对于创造新精灵珠的想法：当时我灵光乍现，玫瑰园代表我的灵性远胜于任何符号。 " &lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;</custom-attribute>
+    </custom-attributes>
+    <folder-links>
+      <classification-link folder-id="designer"/>
+    </folder-links>
+  </content>
+  <content content-id="designer-69">
+    <display-name xml:lang="x-default">Daniele Celani</display-name>
+    <online-flag>true</online-flag>
+    <searchable-flag>false</searchable-flag>
+    <page-attributes/>
+    <custom-attributes>
+      <custom-attribute attribute-id="blockText" xml:lang="zh-cn">&lt;p&gt;Daniele&amp;nbsp;Celani 在意大利的小城镇  Ciociaria  出生，他跟他的家人生活在一起。  Daniele  是一个新手金匠，他非常喜欢他的第一个作品。从儿时开始，他就对设计产生了巨大兴趣。从小便开始绘画，从风景到卡通他通通都爱画，现在他最大的兴趣就是画画和设计首饰。 &lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent1" xml:lang="zh-cn">&lt;p&gt;Daniele&amp;nbsp;Celani 是 2012 丹麦镯品全球设计大赛的优胜者之一，也是精灵珠&amp;nbsp; -&amp;nbsp; 同心祈祷的设计者。&lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent2" xml:lang="zh-cn">&lt;p&gt;&lt;/p&gt;&lt;p&gt;"Trollbeads 最吸引我的地方就是在这些精灵珠的世界里面，每个精灵珠都有自己的故事和意义。让所有事情看起来都是如此的原始，激发了我的好奇心，我喜欢这种设计概念。 " &lt;/p&gt;</custom-attribute>
+    </custom-attributes>
+    <folder-links>
+      <classification-link folder-id="designer"/>
+    </folder-links>
+  </content>
+  <content content-id="designer-70">
+    <display-name xml:lang="x-default">Marta Kubesova</display-name>
+    <online-flag>true</online-flag>
+    <searchable-flag>false</searchable-flag>
+    <page-attributes/>
+    <custom-attributes>
+      <custom-attribute attribute-id="blockText" xml:lang="zh-cn">&lt;p&gt;Marta&amp;nbsp;Kube š  ov  á&amp;nbsp;  现今与她的丈夫居住于捷克，  2013  年是他们将迈入结婚第  50  周年。  Marta&amp;nbsp;  曾是个建筑设计师，但她现在已经退休。  Marta  是个喜爱自然、花儿、太极、旅行和饲养小狗的人。但她最大的兴趣还是创造，她将多样的艺术技巧和材料运用在她的设计上。 &lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent1" xml:lang="zh-cn">&lt;p&gt;Marta&amp;nbsp;Kube š ov á&amp;nbsp; 是 2012 丹麦镯品全球设计大赛的优胜者之一，也是精灵珠&amp;nbsp; -&amp;nbsp; 灵性之光的设计者。&lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent2" xml:lang="zh-cn">&lt;p&gt;&lt;/p&gt;&lt;p&gt;" 我敞开心胸看世界，经常发现新的灵感，乐于迎接新的事物。 " &lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;</custom-attribute>
+    </custom-attributes>
+    <folder-links>
+      <classification-link folder-id="designer"/>
+    </folder-links>
+  </content>
+  <content content-id="designer-71">
+    <display-name xml:lang="x-default">Jolanda J. Hos</display-name>
+    <online-flag>true</online-flag>
+    <searchable-flag>false</searchable-flag>
+    <page-attributes/>
+    <custom-attributes>
+      <custom-attribute attribute-id="blockText" xml:lang="zh-cn">&lt;p&gt;Jolanda&amp;nbsp;J.&amp;nbsp;Hos 和男朋友生活在荷兰的西北部，靠近北部海岸。她喜欢小动物，养了一只黑色的混种拉布拉多，两只松毛猫还有一缸鱼。她最大的灵感源来自于自然，特别是丛林和海洋。这些原始的个体都可以在她的设计里面看到。 &lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent1" xml:lang="zh-cn">&lt;p&gt;Jolanda&amp;nbsp;J.&amp;nbsp;Hos 是 2012 丹麦镯品全球设计大赛的优胜者之一，也是精灵珠&amp;nbsp; -&amp;nbsp; 七彩脉轮的设计者。 &lt;/p&gt;&lt;p&gt;" 从我有记忆开始，我对琉璃制品就非常感兴趣。&lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent2" xml:lang="zh-cn">&lt;p&gt;阳光照射在琉璃上反射出各种颜色的光彩，耀眼迷人地令我目不转睛。在 2006 年，当我发现自己在家里也可以制作琉璃的时候，我真是太兴奋了，我喜欢看到波流融化成液体，然后再将它们冷却定型，象是在塑造属于我自己的艺术品。 " &lt;/p&gt;</custom-attribute>
+    </custom-attributes>
+    <folder-links>
+      <classification-link folder-id="designer"/>
+    </folder-links>
+  </content>
+  <content content-id="designer-75">
+    <display-name xml:lang="x-default">Carmen Rosel-Riedel</display-name>
+    <online-flag>true</online-flag>
+    <searchable-flag>false</searchable-flag>
+    <page-attributes/>
+    <custom-attributes>
+      <custom-attribute attribute-id="blockText" xml:lang="zh-cn">&lt;p&gt;Carmen&amp;nbsp;Rosel-Riedel&amp;nbsp; 是一位受到良好训练金饰设计师，  Carmen  年轻时十分热爱绘画与手工艺。很幸运的，她有着一位极富创意的母亲，当她们在一起时，便会一同探索传统与新兴工艺技术，从中得到乐趣并且探索创造技巧。 &lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent1" xml:lang="zh-cn">&lt;p&gt;当她 16 岁时，在德国的 Pforzheim&amp;nbsp;Jewelry&amp;nbsp;City 待了三周，也开始了她制作珠宝的热情。 19 岁时，她毅然的搬到了 Pforzheim ，接下来的许多年，她遇到许多人激发且增进他的创作灵感与技术。 Carmen 不断的精益求精，而且他相信，人们只要生活在充满丰富创造力的世界里，世界上便会减少许多的争吵与残酷的事件发生。 &lt;/p&gt;&lt;p&gt;今日 Carmen 拥有自己的金饰馆。&lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent2" xml:lang="zh-cn">&lt;p&gt;&lt;/p&gt;&lt;p&gt;“ 对我而言， Trollbeads 是个能让人自由发挥设计创意的空间，而这个设计空间，便是来自于 Trollbeads 的手鍊。我从各式各样的精灵珠所拥有的多变的符号以及设计中找到许多的可能性。这就像通过一扇密门后，找到生命中许多潜藏的情感与经验，自从认识了 Trollbeads ，每天对我来说都是全新的一天。 “ &lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;</custom-attribute>
+    </custom-attributes>
+    <folder-links>
+      <classification-link folder-id="designer"/>
+    </folder-links>
+  </content>
+  <content content-id="designer-72">
+    <display-name xml:lang="x-default">Roberta Brescianini &amp; Alessia Fatone</display-name>
+    <online-flag>true</online-flag>
+    <searchable-flag>false</searchable-flag>
+    <page-attributes/>
+    <custom-attributes>
+      <custom-attribute attribute-id="blockText" xml:lang="zh-cn">&lt;p&gt;&amp;nbsp;&lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent1" xml:lang="zh-cn">&lt;p&gt;Alessia&amp;nbsp;Fatone&lt;/p&gt;&lt;p&gt;我是位意大利琉璃彩绘工作者，从小便对手工艺术充满着热情。&lt;/p&gt;&lt;p&gt;我主要的艺术工作建基与设计师合作，把他们的创意及想法具体呈现出来。&lt;/p&gt;&lt;p&gt;琉璃与我的关系就好比裁缝师与布料的关系：不仅仅是单纯表现一个物体，而是呈现一个想法。&lt;/p&gt;&lt;p&gt;我的目标是从传统中学习，进一步超越并给予琉璃新的诠释。&lt;/p&gt;&lt;p&gt;认识 Roberta 是由于许多巧合，同时给了我许多生活中的挑战、艰难的工作与真挚的友谊。&lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent2" xml:lang="zh-cn">&lt;p&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;Roberta&amp;nbsp;Brescianini&lt;/p&gt;&lt;p&gt;我的热情来自于： Kikyo ，我的标准硬毛腊肠犬、剑道、以及无庸置疑的 Trollbeads ，我已收集了好几年，对每个精灵珠具有的魔力深深着迷。 &lt;/p&gt;&lt;p&gt;当我还小的时候，曾经制作了有小琉璃珠的手环，并幻想着它们能在晚上发亮，这样就能陪伴着我以及所有的孩子们进入甜美的梦乡。 " 光彩夺目 " 对我来说，就象是美梦成真。 &lt;/p&gt;&lt;p&gt;和 Alessia&amp;nbsp;Fatone 一同创造这颗夜光珠的原型，对我来说，是个非常有趣及开创性的经验。 &lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;</custom-attribute>
+    </custom-attributes>
+    <folder-links>
+      <classification-link folder-id="designer"/>
+    </folder-links>
+  </content>
+  <content content-id="designer-76">
+    <display-name xml:lang="x-default">Scott Bouwens</display-name>
+    <online-flag>true</online-flag>
+    <searchable-flag>false</searchable-flag>
+    <page-attributes/>
+    <custom-attributes>
+      <custom-attribute attribute-id="blockText" xml:lang="zh-cn">&lt;p&gt;Scott&amp;nbsp;Bouwens&amp;nbsp; 于  90  年代在华盛顿州立大学学习景观设计与联结。从那之后，他从事于客制化的防水钢化玻璃制作，并涉及建筑业。 &lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent1" xml:lang="zh-cn">&lt;p&gt;Scott 从 1998 年开始制造彩绘琉璃，并从 2000 年开始全职贩售。 Scott 是一位精灵珠设计师、发明家、工具制作家及摄影师。 &lt;/p&gt;&lt;p&gt;他的琉璃工作与工具被刊登在许多书籍与杂志上，并为他赢得了许多荣耀。&lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent2" xml:lang="zh-cn">&lt;p&gt;他主要使用被称为具有光亮并朴实颜色的 Effetre 琉璃，并使用细银叶于他的精灵珠中。 &lt;/p&gt;&lt;p&gt;Scott 与他的妻子现于美国华盛顿的 La&amp;nbsp;Conner 经营工作室 / 艺廊。 &lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;</custom-attribute>
+    </custom-attributes>
+    <folder-links>
+      <classification-link folder-id="designer"/>
+    </folder-links>
+  </content>
+  <content content-id="designer-79">
+    <display-name xml:lang="x-default">Daniela Troll</display-name>
+    <online-flag>true</online-flag>
+    <searchable-flag>false</searchable-flag>
+    <page-attributes/>
+    <custom-attributes>
+      <custom-attribute attribute-id="blockText" xml:lang="zh-cn">&lt;p&gt;Daniela Troll works as a mechanical engineer in research and development. She enjoys being creative in other fields like music or arts and design for recreation. She has done music all her life and has also always enjoyed painting and drawing. </custom-attribute>
+      <custom-attribute attribute-id="blockContent1" xml:lang="zh-cn">&lt;p&gt;These activities help her to keep her balance and to express her feelings. She first discovered Trollbeads in a show window, being surprised by the coincidence of names. Daniela Troll is one of the winners of People's Bead 2013 and designed &lt;/p&gt;&lt;/p&gt;&lt;p&gt; “When I learned about the People’s Bead contest, many ideas instantly came to my mind. “Thoughts are free” was the most important proverb I thought of, but also the most difficult one to realize as a bead design.&lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent2" xml:lang="zh-cn">&lt;p&gt;I imagined a thought as something that escapes easily, something that has to be small and flexible, so it can escape from anything that tries to lock it up. But on the other hand, the thought spreads and grows; it circles around the world and becomes powerful, if it is an important thought. After several attempts to visualize this, my design for “Thoughts are free” was born.” &lt;/p&gt;</custom-attribute>
+    </custom-attributes>
+    <folder-links>
+      <classification-link folder-id="designer"/>
+    </folder-links>
+  </content>
+  <content content-id="designer-80">
+    <display-name xml:lang="x-default">Paul Krans</display-name>
+    <online-flag>true</online-flag>
+    <searchable-flag>false</searchable-flag>
+    <page-attributes/>
+    <custom-attributes>
+      <custom-attribute attribute-id="blockText" xml:lang="zh-cn">&lt;p&gt;Paul Krans was born in a rural environment and this made him well aware of nature at a very young age. The awareness grew into love and passion for all things alive. Green became the favourite colour and spring the favourite season.&amp;nbsp;As a young adult, design became his second passion. </custom-attribute>
+      <custom-attribute attribute-id="blockContent1" xml:lang="zh-cn">&lt;p&gt;And while working as a Bartender and Model, he studied Fashion at the Higher Art School, followed by Communications at University.&lt;/p&gt;&lt;/p&gt;&lt;p&gt;After University he worked as a Deputy Director for a Holding Company, teaching him everything he needed to know about business, while in his free time he worked with animals and people with multiple disabilities. After a few years in the world of business, he started missing the creative side and it was time for him to return to his roots.&lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent2" xml:lang="zh-cn">&lt;p&gt;&lt;/p&gt;&lt;p&gt;Today he mostly design brand identities and his holidays are all about exploring nature around the world. Over the past few years he started designing jewellery.&lt;/p&gt;&lt;p&gt;Paul Krans is&amp;nbsp; one of the winners of People's Bead 2013 and designed &lt;/p&gt;&lt;p&gt; “I get inspired in so many different ways: a fragrance, a colour, a tree, an animal, a sound, a word..... Maybe it's best to say I get inspired by life itself. Life is beautiful when you're ready to see it for what it is.” &lt;/p&gt;</custom-attribute>
+    </custom-attributes>
+    <folder-links>
+      <classification-link folder-id="designer"/>
+    </folder-links>
+  </content>
+  <content content-id="designer-81">
+    <display-name xml:lang="x-default">Jeannie Sanger</display-name>
+    <online-flag>true</online-flag>
+    <searchable-flag>false</searchable-flag>
+    <page-attributes/>
+    <custom-attributes>
+      <custom-attribute attribute-id="blockText" xml:lang="zh-cn">&lt;p&gt;Mary J (Jeannie) Sanger is from the Midwest of the US and loves to go on excursions and discover what nature has to offer. Especially waterfalls she finds fascinating. </custom-attribute>
+      <custom-attribute attribute-id="blockContent1" xml:lang="zh-cn">&lt;p&gt;She is a glass painter and works for a local winery, hairstylist, and make-up artist, and there seems to be a commonality in her likes to make things look beautiful.&lt;/p&gt;&lt;/p&gt;&lt;p&gt;She has always been enjoying creating, anything whether it be drawing or rescuing an old piece of wood and turning it into a piece of art. She loves restoring antiques.&lt;/p&gt;&lt;p&gt;Jeannie has a passion for animals, especially dogs and Shih Tzus and Rottweilers are her favourites. Other passions are interior design, the royal family, scary movies, ghosts and haunted houses.&lt;/p&gt;&lt;p&gt;Jeannie discovered Trollbeads at Christmas in 2011 and she was hooked right away.&lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent2" xml:lang="zh-cn">&lt;p&gt;She especially likes the ones that have a connection to who she is and her life experience.&lt;/p&gt;&lt;p&gt;Mary J (Jeannie) Sanger is&amp;nbsp; one of the winners of People's Bead 2013 and designed &lt;/p&gt;&lt;p&gt; “My family is my greatest gift, and spending time with my children and grandchildren are beyond words. When designing Leopard for the People’s bead, I chose the saying “A leopard cannot change his spots” because I felt it is important to be yourself and accept yourself and others. Besides, the leopard is such a beautiful animal, so I was glad they went hand in hand.” &lt;/p&gt;</custom-attribute>
+    </custom-attributes>
+    <folder-links>
+      <classification-link folder-id="designer"/>
+    </folder-links>
+  </content>
+  <content content-id="designer-82">
+    <display-name xml:lang="x-default">Luisa Esposito</display-name>
+    <online-flag>true</online-flag>
+    <searchable-flag>false</searchable-flag>
+    <page-attributes/>
+    <custom-attributes>
+      <custom-attribute attribute-id="blockText" xml:lang="zh-cn">&lt;p&gt;Luisa Esposito is 24 years old and lives in Piano di Sorrento, Italy, with her parents and brother.&lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent1" xml:lang="zh-cn">&lt;p&gt;Luisa is going to graduate in Archaeology and History of Art at the Naples University “Federico II”. Luisa is creative and has played the piano since she was 14 years old. She also loves photography and art in all their forms. Therefore her favourite beads are Van Gogh, Mozart and Hallelujah: the symbols of her passion for art and music.&lt;&lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent2" xml:lang="zh-cn">&lt;p&gt;/p&gt;&lt;p&gt;Luisa Esposito is one of the winners of People's Bead 2013 and designed &lt;/p&gt;&lt;p&gt; “When I read the theme of the People's Bead 2013 I immediately decided what would be the subject of my proposal! I took my favourite books, I’ve stacked them and I started drawing! I love reading, immersing myself in the pages and traveling by my mind... I can’t do without it! ...and seeing a bead that represents all this things is for me a great achievement and emotion!” &lt;/p&gt;</custom-attribute>
+    </custom-attributes>
+    <folder-links>
+      <classification-link folder-id="designer"/>
+    </folder-links>
+  </content>
+  <content content-id="designer-83">
+    <display-name xml:lang="x-default">Valentina Rocchi</display-name>
+    <online-flag>true</online-flag>
+    <searchable-flag>false</searchable-flag>
+    <page-attributes/>
+    <custom-attributes>
+      <custom-attribute attribute-id="blockText" xml:lang="zh-cn">&lt;p&gt;Valentina Rocchi was born in Rome, Italy, and still live in this beautiful city with her parents and sister.&lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent1" xml:lang="zh-cn">&lt;p&gt;As a child she started playing violin and today she is a professional player and teacher. Music is on top of the list of her passions but she also loves reading, cooking, traveling and spending time with friends.&lt;/p&gt;&lt;p&gt;Valentina discovered Trollbeads in 2006 and her favourite bead is Seaman and Mermaid, but she also finds all the glass beads really fascinating.&lt;&lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent2" xml:lang="zh-cn">&lt;p&gt;/p&gt;&lt;p&gt;Valentina Rocchi is one of the winners of People's Bead 2013 and designed &lt;/p&gt;&lt;p&gt; “As I knew that the competition would have the title of Traditional Sayings, I thought about something with a global and universal meaning, something that could have been easily translated in every language, and something that would be nice to have on my own bracelet. I truly believe... that Love is Blind!” &lt;/p&gt;</custom-attribute>
+    </custom-attributes>
+    <folder-links>
+      <classification-link folder-id="designer"/>
+    </folder-links>
+  </content>
+  <content content-id="designer-84">
+    <display-name xml:lang="x-default">Rachel Morris</display-name>
+    <online-flag>true</online-flag>
+    <searchable-flag>false</searchable-flag>
+    <page-attributes/>
+    <custom-attributes>
+      <custom-attribute attribute-id="blockText" xml:lang="zh-cn">&lt;p&gt;Rachel Morris is living in South West London with her husband Oliver and their daughter Ruby.&lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent1" xml:lang="zh-cn">&lt;p&gt;Rachel is a freelance illustrator. Her passions are cooking up a feast and enjoying it with friends &amp;amp; family. And she is also partial to a cold cider on a sunny evening.&amp;nbsp;&lt;/p&gt;&lt;p&gt;She also loves Trollbeads and likes the way in which each person can bring their own meaning to their jewellery, making each collection so personal.&lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent2" xml:lang="zh-cn">&lt;p&gt;&lt;/p&gt;&lt;p&gt;Rachel Morris is one of the winners of People's Bead 2013 and designed &lt;/p&gt;&lt;p&gt; “I love the simple, elegant shape of the oak leaf and the promise and hope held in the acorn reminded me of the clear, unwritten future laid out in front of my daughter. A pretty uplifting thought!“ &lt;/p&gt;</custom-attribute>
+    </custom-attributes>
+    <folder-links>
+      <classification-link folder-id="designer"/>
+    </folder-links>
+  </content>
+  <content content-id="designer-85">
+    <display-name xml:lang="x-default">Shizue Ishiwata</display-name>
+    <online-flag>true</online-flag>
+    <searchable-flag>false</searchable-flag>
+    <page-attributes/>
+    <custom-attributes>
+      <custom-attribute attribute-id="blockText" xml:lang="zh-cn">&lt;p&gt;Shizue Ishiwata was born in Tokyo, Japan, and today she is living in Chiba Prefecture.&lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent1" xml:lang="zh-cn">&lt;p&gt;Shizue is a housewife and she is making hand-woven items. Occasionally she sells her original hand-woven items. She spends her spare time with her husband, doing gardening or she goes out for shopping in different areas of Tokyo. Also, she is focused on very healthy foods, reading and meditation.&lt;&lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent2" xml:lang="zh-cn">&lt;p&gt;/p&gt;&lt;p&gt;Shizue Ishiwata is one of the winners of People's Bead 2013 and designed &lt;/p&gt;&lt;p&gt; “For People’s Bead I designed the beautiful Japanese cherry tree. In Japan, a cherry tree is used by the news of the announcements of test results of a university. A cherry tree blooms at the time of a good notice.“ &lt;/p&gt;</custom-attribute>
+    </custom-attributes>
+    <folder-links>
+      <classification-link folder-id="designer"/>
+    </folder-links>
+  </content>
+  <content content-id="designer-86">
+    <display-name xml:lang="x-default">Iris Heyer</display-name>
+    <online-flag>true</online-flag>
+    <searchable-flag>false</searchable-flag>
+    <page-attributes/>
+    <custom-attributes>
+      <custom-attribute attribute-id="blockText" xml:lang="zh-cn">&lt;p&gt;Iris Heyer lives with her husband in the Northwest of Germany, which in her opinion is much too far from the sea! Therefore most of the family’s holidays are spent visiting Scandinavia, Scotland or Shetland.&lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent1" xml:lang="zh-cn">&lt;p&gt;She is a very creative person and she loves to work with her hands as a balance to the office work she does for a living. The last 15 years she has regularly attended silver smith classes and she finds it fascinating to work with silver, gold and stones and to turn these materials into individual pieces of jewellery.&lt;/p&gt;&lt;p&gt;Iris Heyer is one of the winners of People's Bead 2013 and designed &lt;/p&gt;&lt;p&gt; "I really can't take credit for 'designing' my People's Bead entry "This too shall pass" as according to the legend it has been designed already thousands of years ago: &lt;/p&gt;&lt;p&gt; A powerful king asked his wise men to find him a ring that made him happy when he was sad and sad when he was happy.&lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent2" xml:lang="zh-cn">&lt;p&gt;After searching far and wide the wise men presented him with a simple ring that was inscribed with the words "This too shall pass". &lt;/p&gt;&lt;p&gt;&amp;nbsp; I see life as a continuous flow, good times alternating with difficult ones. I always loved this saying as it gives me strength to pull through hard times, but it also makes me cherish happy times with friends, family, in a wonderful landscape or in peace on my own even more. I'm well aware that happiness passes too and that I can't make it stay forever. I was pondering for quite a long time on how this saying should be represented in a Trollbead, but after all I stuck to the traditional shape of a ring, only scaled down to the size of a bead. I hope wearing and looking at it will provide you with much peace and strength." &lt;/p&gt;</custom-attribute>
+    </custom-attributes>
+    <folder-links>
+      <classification-link folder-id="designer"/>
+    </folder-links>
+  </content>
+  <content content-id="designer-87">
+    <display-name xml:lang="x-default">Rebecca Cresswell</display-name>
+    <online-flag>true</online-flag>
+    <searchable-flag>false</searchable-flag>
+    <page-attributes/>
+    <custom-attributes>
+      <custom-attribute attribute-id="blockText" xml:lang="zh-cn">&lt;p&gt;Rebecca Cresswell is very passionate about art and design; having painted from a very early age she grew up entering competitions and exhibiting her work. In 2002 Rebecca graduated from the University of Wolverhampton’s School of Art and Design, in the UK after studying Illustration. </custom-attribute>
+      <custom-attribute attribute-id="blockContent1" xml:lang="zh-cn">&lt;p&gt;Her installations are seen in hospitals and palliative care facilities throughout the UK and shares spaces with famous British artists.&lt;/p&gt;&lt;/p&gt;&lt;p&gt;In her spare time Rebecca enjoys long walks in the Shropshire countryside with her partner and pet dog Poppy, a two-year old border collie. The natural world is a great source of inspiration for her artwork and the landscape is the place she escapes to when she needs time to contemplate and reflect.&lt;&lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent2" xml:lang="zh-cn">&lt;p&gt;/p&gt;&lt;p&gt;Rebecca Cresswell is one of the winners of People's Bead 2013 and designed &lt;/p&gt;&lt;p&gt; “I am absolutely delighted that my design and the idea behind it is recognised and included in this lovely collection, it is an unexpected honour. Art is my salvation in many respects, I love to interpret the world around me in a creative way, and there are endless varieties of subjects and possibilities to how we see things.&amp;nbsp; I also love the impact and influence that art and design can have on us as individuals; working within healthcare, the great benefits to health and wellbeing in the community from viewing artworks and participation in projects is obvious to me.” &lt;/p&gt;</custom-attribute>
+    </custom-attributes>
+    <folder-links>
+      <classification-link folder-id="designer"/>
+    </folder-links>
+  </content>
+  <content content-id="designer-88">
+    <display-name xml:lang="x-default">Trollbeads Design Group</display-name>
+    <online-flag>true</online-flag>
+    <searchable-flag>false</searchable-flag>
+    <page-attributes/>
+    <custom-attributes>
+      <custom-attribute attribute-id="blockText" xml:lang="zh-cn">&lt;p&gt;Our finished bracelets and necklaces make it easy for you to find the perfect gift&amp;nbsp;or start your own Trollbeads collection.&lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent1" xml:lang="zh-cn">&lt;p&gt;Each product is thoughtfully composed and includes a selection of beads in different materials, colours, and styles, as well as a lock and bracelet, or necklace, creating a ready-to-wear piece to match any style and budget.&lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent2" xml:lang="zh-cn">&lt;p&gt;&lt;/p&gt;</custom-attribute>
+    </custom-attributes>
+    <folder-links>
+      <classification-link folder-id="designer"/>
+    </folder-links>
+  </content>
+  <content content-id="designer-89">
+    <display-name xml:lang="x-default">Tashi, Dhundup and Dolma</display-name>
+    <online-flag>true</online-flag>
+    <searchable-flag>false</searchable-flag>
+    <page-attributes/>
+    <custom-attributes>
+      <custom-attribute attribute-id="blockText" xml:lang="zh-cn">&lt;p&gt;Tashi, Dhundup and Dolma are the designers of the 2014 Summer Limited edition glass beads. They have all created beautiful beads for the Trollbeads Collection since 2004. Originally from Tibet, but now living in Dhramsala – home of their spiritual leader Dalai Lama. </custom-attribute>
+      <custom-attribute attribute-id="blockContent1" xml:lang="zh-cn">&lt;p&gt;The three ladies love to sing and dance in their spare time and sometimes they daydream about Tibet, about herding cattle and gazing at them.&lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent2" xml:lang="zh-cn">&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/p&gt;</custom-attribute>
+    </custom-attributes>
+    <folder-links>
+      <classification-link folder-id="designer"/>
+    </folder-links>
+  </content>
+  <content content-id="designer-90">
+    <display-name xml:lang="x-default">Morten Pol Engell Nørregård</display-name>
+    <online-flag>true</online-flag>
+    <searchable-flag>false</searchable-flag>
+    <page-attributes/>
+    <custom-attributes>
+      <custom-attribute attribute-id="blockText" xml:lang="zh-cn">&lt;p&gt;Goldsmith, designer, scientist, inventor. It is not entirely obvious how to describe Morten Engell - Nørregård. His insatiable curiosity has always driven him to explore new ideas and seek new knowledge. </custom-attribute>
+      <custom-attribute attribute-id="blockContent1" xml:lang="zh-cn">&lt;p&gt;He got his apprenticeship in 1999 from Melcher Copenhagen and then worked for a period at the model workshop of Georg Jensen. Here he decided to pursue a career in research and took first his master's degree in computer science and then a Ph.d. at Copenhagen University on physically based simulation of human movement, a topic that can be applied in the development of prostheses for the disabled as well as in robotics. He continues to work as a researcher, but has now also returned to his jewellers&amp;nbsp;roots as a designer for Trollbeads.&lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent2" xml:lang="zh-cn">&lt;p&gt;&lt;/p&gt;&lt;/p&gt;&lt;p&gt; "For as long as I can remember, I have always made things with my hands. Inspiration comes to me from everything that surrounds me and I have to channel it into objects and shapes. It's almost an involuntary process. In order to realize my ideas, I have always hunted knowledge of how different materials are processed, ranging from clay, wax, wood, and paper, to virtual 3D objects in computers. I will always return to metal though. There is something in the process of working with metal that never ceases to fascinate me.” &lt;/p&gt;</custom-attribute>
+    </custom-attributes>
+    <folder-links>
+      <classification-link folder-id="designer"/>
+    </folder-links>
+  </content>
+  <content content-id="designer-91">
+    <display-name xml:lang="x-default">Neetu Gupta</display-name>
+    <online-flag>true</online-flag>
+    <searchable-flag>false</searchable-flag>
+    <page-attributes/>
+    <custom-attributes>
+      <custom-attribute attribute-id="blockText" xml:lang="zh-cn">&lt;p&gt;我相信爱，勇气，毅力和信心。我认为笑是最好的良药，我们应该充分享受生活中的每分每秒。我相信吸引力法则。&lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent1" xml:lang="zh-cn">&lt;p&gt;我出生于1974年在斋浦尔（印度），这是颜色，文化，传统和珠宝的土地。它们一直以各种方式激励着我，艺术则一直是我的爱好。&lt;/p&gt;&lt;p&gt;成长在这种地方对于今天的我的塑造起到了非常关键的作用。从小我一直热爱艺术，但从来没有机会展示它。我从来不知道它会变成是因祸得福，我的丈夫和孩子们激励我，帮助我实现我的梦想。&lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent2" xml:lang="zh-cn">&lt;p&gt;而我对串珠的热爱于2007年与Lise Aagaard相遇的时候变得更加强烈。没有他们的支持，就不可能有我如今的成就。&lt;/p&gt;&lt;p&gt;所以我在这里，展示我的设计，它们都从印度丰富的色彩和文化中得来灵感。成为Trollbeads家庭的一部分，我倍感荣幸。&lt;/p&gt;&lt;p&gt;“流水不腐户枢不蝼。所以，必须要继续前进。“&lt;/p&gt;</custom-attribute>
+    </custom-attributes>
+    <folder-links>
+      <classification-link folder-id="designer"/>
+    </folder-links>
+  </content>
+  <content content-id="designer-92">
+    <display-name xml:lang="x-default">Jenke Gorter</display-name>
+    <online-flag>true</online-flag>
+    <searchable-flag>false</searchable-flag>
+    <page-attributes/>
+    <custom-attributes>
+      <custom-attribute attribute-id="blockText" xml:lang="zh-cn">&lt;p&gt; 
+&lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent1" xml:lang="zh-cn">&lt;p&gt;&amp;nbsp; &lt;/p&gt;&lt;p&gt;&amp;nbsp;Trollbeads让你可以设计自己的个性化的外观，它要求个性的感觉，也需要一点创意。现在我所收纳的各种不同的琉璃珠和银串珠让我可以随心所欲的根据心情和风格设计组合。每当有新的系列出现，我就会飞快的开始思考他们是否与我的喜好相合，以及如何组合搭配。&lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent2" xml:lang="zh-cn">&lt;p&gt;实在是太令人兴奋了！ &lt;/p&gt;&lt;p&gt;&amp;nbsp; &lt;/p&gt;&lt;p&gt;我为进行的第一个设计是蝙蝠。蝙蝠可以在任何地方陪伴我;无论是在研究动物的行为的工作中，或在我的空闲时间，读一本梦幻的书籍，玩棋盘游戏，或者参加节日庆典。一方面他们是具有复杂生物学功能的奇妙动物，另一方面，由于他们夜间生物的习性，他们也被看做是血饮者的亲属，神秘的象征。&lt;/p&gt;</custom-attribute>
+    </custom-attributes>
+    <folder-links>
+      <classification-link folder-id="designer"/>
+    </folder-links>
+  </content>
+  <content content-id="designer-94">
+    <display-name xml:lang="x-default">Anne Sofie Bodenhoff</display-name>
+    <online-flag>true</online-flag>
+    <searchable-flag>false</searchable-flag>
+    <page-attributes/>
+    <custom-attributes>
+      <custom-attribute attribute-id="blockText" xml:lang="zh-cn">&lt;p&gt;To me, working with Trollbeads is very meditative. I create a sculpture or a small world in every bead. It pleases me to be able to dive in and work to the detail in a small scale in a world where we constantly receive lots of information and impressions. </custom-attribute>
+      <custom-attribute attribute-id="blockContent1" xml:lang="zh-cn">&lt;p&gt;This is a unique chance for me and I appreciate it very much.&lt;/p&gt;&lt;/p&gt;&lt;p&gt;Anne Sofie Bodenhoff was born in 1980 and is a goldsmith, trained by Kim Buck. She finished her education in 2012 and won the Nordic Championship for goldsmiths that same year.&lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent2" xml:lang="zh-cn">&lt;p&gt;Before Anne Sofie decided to follow her dream of being a goldsmith, she was an educated designer and worked in the textile industry for a couple of years.&lt;/p&gt;</custom-attribute>
+    </custom-attributes>
+    <folder-links>
+      <classification-link folder-id="designer"/>
+    </folder-links>
+  </content>
+  <content content-id="designer-96">
+    <display-name xml:lang="x-default">Mirjam Seling</display-name>
+    <online-flag>true</online-flag>
+    <searchable-flag>false</searchable-flag>
+    <page-attributes/>
+    <custom-attributes>
+      <custom-attribute attribute-id="blockText" xml:lang="zh-cn">&lt;p&gt;Mirjam Seling 于1979年诞生在白雪之城，德国巴伐利亚州下弗兰肯行政区洛尔。这个城市相传是格林童话的历史遗迹。也许就是因为如此，她的设计中饱含生动地想象力和创造力。&lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent1" xml:lang="zh-cn">&lt;p&gt; 从童年时期起，Mirjam就是个有创造力的孩子，她认为这种天赋遗传自她的祖父。之后她对绘画和手工品产生了浓厚的兴趣，尽管现在她可以用来创作的时间非常有限，但是在这有限的时间里她总是非常的享受。 &lt;/p&gt;&lt;p&gt;在高中毕业之后，Mirjam决心走上一条完全不同而且相当艰难的创造之路，学习经济和法律。由于她更喜欢在充满脉动的大城市里生活，她在法兰克福安下新家，和男友一起在这里生活。&lt;/p&gt;&lt;p&gt;Mirjam喜欢跑步和跳尊巴舞，也喜爱和朋友们相聚，探索法兰克福。她喜欢摄影，喜欢兰花，喜欢去跳蚤市场。事实上，一次与朋友一同购物的经历正是她和卓璧思相遇的契机。&lt;/p&gt;&lt;p&gt; “我当时正在苏黎世的一家店铺里挑选耳环，沉浸在各式各样的珠宝之中，我向我的朋友寻求意见却没有得到应答，于是我转过身，发现她站在我几步之外，安静而沉醉，正一心一意的搭配她的第一条卓璧思手链。我试图勇敢的告诉我自己‘你不必拥有每一件你朋友有的东西’” &lt;/p&gt;&lt;p&gt; 我只用了几天的时间，就决定去一个当地的珠宝商那里去“只是随便看看”。最后我离开店铺的时候，带走了一个银色手链，蓝色沙漠，净白钻珠和银质天使配花朵和珍珠的搭扣。那是在2009年。我至今仍记得销售的女孩告诉我，一位女士在购买了新手链后，仅用了一周就将手链串满了。我当时想，若这么快就将整条手链穿满了，如何享受在特别的时刻遇上那颗串珠的欣喜呢？也许我很快就会发现答案了。&lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent2" xml:lang="zh-cn">&lt;p&gt;五周之后，我的手链看起来就像我每周都过了一个生日，还在当中庆祝了复活节和圣诞节，和三个男人结了婚，并且生了四五个孩子一样。 &lt;/p&gt;&lt;p&gt; 我意识到，也许并不需要所谓特别的时机。我对手工艺品、创造和珠宝的热情，在卓璧思上完全爆发，它让我得以发挥我自己的创造力，用自己的想法去打造完全属于我的饰品。有时当我看着我的串珠，开始梦想着下一次的设计时，我可以感受到我的思绪飘入另一个穿满了精灵和童话的世界中去。这种感受让我如此快乐。 &lt;/p&gt;&lt;p&gt; 我2014年的全民串珠活动的作品，完美平衡的灵感，起源于我想要用最基础的色彩打造一款可以适合多种搭配的串珠。我因阴阳的含义和背后的故事而深深着迷。在古老的中国哲学中，这两种相反又互补的力量的互动创造了生活和生命中的一起：日与夜，男与女，生与死，冷与热，等等。也正是他们的平衡维持着宇宙的和谐。 &lt;/p&gt;&lt;p&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/p&gt;</custom-attribute>
+    </custom-attributes>
+    <folder-links>
+      <classification-link folder-id="designer"/>
+    </folder-links>
+  </content>
+  <content content-id="designer-93">
+    <display-name xml:lang="x-default">Josefine R Smith</display-name>
+    <online-flag>true</online-flag>
+    <searchable-flag>false</searchable-flag>
+    <page-attributes/>
+    <custom-attributes>
+      <custom-attribute attribute-id="blockText" xml:lang="zh-cn">&lt;p&gt; 
+&lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent1" xml:lang="zh-cn">&lt;p&gt;“我倾向于同时运用几何形和有机形。我喜欢作为一个金匠从事定制工作，但在Trollbeads的设计工作给了我一个机会，从万物有灵论的角度进行设计，同时可以用一直以来都很吸引我的公司设计理念从新定义自我。&lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent2" xml:lang="zh-cn">&lt;p&gt;正如许多其他的设计师一样，在长时间从事小物品的设计之后，我已经开始受到“玩偶之家综合症”的困扰......&lt;/p&gt;&lt;p&gt; &amp;nbsp; &lt;/p&gt;</custom-attribute>
+    </custom-attributes>
+    <folder-links>
+      <classification-link folder-id="designer"/>
+    </folder-links>
+  </content>
+  <content content-id="designer-95">
+    <display-name xml:lang="x-default">The Lithuania 工作组</display-name>
+    <online-flag>true</online-flag>
+    <searchable-flag>false</searchable-flag>
+    <page-attributes/>
+    <custom-attributes>
+      <custom-attribute attribute-id="blockText" xml:lang="zh-cn">&lt;p&gt;(从左至右为: Raminta Tamulevičiūtė,&amp;nbsp;Roberta Dubinskaitė,&amp;nbsp;Daiva Gedvilienė,&amp;nbsp;Snežana Milejeva,&amp;nbsp;Tatjana Jurkevičienė,&amp;nbsp;Jurgita Bacevičienė)&lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent1" xml:lang="zh-cn">&lt;p&gt;Lithyania是由六位富有创造力的女性组成的设计团队。他们的背景各不相同，而现在都从事着琉璃珠设计的工作，并将自己的灵感以及对自然的情感注入其中。&lt;/p&gt;&lt;p&gt;他们认为，为琉璃珠进行设计是一种表达情感和理念的方式。每颗琉璃珠都独特而动人，有独特的故事和特别的意义。&lt;/p&gt;&lt;p&gt;Raminta Tamulevičiūtė&lt;/p&gt;&lt;p&gt;每个人在从事他们最爱的工作时都会感到愉快和充满价值。我很高兴我就有从事这样的工作的机会。在读书和听音乐时，我都能从中获得串珠的创作灵感。我设计的串珠“圣诞清晨”，就是创作于一个温暖且阳光灿烂，并且我想起了圣诞的的春日早晨。&lt;/p&gt;&lt;p&gt;Roberta Dubinskaitė&lt;/p&gt;&lt;p&gt;我已经尝试了各种各样的活动，从完成语言学习到在保险公司从事行政工作。我从事这项与玻璃相关的工作只有两年，但我已经认识到，最大的快乐是在工作时带来快乐。当我用玻璃的工作时，我的灵感就会源源而来。打开一本不错的有声书之后，我的思绪开始周游世界，感受不同地方的人们的生活，在那一刻，我的双手将能够用玻璃创造奇迹。Shakti Gawain说过“创造的关键——是尝试的欲望，把握机会，看看会发生什么。”我的设计就是这样自然的发生的，就像我最喜欢的书种，故事有着意想不到的转折。我很佩服大自然的和谐。我设计的水族馆时，就是试图重建一个小片大自然。灵感，当我看到海，冰，天空和雨水时，我都感觉充满了灵感，想要让我的设计有更多的自然元素。所以，我的主色调是蓝色。&lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent2" xml:lang="zh-cn">&lt;p&gt;&lt;/p&gt;&lt;p&gt;Daiva Gedvilienė&lt;/p&gt;&lt;p&gt;这十几年来我的生活都和艺术创作有关。我曾从事纺织品，丝，麻，毛工作，但玻璃开辟了新的神奇领域，充满了独特的，非凡的，不断变化的，神秘的形状。我很荣幸，我设计的串珠可以和那些被人仰慕的专业设计师的作品一起收到欢迎。&lt;/p&gt;&lt;p&gt;Snežana Milejeva&lt;/p&gt;&lt;p&gt;从小我被迷住了的人谁能够画画。我认为这是一种自我表达的最有趣的方式之一，但我从来没有尝试过这样做我自己。当我第一次开始生产玻璃珠，我意识到，这是一个方法可以让我表达自己，传达我的想法和情绪。我最大的快乐是具有产生独特的颜色组合的能力。很久以前，我梦见满足早上在阿尔卑斯山上，怎么看初升的太阳照亮了山顶的。&lt;/p&gt;&lt;p&gt;Tatjana Jurkevičienė&lt;/p&gt;&lt;p&gt;从小，我就热爱大自然，热爱它随着每一季变化的美丽。我是一个种植专家。当我开始从事这项琉璃串珠的工作，我意识到，自然美景可以在串珠中得以表现。花是我的主要灵感。花朵的颜色和它们的形状，激励着我，让我可以创造美丽的珠子。&lt;/p&gt;&lt;p&gt;Jurgita Bacevičienė&lt;/p&gt;&lt;p&gt;在过去，我以为感情只能在纸上以及音乐种表达。而几年前，我发现了一种新的创作方式。当我开始工作，我意识到，我可以透过玻璃进行创造。我的灵感来自于无处不在的一切。你必须要细心到周围环境。每个玻璃珠都有独特的表达，有其历史和独特的意义，这些都反映了我的想法和感受。&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;</custom-attribute>
+    </custom-attributes>
+    <folder-links>
+      <classification-link folder-id="designer"/>
+    </folder-links>
+  </content>
+  <content content-id="designer-73">
+    <display-name xml:lang="x-default">Sandra Bus</display-name>
+    <online-flag>true</online-flag>
+    <searchable-flag>false</searchable-flag>
+    <page-attributes/>
+    <custom-attributes>
+      <custom-attribute attribute-id="blockText" xml:lang="zh-cn">&lt;p&gt;"When I started collecting Trollbeads in 2009, I also fell in love with glass. I was so fascinated by those tiny, colourful and shiny artworks with the little flowers, stripes and their unbelievable depth effect that I could not stop gazing at all the little details again and again. </custom-attribute>
+      <custom-attribute attribute-id="blockContent1" xml:lang="zh-cn">&lt;p&gt;In the same year, I took part in my first glass course. From the first moment on, I knew that working with glass was what I wanted to do from now on."&lt;/p&gt;&lt;/p&gt;&lt;p&gt;"Working with glass for me is something fulfilling and reflects my attitude towards life – creating something beautiful.&lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent2" xml:lang="zh-cn">&lt;p&gt;The material glass is so miscellaneous and exciting and gives me the room for creativity, which I was searching for a long time."&lt;/p&gt;&lt;p&gt;In 2012 Sandra Bus gave up working for a software company and satisfies her wish, just to work with glass.&lt;/p&gt;</custom-attribute>
+    </custom-attributes>
+    <folder-links>
+      <classification-link folder-id="designer"/>
+    </folder-links>
+  </content>
+  <content content-id="designer-97">
+    <display-name xml:lang="x-default">Louise Rimpler</display-name>
+    <online-flag>true</online-flag>
+    <searchable-flag>false</searchable-flag>
+    <page-attributes/>
+    <custom-attributes>
+      <custom-attribute attribute-id="blockText" xml:lang="zh-cn">&lt;p&gt;Louise Rimpler has since 1990 been a tattoo artist in the inner city of Copenhagen. She is best known for her colourful cartoon style and is the most awarded female tattoo artist in Denmark.&lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent1" xml:lang="zh-cn">&lt;p&gt;Originally she wanted to be an animator but then she got tattooed and this fascinated her deeply. People are an exciting canvas!&lt;/p&gt;&lt;p&gt;“My life and mind are filled with wonderful experiences and personalities through my work as a tattoo artist.&lt;/p&gt;&lt;p&gt;I give my customers colourful symbols that tell the story of times and places in their lives, even when they get tattooed by purely aesthetic reasons.&lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent2" xml:lang="zh-cn">&lt;p&gt;One by one, they go through a painful process in my hands, and I feel privileged to have seen them animate my drawings.&lt;/p&gt;&lt;p&gt;Now I would like to invite everybody to painlessly step into my drawn universe. With scalpel and tattoo needles I carve and design in wax, making creatures and symbols come to life. It's so fun, pure magic, and I've only just begun ...”&lt;/p&gt;</custom-attribute>
+    </custom-attributes>
+    <folder-links>
+      <classification-link folder-id="designer"/>
+    </folder-links>
+  </content>
+  <content content-id="designer-98">
+    <display-name xml:lang="x-default">Amanda White</display-name>
+    <online-flag>true</online-flag>
+    <searchable-flag>false</searchable-flag>
+    <page-attributes/>
+    <custom-attributes>
+      <custom-attribute attribute-id="blockText" xml:lang="zh-cn">&lt;p&gt;Amanda was born in Buckinghamshire (United Kingdom) in 1976, the same year the Trollbeads story began. From a young age she developed an interest in drawing and painting. She sees as a gift, a talent that she inherited from her mother. </custom-attribute>
+      <custom-attribute attribute-id="blockContent1" xml:lang="zh-cn">&lt;p&gt;Amanda has studied Art &amp;amp; Design at University and graduated with a Bachelor of Arts degree. Her profession is Graphic Design, where she works as a Creative Artworker.&amp;nbsp;&lt;/p&gt;&lt;/p&gt;&lt;p&gt;Her passions are nature, design and music. Amanda draws inspiration from her surroundings. It doesn’t matter if she is in a busy city or the open countryside; there is always something of interest. Her opinion is that a lifetime is not long enough to see and experience all of the beauty our planet has to offer. She enjoys long walks with her boyfriend and loves to explore new destinations and capture the memories with her camera.&lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent2" xml:lang="zh-cn">&lt;p&gt;She has a particular fondness for mountains, lakes and rock pools.&lt;/p&gt;&lt;p&gt;She enjoys music because it has the amazing ability to change emotions. It can be uplifting, exciting, and motivational and other times melancholy or even sad, and she can’t imagine a world without music. Music provides the soundtrack to her life.&lt;/p&gt;&lt;p&gt;When Amanda is not exploring the great outdoors, she likes to spend time with her family and their 3 dogs Alfie, Amber and Suki. She also enjoys eating out with friends, going to see a movie, listening to live music and dancing.&lt;/p&gt;&lt;p&gt;Amanda White&amp;nbsp;is the winner of People's Bead 2015:&amp;nbsp; &lt;/p&gt;</custom-attribute>
     </custom-attributes>
     <folder-links>
       <classification-link folder-id="designer"/>
