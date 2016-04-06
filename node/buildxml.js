@@ -20,6 +20,10 @@ function parse(htmlstring) {
             } /*else {
                 console.log(text.length)
             }*/
+            console.log(text);
+            // for (i=0; i < text.length; i++) {
+            //     console.log(text.charCodeAt(i));
+            // }
             // if (text.replace(/\s*|\n/g, "").length) {
             //     if (textList.length === 1 && textList.length && textList[0].length < headerMaxLength) {
             //         // console.log("charCodeAt(0) ", text.charCodeAt());
@@ -91,8 +95,8 @@ var getText = function(textlist) {
     var index = left < right ? allTxt.substring(0, allTxt.length / 2).length - left-1 : right + Math.floor(allTxt.length / 2);
     // console.log(allTxt.substring(0, allTxt.length / 2), allTxt.charAt(left), "\n\n\n", allTxt.substring(allTxt.length / 2), allTxt.charAt(right), index, allTxt.length / 2, allTxt.charAt(index));
     
-    contentBlock1 = allTxt.slice(0, index + 1).trim() + "</p>";
-    contentBlock2 = "<p>" + allTxt.slice(index + 1).trim();
+    contentBlock1 = allTxt.slice(0, index + 1).trim().length ? allTxt.slice(0, index + 1).trim() + "</p>" : "";
+    contentBlock2 = allTxt.slice(index + 1).trim().length ? "<p>" + allTxt.slice(index + 1).trim() : "";
     return [textblock, contentBlock1, contentBlock2];
 }
 
