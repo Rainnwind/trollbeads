@@ -61,7 +61,7 @@ var i, l = designer_ids_orig.length,
     j, k = languages_orig.length;
 
 for (i = 0; i < l; i++) {
-    // if (designer_ids_orig[i] != "/designers/1")
+    // if (designer_ids_orig[i] != "/designers/14")
     //     continue;
     var name_address = path.join(__dirname, "../phantom/designers", designer_ids_orig[i].replace(/\//g, "_"), "name.html");
     try {
@@ -94,6 +94,6 @@ for (i = 0; i < l; i++) {
     buildxml(content_object, xml);
 }
 
-fs.writeFileSync("full_import.xml", xml.end({
+fs.writeFileSync("chinese.xml", xml.end({
     pretty: true
 }));

@@ -15,7 +15,11 @@ function parse(htmlstring) {
         },
         ontext: function(text) {
             // console.log(text, text.replace(/\s*|\n/g, "").length, "\n", text);
-            textList.push(text);
+            if(text.charCodeAt(0) != 10 || text.length > 2) {
+                textList.push("<p>" + text + "</p>");    
+            } /*else {
+                console.log(text.length)
+            }*/
             // if (text.replace(/\s*|\n/g, "").length) {
             //     if (textList.length === 1 && textList.length && textList[0].length < headerMaxLength) {
             //         // console.log("charCodeAt(0) ", text.charCodeAt());
@@ -48,7 +52,7 @@ function parse(htmlstring) {
     });
     parser.write(htmlstring);
     parser.end();
-    console.log(textList);
+    // console.log(textList);
     return textList;
 }
 
