@@ -52,7 +52,7 @@ var languages_orig = [
     "/czech-republic/cs-cz", "/denmark/da-dk", "/nederlands/nl-nl", "/france/fr-fr", "/germany/de-de",
     "/italy/it-it", "/japan/ja-jp", "/south-korea/ko-kr", "/lithuania/lt-lt", "/spain/es-es", "/china/zh-cn"
 ];
-var languages = ["cs-CZ", "da-DK", "nl", "fr", "de", "it", "ja-JP", "ko-KR", "lt-LT", "es", "zh-cn"];
+var languages = ["cs-CZ", "da-DK", "nl", "fr", "de", "it", "ja-JP", "ko-KR", "lt-LT", "es", "zh"];
 
 var fs = require("fs"),
     path = require("path");
@@ -77,7 +77,7 @@ for (i = 0; i < l; i++) {
         name: name
     };
     for (j = 0; j < k; j++) {
-        if (languages[j] != "zh-cn") 
+        if (languages[j] != "zh") 
             continue;
         var content_address = path.join(__dirname, "../phantom/designers", designer_ids_orig[i].replace(/\//g, "_"), languages_orig[j].replace(/\//g, "_") + ".html");
         try {
