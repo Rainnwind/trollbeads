@@ -14,39 +14,41 @@ function parse(htmlstring) {
             // }
         },
         ontext: function(text) {
-            // console.log(text);
-            if (text.replace(/\s*|\n/g, "").length) {
-                if (textList.length === 1 && textList.length && textList[0].length < headerMaxLength) {
-                    // console.log("charCodeAt(0) ", text.charCodeAt());
-                    var i = text.search(/\n\n/);
-                    var j = textList[0].charCodeAt(textList.length -1) === 10 && text.charCodeAt(0) === 10;
-                    if (i != -1 || j ) {
-                        var index = i > 1 ? i : 1
-                        // console.log("THISIS I ", i, j, text);
-                        // if (i > 1)
-                        textList[0] += text.slice(0, index);
-                        textList.push("<p>" + text.slice(index) + "</p>");
-                        // console.log(index, textList);
-                    }
-                    // textList[0] += text;
-                }
-                else if (textList.length) {
-                    textList.push("<p>" + text + "</p>");
-                    element = ""
-                } else {
-                    textList.push(text);
-                }
-            }
+            // console.log(text, text.replace(/\s*|\n/g, "").length, "\n", text);
+            textList.push(text);
+            // if (text.replace(/\s*|\n/g, "").length) {
+            //     if (textList.length === 1 && textList.length && textList[0].length < headerMaxLength) {
+            //         // console.log("charCodeAt(0) ", text.charCodeAt());
+            //         var i = text.search(/\n\n/);
+            //         var j = textList[0].charCodeAt(textList.length -1) === 10 && text.charCodeAt(0) === 10;
+            //         if (i != -1 || j ) {
+            //             var index = i > 1 ? i : 1
+            //             // console.log("THISIS I ", i, j, text);
+            //             // if (i > 1)
+            //             textList[0] += text.slice(0, index);
+            //             textList.push("<p>" + text.slice(index) + "</p>");
+            //             // console.log(index, textList);
+            //         }
+            //         // textList[0] += text;
+            //     }
+            //     else if (textList.length) {
+            //         textList.push("<p>" + text + "</p>");
+            //         element = ""
+            //     } else {
+            //         textList.push(text);
+            //     }
+            // }
         },
         onclosetag: function(tagname) {
             // 
             // console.log(tagname);
         }
     }, {
-        decodeEntities: true
+        decodeEntities: false
     });
     parser.write(htmlstring);
     parser.end();
+    console.log(textList);
     return textList;
 }
 
@@ -58,8 +60,8 @@ var getText = function(textlist) {
         contentBlock1,
         contentBlock2;
 
-    var Rpattern = /\.(\<|\s|$)|\"\s|\u3002\s/
-    var Lpattern = /(\<|\s|^)\.|\s\"|\s\u3002/
+    var Rpattern = /\.(\<|\s|$)|\"\s|\u3002/
+    var Lpattern = /(\<|\s|^)\.|\s\"|\u3002/
 
     if (textlist[0].length < headerMaxLength) {
         textblock = textlist[0];
@@ -105,9 +107,9 @@ module.exports = function(designer, xml) {
     var textcontainer = container.ele("custom-attributes");
     for (var i = 0; i < designer.langs.length; i++) {
 
-        console.log(designer.langs[i]);
+        // console.log(designer.langs[i]);
         var strippedContents = designer.contents[i].replace(/\<(span|a|em)\>|\<\/(span|a|em)\>/g, ' ').replace(/\<(span|a|em).*\>/, " ");
-        console.log(strippedContents);
+        // console.log(strippedContents);
         var parsedList = parse(strippedContents),
             text = getText(parsedList);
         // console.log(parsedList);
