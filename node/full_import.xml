@@ -1,17 +1,1316 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <library xmlns="http://www.demandware.com/xml/impex/library/2006-10-31" library-id="SharedLibrary">
+  <content content-id="designer-1">
+    <display-name xml:lang="x-default">Lise Aagaard</display-name>
+    <online-flag>true</online-flag>
+    <searchable-flag>false</searchable-flag>
+    <page-attributes/>
+    <custom-attributes>
+      <custom-attribute attribute-id="blockText" xml:lang="zh-cn">成长在一个珠宝商的家庭，我从出生就拥有可以不断学习艺术，轮廓和物料的优越环境。在专业上不断面对创作上的一切可能和界限，老实说，任何东西，万物都是</custom-attribute>
+      <custom-attribute attribute-id="blockContent1" xml:lang="zh-cn">&lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent2" xml:lang="zh-cn">&lt;p&gt;</custom-attribute>
+    </custom-attributes>
+    <folder-links>
+      <classification-link folder-id="designer"/>
+    </folder-links>
+  </content>
+  <content content-id="designer-2">
+    <display-name xml:lang="x-default">Søren Nielsen</display-name>
+    <online-flag>true</online-flag>
+    <searchable-flag>false</searchable-flag>
+    <page-attributes/>
+    <custom-attributes>
+      <custom-attribute attribute-id="blockText" xml:lang="zh-cn">我的第一个 trollbeads  设计是把纯银制成的小脸蛋和姿势串在皮革上。设计的意图是讲故事和与人沟通。从第一个  trollbeads  设计至今已超过  30  年，新设计还会陆续登场。小精灵，故事，神话和其他文化通通都是我的灵感来源。 </custom-attribute>
+      <custom-attribute attribute-id="blockContent1" xml:lang="zh-cn">&lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent2" xml:lang="zh-cn">&lt;p&gt;</custom-attribute>
+    </custom-attributes>
+    <folder-links>
+      <classification-link folder-id="designer"/>
+    </folder-links>
+  </content>
+  <content content-id="designer-3">
+    <display-name xml:lang="x-default">Asger Max Andersen</display-name>
+    <online-flag>true</online-flag>
+    <searchable-flag>false</searchable-flag>
+    <page-attributes/>
+    <custom-attributes>
+      <custom-attribute attribute-id="blockText" xml:lang="zh-cn">从 1965  年在哥本哈根成为合资格的银匠到  1975  在丹麦罗斯基勒创业之前，  Asger  一直在国外教学和工作。 </custom-attribute>
+      <custom-attribute attribute-id="blockContent1" xml:lang="zh-cn">&lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent2" xml:lang="zh-cn">&lt;p&gt;</custom-attribute>
+    </custom-attributes>
+    <folder-links>
+      <classification-link folder-id="designer"/>
+    </folder-links>
+  </content>
+  <content content-id="designer-4">
+    <display-name xml:lang="x-default">Christel Kaaber</display-name>
+    <online-flag>true</online-flag>
+    <searchable-flag>false</searchable-flag>
+    <page-attributes/>
+    <custom-attributes>
+      <custom-attribute attribute-id="blockText" xml:lang="zh-cn">当我在 Svend</custom-attribute>
+      <custom-attribute attribute-id="blockContent1" xml:lang="zh-cn">&lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent2" xml:lang="zh-cn">&lt;p&gt;</custom-attribute>
+    </custom-attributes>
+    <folder-links>
+      <classification-link folder-id="designer"/>
+    </folder-links>
+  </content>
+  <content content-id="designer-5">
+    <display-name xml:lang="x-default">Corinne Jarvis</display-name>
+    <online-flag>true</online-flag>
+    <searchable-flag>false</searchable-flag>
+    <page-attributes/>
+    <custom-attributes>
+      <custom-attribute attribute-id="blockText" xml:lang="zh-cn">Corinne 在十年前为  trollbeads  设计了地球珠。现在她已经身为人母并成为了演讲语言病理学家。她是完全没有经过训练自学制作珠珠的。所有  Corinne  设计的珠珠都流露着她对生态和大自然的爱。 </custom-attribute>
+      <custom-attribute attribute-id="blockContent1" xml:lang="zh-cn">&lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent2" xml:lang="zh-cn">&lt;p&gt;</custom-attribute>
+    </custom-attributes>
+    <folder-links>
+      <classification-link folder-id="designer"/>
+    </folder-links>
+  </content>
+  <content content-id="designer-6">
+    <display-name xml:lang="x-default">Gitte Bjørn</display-name>
+    <online-flag>true</online-flag>
+    <searchable-flag>false</searchable-flag>
+    <page-attributes/>
+    <custom-attributes>
+      <custom-attribute attribute-id="blockText" xml:lang="zh-cn">Gitte</custom-attribute>
+      <custom-attribute attribute-id="blockContent1" xml:lang="zh-cn">&lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent2" xml:lang="zh-cn">&lt;p&gt;</custom-attribute>
+    </custom-attributes>
+    <folder-links>
+      <classification-link folder-id="designer"/>
+    </folder-links>
+  </content>
+  <content content-id="designer-7">
+    <display-name xml:lang="x-default">Isabel Aagaard</display-name>
+    <online-flag>true</online-flag>
+    <searchable-flag>false</searchable-flag>
+    <page-attributes/>
+    <custom-attributes>
+      <custom-attribute attribute-id="blockText" xml:lang="zh-cn">当你出生在跟我一样有创意的家庭时，自然也会选择加入。我的第一粒珠珠灵感来自于折纸这种日本艺术。我一直都对传统和几何结构着迷。</custom-attribute>
+      <custom-attribute attribute-id="blockContent1" xml:lang="zh-cn">&lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent2" xml:lang="zh-cn">&lt;p&gt;</custom-attribute>
+    </custom-attributes>
+    <folder-links>
+      <classification-link folder-id="designer"/>
+    </folder-links>
+  </content>
+  <content content-id="designer-8">
+    <display-name xml:lang="x-default">Jens Nielsen</display-name>
+    <online-flag>true</online-flag>
+    <searchable-flag>false</searchable-flag>
+    <page-attributes/>
+    <custom-attributes>
+      <custom-attribute attribute-id="blockText" xml:lang="zh-cn">我在这个团队的第一天就已经开始不断完善丹麦镯品这个概念。必须要熟悉和了解如何制作琉璃珠的工艺，同时要知道如何使用现代技术。这样我们才能可以独一无二的首饰推出市场并得到合理的定价。对我来说，这是一个将创意灵感与现代生产理论结合的刺激挑战。</custom-attribute>
+      <custom-attribute attribute-id="blockContent1" xml:lang="zh-cn">&lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent2" xml:lang="zh-cn">&lt;p&gt;</custom-attribute>
+    </custom-attributes>
+    <folder-links>
+      <classification-link folder-id="designer"/>
+    </folder-links>
+  </content>
+  <content content-id="designer-9">
+    <display-name xml:lang="x-default">Jytte Kløve</display-name>
+    <online-flag>true</online-flag>
+    <searchable-flag>false</searchable-flag>
+    <page-attributes/>
+    <custom-attributes>
+      <custom-attribute attribute-id="blockText" xml:lang="zh-cn">金匠 Jytte</custom-attribute>
+      <custom-attribute attribute-id="blockContent1" xml:lang="zh-cn">&lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent2" xml:lang="zh-cn">&lt;p&gt;</custom-attribute>
+    </custom-attributes>
+    <folder-links>
+      <classification-link folder-id="designer"/>
+    </folder-links>
+  </content>
+  <content content-id="designer-10">
+    <display-name xml:lang="x-default">Kate Fowle Meleney</display-name>
+    <online-flag>true</online-flag>
+    <searchable-flag>false</searchable-flag>
+    <page-attributes/>
+    <custom-attributes>
+      <custom-attribute attribute-id="blockText" xml:lang="zh-cn">Kate</custom-attribute>
+      <custom-attribute attribute-id="blockContent1" xml:lang="zh-cn">&lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent2" xml:lang="zh-cn">&lt;p&gt;</custom-attribute>
+    </custom-attributes>
+    <folder-links>
+      <classification-link folder-id="designer"/>
+    </folder-links>
+  </content>
+  <content content-id="designer-11">
+    <display-name xml:lang="x-default">Lars Glad</display-name>
+    <online-flag>true</online-flag>
+    <searchable-flag>false</searchable-flag>
+    <page-attributes/>
+    <custom-attributes>
+      <custom-attribute attribute-id="blockText" xml:lang="zh-cn">我的灵感无疑是来自于我的斯堪的纳维亚背景。简洁的斯堪的纳维亚外观和冒险的北欧神话融合在一起，重新诠释出一个纯净和简单的意义，我们可以用时尚和不朽来形容，但经常被加入力学的表达。</custom-attribute>
+      <custom-attribute attribute-id="blockContent1" xml:lang="zh-cn">&lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent2" xml:lang="zh-cn">&lt;p&gt;</custom-attribute>
+    </custom-attributes>
+    <folder-links>
+      <classification-link folder-id="designer"/>
+    </folder-links>
+  </content>
+  <content content-id="designer-12">
+    <display-name xml:lang="x-default">Maria Nielsen</display-name>
+    <online-flag>true</online-flag>
+    <searchable-flag>false</searchable-flag>
+    <page-attributes/>
+    <custom-attributes>
+      <custom-attribute attribute-id="blockText" xml:lang="zh-cn">从 1997  年起  Maria</custom-attribute>
+      <custom-attribute attribute-id="blockContent1" xml:lang="zh-cn">&lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent2" xml:lang="zh-cn">&lt;p&gt;</custom-attribute>
+    </custom-attributes>
+    <folder-links>
+      <classification-link folder-id="designer"/>
+    </folder-links>
+  </content>
+  <content content-id="designer-13">
+    <display-name xml:lang="x-default">Anders Martin Bruun</display-name>
+    <online-flag>true</online-flag>
+    <searchable-flag>false</searchable-flag>
+    <page-attributes/>
+    <custom-attributes>
+      <custom-attribute attribute-id="blockText" xml:lang="zh-cn">我把自己看作是一个喜欢在工作的时候吸收各样细节的独立商人，艺术家，设计师，金匠和艺人。我会尽力精致和纯粹的表达创作，和 trollbeads  合作非常有挑战性，让人兴奋。 </custom-attribute>
+      <custom-attribute attribute-id="blockContent1" xml:lang="zh-cn">&lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent2" xml:lang="zh-cn">&lt;p&gt;</custom-attribute>
+    </custom-attributes>
+    <folder-links>
+      <classification-link folder-id="designer"/>
+    </folder-links>
+  </content>
+  <content content-id="designer-14">
+    <display-name xml:lang="x-default">Mette Saabye</display-name>
+    <online-flag>true</online-flag>
+    <searchable-flag>false</searchable-flag>
+    <page-attributes/>
+    <custom-attributes>
+      <custom-attribute attribute-id="blockText" xml:lang="zh-cn">Mette</custom-attribute>
+      <custom-attribute attribute-id="blockContent1" xml:lang="zh-cn">&lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent2" xml:lang="zh-cn">&lt;p&gt;</custom-attribute>
+    </custom-attributes>
+    <folder-links>
+      <classification-link folder-id="designer"/>
+    </folder-links>
+  </content>
+  <content content-id="designer-15">
+    <display-name xml:lang="x-default">Michael Weihe</display-name>
+    <online-flag>true</online-flag>
+    <searchable-flag>false</searchable-flag>
+    <page-attributes/>
+    <custom-attributes>
+      <custom-attribute attribute-id="blockText" xml:lang="zh-cn">我在 2000  年在  Georg</custom-attribute>
+      <custom-attribute attribute-id="blockContent1" xml:lang="zh-cn">&lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent2" xml:lang="zh-cn">&lt;p&gt;</custom-attribute>
+    </custom-attributes>
+    <folder-links>
+      <classification-link folder-id="designer"/>
+    </folder-links>
+  </content>
+  <content content-id="designer-16">
+    <display-name xml:lang="x-default">Nicolas Aagaard</display-name>
+    <online-flag>true</online-flag>
+    <searchable-flag>false</searchable-flag>
+    <page-attributes/>
+    <custom-attributes>
+      <custom-attribute attribute-id="blockText" xml:lang="zh-cn">能成为丹麦镯品的一份子真是难以置信的兴奋，尤其是我是家族的第三代丹麦镯品设计师。丹麦镯品历史久远，我可以向身边众多经验丰富的银匠学习。</custom-attribute>
+      <custom-attribute attribute-id="blockContent1" xml:lang="zh-cn">&lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent2" xml:lang="zh-cn">&lt;p&gt;</custom-attribute>
+    </custom-attributes>
+    <folder-links>
+      <classification-link folder-id="designer"/>
+    </folder-links>
+  </content>
+  <content content-id="designer-17">
+    <display-name xml:lang="x-default">Ragnar R. Jørgensen</display-name>
+    <online-flag>true</online-flag>
+    <searchable-flag>false</searchable-flag>
+    <page-attributes/>
+    <custom-attributes>
+      <custom-attribute attribute-id="blockText" xml:lang="zh-cn">Ragnar R. Jørgensen在美国和丹麦接受专业的金饰训练，并且从在丹麦、瑞典、挪威、美国与珠宝首饰打交道的过程中获得了宝贵而且独特的经验。Ragnar R. Jørgensen现在是丹麦最著名的珠宝设计师之一，并且在哥本哈根有自己的工作室。</custom-attribute>
+      <custom-attribute attribute-id="blockContent1" xml:lang="zh-cn">&lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent2" xml:lang="zh-cn">&lt;p&gt;</custom-attribute>
+    </custom-attributes>
+    <folder-links>
+      <classification-link folder-id="designer"/>
+    </folder-links>
+  </content>
+  <content content-id="designer-18">
+    <display-name xml:lang="x-default">Ričardas Kapučinskas</display-name>
+    <online-flag>true</online-flag>
+    <searchable-flag>false</searchable-flag>
+    <page-attributes/>
+    <custom-attributes>
+      <custom-attribute attribute-id="blockText" xml:lang="zh-cn">我喜欢琉璃的性质。颜色丰富，我就是喜欢成品。过去 5  年里我一直梦想可以制作琉璃，大概在一年半前我终于有机会实现了。 </custom-attribute>
+      <custom-attribute attribute-id="blockContent1" xml:lang="zh-cn">&lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent2" xml:lang="zh-cn">&lt;p&gt;</custom-attribute>
+    </custom-attributes>
+    <folder-links>
+      <classification-link folder-id="designer"/>
+    </folder-links>
+  </content>
+  <content content-id="designer-19">
+    <display-name xml:lang="x-default">Signe M. Schumann</display-name>
+    <online-flag>true</online-flag>
+    <searchable-flag>false</searchable-flag>
+    <page-attributes/>
+    <custom-attributes>
+      <custom-attribute attribute-id="blockText" xml:lang="zh-cn">从 2000  夏天年开始我已经在  Lise</custom-attribute>
+      <custom-attribute attribute-id="blockContent1" xml:lang="zh-cn">&lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent2" xml:lang="zh-cn">&lt;p&gt;</custom-attribute>
+    </custom-attributes>
+    <folder-links>
+      <classification-link folder-id="designer"/>
+    </folder-links>
+  </content>
+  <content content-id="designer-20">
+    <display-name xml:lang="x-default">Svend Nielsen</display-name>
+    <online-flag>true</online-flag>
+    <searchable-flag>false</searchable-flag>
+    <page-attributes/>
+    <custom-attributes>
+      <custom-attribute attribute-id="blockText" xml:lang="zh-cn">" 我在  1932  年与其他  8  个人一起开始学徒生涯一直到  1937  年。那时候，在手链上挂上吉祥小物品是完全创新的构思  ...  甚至有报纸会为这事做报导！我们把黄金做成的小水桶和小铲子挂在手链上。 </custom-attribute>
+      <custom-attribute attribute-id="blockContent1" xml:lang="zh-cn">&lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent2" xml:lang="zh-cn">&lt;p&gt;</custom-attribute>
+    </custom-attributes>
+    <folder-links>
+      <classification-link folder-id="designer"/>
+    </folder-links>
+  </content>
+  <content content-id="designer-21">
+    <display-name xml:lang="x-default">Tom Blicher</display-name>
+    <online-flag>true</online-flag>
+    <searchable-flag>false</searchable-flag>
+    <page-attributes/>
+    <custom-attributes>
+      <custom-attribute attribute-id="blockText" xml:lang="zh-cn">Tom</custom-attribute>
+      <custom-attribute attribute-id="blockContent1" xml:lang="zh-cn">&lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent2" xml:lang="zh-cn">&lt;p&gt;</custom-attribute>
+    </custom-attributes>
+    <folder-links>
+      <classification-link folder-id="designer"/>
+    </folder-links>
+  </content>
   <content content-id="designer-22">
     <display-name xml:lang="x-default">Trine Tanja Falsled</display-name>
     <online-flag>true</online-flag>
     <searchable-flag>false</searchable-flag>
     <page-attributes/>
     <custom-attributes>
-      <custom-attribute attribute-id="blockText" xml:lang="da-DK">
-    Det er en spændende proces at skabe en kugle. Først finder jeg ud af hvordan jeg vil placere dyrene i forhold til hinanden, og så prøver jeg at frembringe dyrenes karakteristika, med så mange detaljer som muligt.
-    
-</custom-attribute>
-      <custom-attribute attribute-id="blockContent1" xml:lang="da-DK">&lt;p&gt; Jeg har lavet de fleste kugler i min læretid hos Svend Nielsen og det er en dejlig oplevelse at se hvordan de er &lt;/p&gt;&lt;p&gt; blevet til en hel flok. Jeg håber du bliver glad for din kugle.&lt;/p&gt;</custom-attribute>
-      <custom-attribute attribute-id="blockContent2" xml:lang="da-DK">&lt;p&gt;&lt;/p&gt;&lt;p&gt; "Jeg tager mine løbesko på, løber ud af hoveddøren og så er jeg mellem bølgende kornmarker, under den blå himmel. Det er da fantastisk." &lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockText" xml:lang="zh-cn">制作珠珠是一个兴奋的过程。首先我会整理动物之间的联系。然后我会把那个动物的特征尽量细致的描述出来。我在 Svend</custom-attribute>
+      <custom-attribute attribute-id="blockContent1" xml:lang="zh-cn">&lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent2" xml:lang="zh-cn">&lt;p&gt;</custom-attribute>
+    </custom-attributes>
+    <folder-links>
+      <classification-link folder-id="designer"/>
+    </folder-links>
+  </content>
+  <content content-id="designer-24">
+    <display-name xml:lang="x-default">Eske Storm</display-name>
+    <online-flag>true</online-flag>
+    <searchable-flag>false</searchable-flag>
+    <page-attributes/>
+    <custom-attributes>
+      <custom-attribute attribute-id="blockText" xml:lang="zh-cn">Eske</custom-attribute>
+      <custom-attribute attribute-id="blockContent1" xml:lang="zh-cn">&lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent2" xml:lang="zh-cn">&lt;p&gt;</custom-attribute>
+    </custom-attributes>
+    <folder-links>
+      <classification-link folder-id="designer"/>
+    </folder-links>
+  </content>
+  <content content-id="designer-25">
+    <display-name xml:lang="x-default">Gabriele Weber-Vögele</display-name>
+    <online-flag>true</online-flag>
+    <searchable-flag>false</searchable-flag>
+    <page-attributes/>
+    <custom-attributes>
+      <custom-attribute attribute-id="blockText" xml:lang="zh-cn">Gabriele</custom-attribute>
+      <custom-attribute attribute-id="blockContent1" xml:lang="zh-cn">&lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent2" xml:lang="zh-cn">&lt;p&gt;</custom-attribute>
+    </custom-attributes>
+    <folder-links>
+      <classification-link folder-id="designer"/>
+    </folder-links>
+  </content>
+  <content content-id="designer-26">
+    <display-name xml:lang="x-default">Tomas Cenius</display-name>
+    <online-flag>true</online-flag>
+    <searchable-flag>false</searchable-flag>
+    <page-attributes/>
+    <custom-attributes>
+      <custom-attribute attribute-id="blockText" xml:lang="zh-cn">自学成才的设计师 Tomas</custom-attribute>
+      <custom-attribute attribute-id="blockContent1" xml:lang="zh-cn">&lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent2" xml:lang="zh-cn">&lt;p&gt;</custom-attribute>
+    </custom-attributes>
+    <folder-links>
+      <classification-link folder-id="designer"/>
+    </folder-links>
+  </content>
+  <content content-id="designer-27">
+    <display-name xml:lang="x-default">Allan Bayer</display-name>
+    <online-flag>true</online-flag>
+    <searchable-flag>false</searchable-flag>
+    <page-attributes/>
+    <custom-attributes>
+      <custom-attribute attribute-id="blockText" xml:lang="zh-cn">Allan</custom-attribute>
+      <custom-attribute attribute-id="blockContent1" xml:lang="zh-cn">&lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent2" xml:lang="zh-cn">&lt;p&gt;</custom-attribute>
+    </custom-attributes>
+    <folder-links>
+      <classification-link folder-id="designer"/>
+    </folder-links>
+  </content>
+  <content content-id="designer-28">
+    <display-name xml:lang="x-default">Suzanne Marie Hopping</display-name>
+    <online-flag>true</online-flag>
+    <searchable-flag>false</searchable-flag>
+    <page-attributes/>
+    <custom-attributes>
+      <custom-attribute attribute-id="blockText" xml:lang="zh-cn">Suzanne 住在雪梨，是个自认喜欢吃辣，炎热天气，和任何与艺术、设计、摄影、绘画相关的意大利人。除了对丹麦镯品上瘾之外，她还是个恋狗狂。她最近收养了一直  3  岁曾经参加赛狗，名叫  "  突然间流行  "  的灰狗。现在改名为爱丽丝珍珠。 </custom-attribute>
+      <custom-attribute attribute-id="blockContent1" xml:lang="zh-cn">&lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent2" xml:lang="zh-cn">&lt;p&gt;</custom-attribute>
+    </custom-attributes>
+    <folder-links>
+      <classification-link folder-id="designer"/>
+    </folder-links>
+  </content>
+  <content content-id="designer-29">
+    <display-name xml:lang="x-default">Benedetta Romita</display-name>
+    <online-flag>true</online-flag>
+    <searchable-flag>false</searchable-flag>
+    <page-attributes/>
+    <custom-attributes>
+      <custom-attribute attribute-id="blockText" xml:lang="zh-cn">我在 1976  年出生于罗马，与  trollbeads  诞生同年，从孩童时期开始我已经每天画画。 </custom-attribute>
+      <custom-attribute attribute-id="blockContent1" xml:lang="zh-cn">&lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent2" xml:lang="zh-cn">&lt;p&gt;</custom-attribute>
+    </custom-attributes>
+    <folder-links>
+      <classification-link folder-id="designer"/>
+    </folder-links>
+  </content>
+  <content content-id="designer-30">
+    <display-name xml:lang="x-default">Jamie North</display-name>
+    <online-flag>true</online-flag>
+    <searchable-flag>false</searchable-flag>
+    <page-attributes/>
+    <custom-attributes>
+      <custom-attribute attribute-id="blockText" xml:lang="zh-cn">Jamie</custom-attribute>
+      <custom-attribute attribute-id="blockContent1" xml:lang="zh-cn">&lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent2" xml:lang="zh-cn">&lt;p&gt;</custom-attribute>
+    </custom-attributes>
+    <folder-links>
+      <classification-link folder-id="designer"/>
+    </folder-links>
+  </content>
+  <content content-id="designer-31">
+    <display-name xml:lang="x-default">Marjoke van de Plassche</display-name>
+    <online-flag>true</online-flag>
+    <searchable-flag>false</searchable-flag>
+    <page-attributes/>
+    <custom-attributes>
+      <custom-attribute attribute-id="blockText" xml:lang="zh-cn">我是一个生物学家，这是为什么我的很多设计意念都是在自然和环境的议题里取材。我是在一年前才开始设计首饰的，就在附近的艺术中心接受金匠训练之后，我就开始欲罢不能了。</custom-attribute>
+      <custom-attribute attribute-id="blockContent1" xml:lang="zh-cn">&lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent2" xml:lang="zh-cn">&lt;p&gt;</custom-attribute>
+    </custom-attributes>
+    <folder-links>
+      <classification-link folder-id="designer"/>
+    </folder-links>
+  </content>
+  <content content-id="designer-32">
+    <display-name xml:lang="x-default">Amelia (Milly) Page</display-name>
+    <online-flag>true</online-flag>
+    <searchable-flag>false</searchable-flag>
+    <page-attributes/>
+    <custom-attributes>
+      <custom-attribute attribute-id="blockText" xml:lang="zh-cn">Milly</custom-attribute>
+      <custom-attribute attribute-id="blockContent1" xml:lang="zh-cn">&lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent2" xml:lang="zh-cn">&lt;p&gt;</custom-attribute>
+    </custom-attributes>
+    <folder-links>
+      <classification-link folder-id="designer"/>
+    </folder-links>
+  </content>
+  <content content-id="designer-33">
+    <display-name xml:lang="x-default">Kristian Krysfeldt</display-name>
+    <online-flag>true</online-flag>
+    <searchable-flag>false</searchable-flag>
+    <page-attributes/>
+    <custom-attributes>
+      <custom-attribute attribute-id="blockText" xml:lang="zh-cn">Trollbeads 是一个有趣又充满挑战的表现自我方式。一手拿着尽心打造的项鍊和链扣作框架，同时又开放了纯银制成的都术语，印象，经验和动物的世界。给予冒险家一个探险的天堂，就象是我的  … </custom-attribute>
+      <custom-attribute attribute-id="blockContent1" xml:lang="zh-cn">&lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent2" xml:lang="zh-cn">&lt;p&gt;</custom-attribute>
+    </custom-attributes>
+    <folder-links>
+      <classification-link folder-id="designer"/>
+    </folder-links>
+  </content>
+  <content content-id="designer-34">
+    <display-name xml:lang="x-default">Anna - Qing Shao Mej</display-name>
+    <online-flag>true</online-flag>
+    <searchable-flag>false</searchable-flag>
+    <page-attributes/>
+    <custom-attributes>
+      <custom-attribute attribute-id="blockText" xml:lang="zh-cn">Anna 来自中国南方广东省的一个小城市。她是一个大型饰品公司的设计师，在那里她学到设计的技术并发展处她自己独特的风格。她的梦想环游世界，更重要的是在  2012  年之前和男友结婚。 </custom-attribute>
+      <custom-attribute attribute-id="blockContent1" xml:lang="zh-cn">&lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent2" xml:lang="zh-cn">&lt;p&gt;</custom-attribute>
+    </custom-attributes>
+    <folder-links>
+      <classification-link folder-id="designer"/>
+    </folder-links>
+  </content>
+  <content content-id="designer-35">
+    <display-name xml:lang="x-default">Nicolai Appel</display-name>
+    <online-flag>true</online-flag>
+    <searchable-flag>false</searchable-flag>
+    <page-attributes/>
+    <custom-attributes>
+      <custom-attribute attribute-id="blockText" xml:lang="zh-cn">出生在 1966  年丹麦哥本哈根。在  Georg</custom-attribute>
+      <custom-attribute attribute-id="blockContent1" xml:lang="zh-cn">&lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent2" xml:lang="zh-cn">&lt;p&gt;</custom-attribute>
+    </custom-attributes>
+    <folder-links>
+      <classification-link folder-id="designer"/>
+    </folder-links>
+  </content>
+  <content content-id="designer-36">
+    <display-name xml:lang="x-default">Kasia Gasparski</display-name>
+    <online-flag>true</online-flag>
+    <searchable-flag>false</searchable-flag>
+    <page-attributes/>
+    <custom-attributes>
+      <custom-attribute attribute-id="blockText" xml:lang="zh-cn">1990 至  1994  年间，  Kasia</custom-attribute>
+      <custom-attribute attribute-id="blockContent1" xml:lang="zh-cn">&lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent2" xml:lang="zh-cn">&lt;p&gt;</custom-attribute>
+    </custom-attributes>
+    <folder-links>
+      <classification-link folder-id="designer"/>
+    </folder-links>
+  </content>
+  <content content-id="designer-37">
+    <display-name xml:lang="x-default">Joseph Norah</display-name>
+    <online-flag>true</online-flag>
+    <searchable-flag>false</searchable-flag>
+    <page-attributes/>
+    <custom-attributes>
+      <custom-attribute attribute-id="blockText" xml:lang="zh-cn">当 Joseph  住在丹麦的时候，曾是丹麦镯品团队的一员。 </custom-attribute>
+      <custom-attribute attribute-id="blockContent1" xml:lang="zh-cn">&lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent2" xml:lang="zh-cn">&lt;p&gt;</custom-attribute>
+    </custom-attributes>
+    <folder-links>
+      <classification-link folder-id="designer"/>
+    </folder-links>
+  </content>
+  <content content-id="designer-38">
+    <display-name xml:lang="x-default">Alessia Fatone</display-name>
+    <online-flag>true</online-flag>
+    <searchable-flag>false</searchable-flag>
+    <page-attributes/>
+    <custom-attributes>
+      <custom-attribute attribute-id="blockText" xml:lang="zh-cn">我出生于 1970  年，并一直热衷于手工艺术。早在孩童时期一次在穆拉诺岛美妙旅行之后，我就对玻璃艺术  "  一见钟情  "  ，但我是在  30  岁的时候才在托斯卡纳第一次上玻璃制作的课，我在那里认识了  Lise</custom-attribute>
+      <custom-attribute attribute-id="blockContent1" xml:lang="zh-cn">&lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent2" xml:lang="zh-cn">&lt;p&gt;</custom-attribute>
+    </custom-attributes>
+    <folder-links>
+      <classification-link folder-id="designer"/>
+    </folder-links>
+  </content>
+  <content content-id="designer-39">
+    <display-name xml:lang="x-default">Gail Crosman Moore</display-name>
+    <online-flag>true</online-flag>
+    <searchable-flag>false</searchable-flag>
+    <page-attributes/>
+    <custom-attributes>
+      <custom-attribute attribute-id="blockText" xml:lang="zh-cn">我想我需要一些时间去告诉你我的爱好 …  我需要创作。从纤维，玻璃，陶瓷，金属，纸张制作的东西，没有一个材料是安全的！我的另一需要就是把我的创作从二维带到三维。颜色，结构和质地使我身心欢畅。 </custom-attribute>
+      <custom-attribute attribute-id="blockContent1" xml:lang="zh-cn">&lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent2" xml:lang="zh-cn">&lt;p&gt;</custom-attribute>
+    </custom-attributes>
+    <folder-links>
+      <classification-link folder-id="designer"/>
+    </folder-links>
+  </content>
+  <content content-id="designer-40">
+    <display-name xml:lang="x-default">Kathy Perras</display-name>
+    <online-flag>true</online-flag>
+    <searchable-flag>false</searchable-flag>
+    <page-attributes/>
+    <custom-attributes>
+      <custom-attribute attribute-id="blockText" xml:lang="zh-cn">常常有以老虎为中心的神秘主义和神话。纵观历史，老虎被赋予冒险，权利，热情和性感的象征。这个设计容许我用图腾来展现他们的能量。我希望戴上老虎珠可以让你勇敢迈向冒险旅途，从新燃起对生活的热情。</custom-attribute>
+      <custom-attribute attribute-id="blockContent1" xml:lang="zh-cn">&lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent2" xml:lang="zh-cn">&lt;p&gt;</custom-attribute>
+    </custom-attributes>
+    <folder-links>
+      <classification-link folder-id="designer"/>
+    </folder-links>
+  </content>
+  <content content-id="designer-41">
+    <display-name xml:lang="x-default">Patti Dougherty</display-name>
+    <online-flag>true</online-flag>
+    <searchable-flag>false</searchable-flag>
+    <page-attributes/>
+    <custom-attributes>
+      <custom-attribute attribute-id="blockText" xml:lang="zh-cn">Patti</custom-attribute>
+      <custom-attribute attribute-id="blockContent1" xml:lang="zh-cn">&lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent2" xml:lang="zh-cn">&lt;p&gt;</custom-attribute>
+    </custom-attributes>
+    <folder-links>
+      <classification-link folder-id="designer"/>
+    </folder-links>
+  </content>
+  <content content-id="designer-42">
+    <display-name xml:lang="x-default">Paula Radke</display-name>
+    <online-flag>true</online-flag>
+    <searchable-flag>false</searchable-flag>
+    <page-attributes/>
+    <custom-attributes>
+      <custom-attribute attribute-id="blockText" xml:lang="zh-cn">通过版画，银器铸造，陶瓷等艺术媒介， Paula  在琉璃制作里找到她的兴趣。利用  "  分色  "  的程序，她制作出从不同角度看会变色的琉璃珠。她的产品已经可以在接近  1000  个网点销售，包括如  A.C.</custom-attribute>
+      <custom-attribute attribute-id="blockContent1" xml:lang="zh-cn">&lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent2" xml:lang="zh-cn">&lt;p&gt;</custom-attribute>
+    </custom-attributes>
+    <folder-links>
+      <classification-link folder-id="designer"/>
+    </folder-links>
+  </content>
+  <content content-id="designer-43">
+    <display-name xml:lang="x-default">Charlotte Lynggaard</display-name>
+    <online-flag>true</online-flag>
+    <searchable-flag>false</searchable-flag>
+    <page-attributes/>
+    <custom-attributes>
+      <custom-attribute attribute-id="blockText" xml:lang="zh-cn">Charlotte 的设计理念就是首饰是在隆重和休闲的场合都可以佩戴的 </custom-attribute>
+      <custom-attribute attribute-id="blockContent1" xml:lang="zh-cn">&lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent2" xml:lang="zh-cn">&lt;p&gt;</custom-attribute>
+    </custom-attributes>
+    <folder-links>
+      <classification-link folder-id="designer"/>
+    </folder-links>
+  </content>
+  <content content-id="designer-44">
+    <display-name xml:lang="x-default">Thor Høy</display-name>
+    <online-flag>true</online-flag>
+    <searchable-flag>false</searchable-flag>
+    <page-attributes/>
+    <custom-attributes>
+      <custom-attribute attribute-id="blockText" xml:lang="zh-cn">每个去过的地方，都为我带来灵感 …  从一盏灯，一件家具，一个装潢设计的机器，还是  …  一颗精灵珠  …  它可能在野外或是城市，一段旅程或是跟孩子呆在家里，在劳力工作或艺术创作，在动物或人类之间  …  trollbeads  可以容纳图像与幻想，逻辑与冒险，我因身为其中一员而自豪  … </custom-attribute>
+      <custom-attribute attribute-id="blockContent1" xml:lang="zh-cn">&lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent2" xml:lang="zh-cn">&lt;p&gt;</custom-attribute>
+    </custom-attributes>
+    <folder-links>
+      <classification-link folder-id="designer"/>
+    </folder-links>
+  </content>
+  <content content-id="designer-45">
+    <display-name xml:lang="x-default">Anna Hyllested</display-name>
+    <online-flag>true</online-flag>
+    <searchable-flag>false</searchable-flag>
+    <page-attributes/>
+    <custom-attributes>
+      <custom-attribute attribute-id="blockText" xml:lang="zh-cn">生于 1973  年，  Anna</custom-attribute>
+      <custom-attribute attribute-id="blockContent1" xml:lang="zh-cn">&lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent2" xml:lang="zh-cn">&lt;p&gt;</custom-attribute>
+    </custom-attributes>
+    <folder-links>
+      <classification-link folder-id="designer"/>
+    </folder-links>
+  </content>
+  <content content-id="designer-46">
+    <display-name xml:lang="x-default">中国限量款设计师</display-name>
+    <online-flag>true</online-flag>
+    <searchable-flag>false</searchable-flag>
+    <page-attributes/>
+    <custom-attributes>
+      <custom-attribute attribute-id="blockText" xml:lang="zh-cn">丹麦镯品邀请六位中国设计师为你展示他们眼中的中国。他们可以自由发挥创意呈现中国的不同风貌</custom-attribute>
+      <custom-attribute attribute-id="blockContent1" xml:lang="zh-cn">&lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent2" xml:lang="zh-cn">&lt;p&gt;</custom-attribute>
+    </custom-attributes>
+    <folder-links>
+      <classification-link folder-id="designer"/>
+    </folder-links>
+  </content>
+  <content content-id="designer-47">
+    <display-name xml:lang="x-default">Nielsen-Aagaard 家族</display-name>
+    <online-flag>true</online-flag>
+    <searchable-flag>false</searchable-flag>
+    <page-attributes/>
+    <custom-attributes>
+      <custom-attribute attribute-id="blockText" xml:lang="zh-cn">家族成员从左到右：</custom-attribute>
+      <custom-attribute attribute-id="blockContent1" xml:lang="zh-cn">&lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent2" xml:lang="zh-cn">&lt;p&gt;</custom-attribute>
+    </custom-attributes>
+    <folder-links>
+      <classification-link folder-id="designer"/>
+    </folder-links>
+  </content>
+  <content content-id="designer-48">
+    <display-name xml:lang="x-default">Kim Buck</display-name>
+    <online-flag>true</online-flag>
+    <searchable-flag>false</searchable-flag>
+    <page-attributes/>
+    <custom-attributes>
+      <custom-attribute attribute-id="blockText" xml:lang="zh-cn">很高兴能与丹麦镯品合作，丹麦镯品是首饰的真正本质，它让饰品成为一件宝物，让戴着它的人每天都充满意义。从收到的那一天就与首饰建立了连接，或许就像定情信物，随着关系一天天的拉近，首饰变得更有意义。</custom-attribute>
+      <custom-attribute attribute-id="blockContent1" xml:lang="zh-cn">&lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent2" xml:lang="zh-cn">&lt;p&gt;</custom-attribute>
+    </custom-attributes>
+    <folder-links>
+      <classification-link folder-id="designer"/>
+    </folder-links>
+  </content>
+  <content content-id="designer-49">
+    <display-name xml:lang="x-default">Søren Nielsen / Thor Høy</display-name>
+    <online-flag>true</online-flag>
+    <searchable-flag>false</searchable-flag>
+    <page-attributes/>
+    <custom-attributes>
+      <custom-attribute attribute-id="blockText" xml:lang="zh-cn">他们是最完美的互补，两个双子座</custom-attribute>
+      <custom-attribute attribute-id="blockContent1" xml:lang="zh-cn">&lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent2" xml:lang="zh-cn">&lt;p&gt;</custom-attribute>
+    </custom-attributes>
+    <folder-links>
+      <classification-link folder-id="designer"/>
+    </folder-links>
+  </content>
+  <content content-id="designer-50">
+    <display-name xml:lang="x-default">Eirin Julia Wendlandt</display-name>
+    <online-flag>true</online-flag>
+    <searchable-flag>false</searchable-flag>
+    <page-attributes/>
+    <custom-attributes>
+      <custom-attribute attribute-id="blockText" xml:lang="zh-cn">一定是非常特别的物件才能够持久流行并分享给其他人。我乐于参与这份工作并提供我的创意。</custom-attribute>
+      <custom-attribute attribute-id="blockContent1" xml:lang="zh-cn">&lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent2" xml:lang="zh-cn">&lt;p&gt;</custom-attribute>
+    </custom-attributes>
+    <folder-links>
+      <classification-link folder-id="designer"/>
+    </folder-links>
+  </content>
+  <content content-id="designer-51">
+    <display-name xml:lang="x-default">Nozomi Kaji</display-name>
+    <online-flag>true</online-flag>
+    <searchable-flag>false</searchable-flag>
+    <page-attributes/>
+    <custom-attributes>
+      <custom-attribute attribute-id="blockText" xml:lang="zh-cn">Nozomi</custom-attribute>
+      <custom-attribute attribute-id="blockContent1" xml:lang="zh-cn">&lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent2" xml:lang="zh-cn">&lt;p&gt;</custom-attribute>
+    </custom-attributes>
+    <folder-links>
+      <classification-link folder-id="designer"/>
+    </folder-links>
+  </content>
+  <content content-id="designer-52">
+    <display-name xml:lang="x-default">Kristi Denning</display-name>
+    <online-flag>true</online-flag>
+    <searchable-flag>false</searchable-flag>
+    <page-attributes/>
+    <custom-attributes>
+      <custom-attribute attribute-id="blockText" xml:lang="zh-cn">从小我就喜欢各式各样，各种体型的小动物。我为生物进化去适应特殊环境这种事情着迷。我可以花几个小时观察这些生物。我最早的记忆就是观察花园里的蜗牛在我手上爬行。</custom-attribute>
+      <custom-attribute attribute-id="blockContent1" xml:lang="zh-cn">&lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent2" xml:lang="zh-cn">&lt;p&gt;</custom-attribute>
+    </custom-attributes>
+    <folder-links>
+      <classification-link folder-id="designer"/>
+    </folder-links>
+  </content>
+  <content content-id="designer-53">
+    <display-name xml:lang="x-default">Annabap Logman</display-name>
+    <online-flag>true</online-flag>
+    <searchable-flag>false</searchable-flag>
+    <page-attributes/>
+    <custom-attributes>
+      <custom-attribute attribute-id="blockText" xml:lang="zh-cn">热爱和感情是她的动力。</custom-attribute>
+      <custom-attribute attribute-id="blockContent1" xml:lang="zh-cn">&lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent2" xml:lang="zh-cn">&lt;p&gt;</custom-attribute>
+    </custom-attributes>
+    <folder-links>
+      <classification-link folder-id="designer"/>
+    </folder-links>
+  </content>
+  <content content-id="designer-54">
+    <display-name xml:lang="x-default">Asta Šivokaitė</display-name>
+    <online-flag>true</online-flag>
+    <searchable-flag>false</searchable-flag>
+    <page-attributes/>
+    <custom-attributes>
+      <custom-attribute attribute-id="blockText" xml:lang="zh-cn">从儿时开始，创作就是我生活里面重要的一部分。学习，工作，休闲娱乐中创意无处不在。生活中的变化是我制作琉璃珠的灵感来源。</custom-attribute>
+      <custom-attribute attribute-id="blockContent1" xml:lang="zh-cn">&lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent2" xml:lang="zh-cn">&lt;p&gt;</custom-attribute>
+    </custom-attributes>
+    <folder-links>
+      <classification-link folder-id="designer"/>
+    </folder-links>
+  </content>
+  <content content-id="designer-55">
+    <display-name xml:lang="x-default">Denise Tong</display-name>
+    <online-flag>true</online-flag>
+    <searchable-flag>false</searchable-flag>
+    <page-attributes/>
+    <custom-attributes>
+      <custom-attribute attribute-id="blockText" xml:lang="zh-cn">Denise</custom-attribute>
+      <custom-attribute attribute-id="blockContent1" xml:lang="zh-cn">&lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent2" xml:lang="zh-cn">&lt;p&gt;</custom-attribute>
+    </custom-attributes>
+    <folder-links>
+      <classification-link folder-id="designer"/>
+    </folder-links>
+  </content>
+  <content content-id="designer-56">
+    <display-name xml:lang="x-default">Magdalena Jędrzejczak-Nalazek</display-name>
+    <online-flag>true</online-flag>
+    <searchable-flag>false</searchable-flag>
+    <page-attributes/>
+    <custom-attributes>
+      <custom-attribute attribute-id="blockText" xml:lang="zh-cn">Magdalena 在  1972  年出生于华沙，在  1983  年她举家移民到意大利。她毕业于佛罗伦萨的  Accademia</custom-attribute>
+      <custom-attribute attribute-id="blockContent1" xml:lang="zh-cn">&lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent2" xml:lang="zh-cn">&lt;p&gt;</custom-attribute>
+    </custom-attributes>
+    <folder-links>
+      <classification-link folder-id="designer"/>
+    </folder-links>
+  </content>
+  <content content-id="designer-57">
+    <display-name xml:lang="x-default">Vaineta Gaižutienė</display-name>
+    <online-flag>true</online-flag>
+    <searchable-flag>false</searchable-flag>
+    <page-attributes/>
+    <custom-attributes>
+      <custom-attribute attribute-id="blockText" xml:lang="zh-cn">从小我的梦想就是学习画画。当我第一次制作流利的时候，我明白到画画并一定是局限于纸上。可以将创意发挥到串珠之上。</custom-attribute>
+      <custom-attribute attribute-id="blockContent1" xml:lang="zh-cn">&lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent2" xml:lang="zh-cn">&lt;p&gt;</custom-attribute>
+    </custom-attributes>
+    <folder-links>
+      <classification-link folder-id="designer"/>
+    </folder-links>
+  </content>
+  <content content-id="designer-58">
+    <display-name xml:lang="x-default">Ginie Gerrits</display-name>
+    <online-flag>true</online-flag>
+    <searchable-flag>false</searchable-flag>
+    <page-attributes/>
+    <custom-attributes>
+      <custom-attribute attribute-id="blockText" xml:lang="zh-cn">我是 Ginie  ，我现在和丈夫一起居住在荷兰东部。从儿时开始我就被珠宝迷住。我自己制作耳环，手链和吊坠。岁月流逝，我总是忙于用将细小的串珠用银线绑在一起。制作了许多像  trollbeads  那样的串珠。大约在四年前，我发现了  trollbeads  ，原来创作自己的饰品是如此简单的事。我找到了让我不能自抑的新乐趣  ! </custom-attribute>
+      <custom-attribute attribute-id="blockContent1" xml:lang="zh-cn">&lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent2" xml:lang="zh-cn">&lt;p&gt;</custom-attribute>
+    </custom-attributes>
+    <folder-links>
+      <classification-link folder-id="designer"/>
+    </folder-links>
+  </content>
+  <content content-id="designer-59">
+    <display-name xml:lang="x-default">He Yang Hong</display-name>
+    <online-flag>true</online-flag>
+    <searchable-flag>false</searchable-flag>
+    <page-attributes/>
+    <custom-attributes>
+      <custom-attribute attribute-id="blockText" xml:lang="zh-cn">He</custom-attribute>
+      <custom-attribute attribute-id="blockContent1" xml:lang="zh-cn">&lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent2" xml:lang="zh-cn">&lt;p&gt;</custom-attribute>
+    </custom-attributes>
+    <folder-links>
+      <classification-link folder-id="designer"/>
+    </folder-links>
+  </content>
+  <content content-id="designer-61">
+    <display-name xml:lang="x-default">Lone Løvschal</display-name>
+    <online-flag>true</online-flag>
+    <searchable-flag>false</searchable-flag>
+    <page-attributes/>
+    <custom-attributes>
+      <custom-attribute attribute-id="blockText" xml:lang="zh-cn">Lone</custom-attribute>
+      <custom-attribute attribute-id="blockContent1" xml:lang="zh-cn">&lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent2" xml:lang="zh-cn">&lt;p&gt;</custom-attribute>
+    </custom-attributes>
+    <folder-links>
+      <classification-link folder-id="designer"/>
+    </folder-links>
+  </content>
+  <content content-id="designer-60">
+    <display-name xml:lang="x-default">Lars Søgaard</display-name>
+    <online-flag>true</online-flag>
+    <searchable-flag>false</searchable-flag>
+    <page-attributes/>
+    <custom-attributes>
+      <custom-attribute attribute-id="blockText" xml:lang="zh-cn">Lars</custom-attribute>
+      <custom-attribute attribute-id="blockContent1" xml:lang="zh-cn">&lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent2" xml:lang="zh-cn">&lt;p&gt;</custom-attribute>
+    </custom-attributes>
+    <folder-links>
+      <classification-link folder-id="designer"/>
+    </folder-links>
+  </content>
+  <content content-id="designer-62">
+    <display-name xml:lang="x-default">Linda Karuso</display-name>
+    <online-flag>true</online-flag>
+    <searchable-flag>false</searchable-flag>
+    <page-attributes/>
+    <custom-attributes>
+      <custom-attribute attribute-id="blockText" xml:lang="zh-cn">Linda</custom-attribute>
+      <custom-attribute attribute-id="blockContent1" xml:lang="zh-cn">&lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent2" xml:lang="zh-cn">&lt;p&gt;</custom-attribute>
+    </custom-attributes>
+    <folder-links>
+      <classification-link folder-id="designer"/>
+    </folder-links>
+  </content>
+  <content content-id="designer-63">
+    <display-name xml:lang="x-default">Carolyn Brettell</display-name>
+    <online-flag>true</online-flag>
+    <searchable-flag>false</searchable-flag>
+    <page-attributes/>
+    <custom-attributes>
+      <custom-attribute attribute-id="blockText" xml:lang="zh-cn">Carolyn</custom-attribute>
+      <custom-attribute attribute-id="blockContent1" xml:lang="zh-cn">&lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent2" xml:lang="zh-cn">&lt;p&gt;</custom-attribute>
+    </custom-attributes>
+    <folder-links>
+      <classification-link folder-id="designer"/>
+    </folder-links>
+  </content>
+  <content content-id="designer-64">
+    <display-name xml:lang="x-default">Yumi Shimizu</display-name>
+    <online-flag>true</online-flag>
+    <searchable-flag>false</searchable-flag>
+    <page-attributes/>
+    <custom-attributes>
+      <custom-attribute attribute-id="blockText" xml:lang="zh-cn">Yumi</custom-attribute>
+      <custom-attribute attribute-id="blockContent1" xml:lang="zh-cn">&lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent2" xml:lang="zh-cn">&lt;p&gt;</custom-attribute>
+    </custom-attributes>
+    <folder-links>
+      <classification-link folder-id="designer"/>
+    </folder-links>
+  </content>
+  <content content-id="designer-65">
+    <display-name xml:lang="x-default">Maria af Rolén</display-name>
+    <online-flag>true</online-flag>
+    <searchable-flag>false</searchable-flag>
+    <page-attributes/>
+    <custom-attributes>
+      <custom-attribute attribute-id="blockText" xml:lang="zh-cn">Maria</custom-attribute>
+      <custom-attribute attribute-id="blockContent1" xml:lang="zh-cn">&lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent2" xml:lang="zh-cn">&lt;p&gt;</custom-attribute>
+    </custom-attributes>
+    <folder-links>
+      <classification-link folder-id="designer"/>
+    </folder-links>
+  </content>
+  <content content-id="designer-66">
+    <display-name xml:lang="x-default">Kevin Powell</display-name>
+    <online-flag>true</online-flag>
+    <searchable-flag>false</searchable-flag>
+    <page-attributes/>
+    <custom-attributes>
+      <custom-attribute attribute-id="blockText" xml:lang="zh-cn">Kevin</custom-attribute>
+      <custom-attribute attribute-id="blockContent1" xml:lang="zh-cn">&lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent2" xml:lang="zh-cn">&lt;p&gt;</custom-attribute>
+    </custom-attributes>
+    <folder-links>
+      <classification-link folder-id="designer"/>
+    </folder-links>
+  </content>
+  <content content-id="designer-67">
+    <display-name xml:lang="x-default">Silvia Iacurto</display-name>
+    <online-flag>true</online-flag>
+    <searchable-flag>false</searchable-flag>
+    <page-attributes/>
+    <custom-attributes>
+      <custom-attribute attribute-id="blockText" xml:lang="zh-cn">Silvia</custom-attribute>
+      <custom-attribute attribute-id="blockContent1" xml:lang="zh-cn">&lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent2" xml:lang="zh-cn">&lt;p&gt;</custom-attribute>
+    </custom-attributes>
+    <folder-links>
+      <classification-link folder-id="designer"/>
+    </folder-links>
+  </content>
+  <content content-id="designer-68">
+    <display-name xml:lang="x-default">Elisabetta Marini</display-name>
+    <online-flag>true</online-flag>
+    <searchable-flag>false</searchable-flag>
+    <page-attributes/>
+    <custom-attributes>
+      <custom-attribute attribute-id="blockText" xml:lang="zh-cn">Elisabetta</custom-attribute>
+      <custom-attribute attribute-id="blockContent1" xml:lang="zh-cn">&lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent2" xml:lang="zh-cn">&lt;p&gt;</custom-attribute>
+    </custom-attributes>
+    <folder-links>
+      <classification-link folder-id="designer"/>
+    </folder-links>
+  </content>
+  <content content-id="designer-69">
+    <display-name xml:lang="x-default">Daniele Celani</display-name>
+    <online-flag>true</online-flag>
+    <searchable-flag>false</searchable-flag>
+    <page-attributes/>
+    <custom-attributes>
+      <custom-attribute attribute-id="blockText" xml:lang="zh-cn">Daniele</custom-attribute>
+      <custom-attribute attribute-id="blockContent1" xml:lang="zh-cn">&lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent2" xml:lang="zh-cn">&lt;p&gt;</custom-attribute>
+    </custom-attributes>
+    <folder-links>
+      <classification-link folder-id="designer"/>
+    </folder-links>
+  </content>
+  <content content-id="designer-70">
+    <display-name xml:lang="x-default">Marta Kubesova</display-name>
+    <online-flag>true</online-flag>
+    <searchable-flag>false</searchable-flag>
+    <page-attributes/>
+    <custom-attributes>
+      <custom-attribute attribute-id="blockText" xml:lang="zh-cn">Marta</custom-attribute>
+      <custom-attribute attribute-id="blockContent1" xml:lang="zh-cn">&lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent2" xml:lang="zh-cn">&lt;p&gt;</custom-attribute>
+    </custom-attributes>
+    <folder-links>
+      <classification-link folder-id="designer"/>
+    </folder-links>
+  </content>
+  <content content-id="designer-71">
+    <display-name xml:lang="x-default">Jolanda J. Hos</display-name>
+    <online-flag>true</online-flag>
+    <searchable-flag>false</searchable-flag>
+    <page-attributes/>
+    <custom-attributes>
+      <custom-attribute attribute-id="blockText" xml:lang="zh-cn">Jolanda</custom-attribute>
+      <custom-attribute attribute-id="blockContent1" xml:lang="zh-cn">&lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent2" xml:lang="zh-cn">&lt;p&gt;</custom-attribute>
+    </custom-attributes>
+    <folder-links>
+      <classification-link folder-id="designer"/>
+    </folder-links>
+  </content>
+  <content content-id="designer-75">
+    <display-name xml:lang="x-default">Carmen Rosel-Riedel</display-name>
+    <online-flag>true</online-flag>
+    <searchable-flag>false</searchable-flag>
+    <page-attributes/>
+    <custom-attributes>
+      <custom-attribute attribute-id="blockText" xml:lang="zh-cn">Carmen</custom-attribute>
+      <custom-attribute attribute-id="blockContent1" xml:lang="zh-cn">&lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent2" xml:lang="zh-cn">&lt;p&gt;</custom-attribute>
+    </custom-attributes>
+    <folder-links>
+      <classification-link folder-id="designer"/>
+    </folder-links>
+  </content>
+  <content content-id="designer-72">
+    <display-name xml:lang="x-default">Roberta Brescianini &amp; Alessia Fatone</display-name>
+    <online-flag>true</online-flag>
+    <searchable-flag>false</searchable-flag>
+    <page-attributes/>
+    <custom-attributes>
+      <custom-attribute attribute-id="blockText" xml:lang="zh-cn">Alessia</custom-attribute>
+      <custom-attribute attribute-id="blockContent1" xml:lang="zh-cn">&lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent2" xml:lang="zh-cn">&lt;p&gt;</custom-attribute>
+    </custom-attributes>
+    <folder-links>
+      <classification-link folder-id="designer"/>
+    </folder-links>
+  </content>
+  <content content-id="designer-76">
+    <display-name xml:lang="x-default">Scott Bouwens</display-name>
+    <online-flag>true</online-flag>
+    <searchable-flag>false</searchable-flag>
+    <page-attributes/>
+    <custom-attributes>
+      <custom-attribute attribute-id="blockText" xml:lang="zh-cn">Scott</custom-attribute>
+      <custom-attribute attribute-id="blockContent1" xml:lang="zh-cn">&lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent2" xml:lang="zh-cn">&lt;p&gt;</custom-attribute>
+    </custom-attributes>
+    <folder-links>
+      <classification-link folder-id="designer"/>
+    </folder-links>
+  </content>
+  <content content-id="designer-79">
+    <display-name xml:lang="x-default">Daniela Troll</display-name>
+    <online-flag>true</online-flag>
+    <searchable-flag>false</searchable-flag>
+    <page-attributes/>
+    <custom-attributes>
+      <custom-attribute attribute-id="blockText" xml:lang="zh-cn">Daniela Troll works as a mechanical engineer in research and development. She enjoys being creative in other fields like music or arts and design for recreation. She has done music all her life and has also always enjoyed painting and drawing. </custom-attribute>
+      <custom-attribute attribute-id="blockContent1" xml:lang="zh-cn">&lt;p&gt;These activities help her to keep her balance and to express her feelings. She first discovered Trollbeads in a show window, being surprised by the coincidence of names. Daniela Troll is one of the winners of People's Bead 2013 and designed &lt;/p&gt;&lt;p&gt; “When I learned about the People’s Bead contest, many ideas instantly came to my mind. “Thoughts are free” was the most important proverb I thought of, but also the most difficult one to realize as a bead design.&lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent2" xml:lang="zh-cn">&lt;p&gt;I imagined a thought as something that escapes easily, something that has to be small and flexible, so it can escape from anything that tries to lock it up. But on the other hand, the thought spreads and grows; it circles around the world and becomes powerful, if it is an important thought. After several attempts to visualize this, my design for “Thoughts are free” was born.” &lt;/p&gt;</custom-attribute>
+    </custom-attributes>
+    <folder-links>
+      <classification-link folder-id="designer"/>
+    </folder-links>
+  </content>
+  <content content-id="designer-80">
+    <display-name xml:lang="x-default">Paul Krans</display-name>
+    <online-flag>true</online-flag>
+    <searchable-flag>false</searchable-flag>
+    <page-attributes/>
+    <custom-attributes>
+      <custom-attribute attribute-id="blockText" xml:lang="zh-cn">Paul Krans was born in a rural environment and this made him well aware of nature at a very young age. The awareness grew into love and passion for all things alive. Green became the favourite colour and spring the favourite season.</custom-attribute>
+      <custom-attribute attribute-id="blockContent1" xml:lang="zh-cn">&lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent2" xml:lang="zh-cn">&lt;p&gt;</custom-attribute>
+    </custom-attributes>
+    <folder-links>
+      <classification-link folder-id="designer"/>
+    </folder-links>
+  </content>
+  <content content-id="designer-81">
+    <display-name xml:lang="x-default">Jeannie Sanger</display-name>
+    <online-flag>true</online-flag>
+    <searchable-flag>false</searchable-flag>
+    <page-attributes/>
+    <custom-attributes>
+      <custom-attribute attribute-id="blockText" xml:lang="zh-cn">Mary J (Jeannie) Sanger is from the Midwest of the US and loves to go on excursions and discover what nature has to offer. Especially waterfalls she finds fascinating. </custom-attribute>
+      <custom-attribute attribute-id="blockContent1" xml:lang="zh-cn">&lt;p&gt;She is a glass painter and works for a local winery, hairstylist, and make-up artist, and there seems to be a commonality in her likes to make things look beautiful.&lt;/p&gt;&lt;p&gt;She has always been enjoying creating, anything whether it be drawing or rescuing an old piece of wood and turning it into a piece of art. She loves restoring antiques.&lt;/p&gt;&lt;p&gt;Jeannie has a passion for animals, especially dogs and Shih Tzus and Rottweilers are her favourites. Other passions are interior design, the royal family, scary movies, ghosts and haunted houses.&lt;/p&gt;&lt;p&gt;Jeannie discovered Trollbeads at Christmas in 2011 and she was hooked right away.&lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent2" xml:lang="zh-cn">&lt;p&gt;She especially likes the ones that have a connection to who she is and her life experience.&lt;/p&gt;&lt;p&gt;Mary J (Jeannie) Sanger is&lt;/p&gt;&lt;p&gt; one of the winners of People's Bead 2013 and designed &lt;/p&gt;&lt;p&gt; “My family is my greatest gift, and spending time with my children and grandchildren are beyond words. When designing Leopard for the People’s bead, I chose the saying “A leopard cannot change his spots” because I felt it is important to be yourself and accept yourself and others. Besides, the leopard is such a beautiful animal, so I was glad they went hand in hand.” &lt;/p&gt;</custom-attribute>
+    </custom-attributes>
+    <folder-links>
+      <classification-link folder-id="designer"/>
+    </folder-links>
+  </content>
+  <content content-id="designer-82">
+    <display-name xml:lang="x-default">Luisa Esposito</display-name>
+    <online-flag>true</online-flag>
+    <searchable-flag>false</searchable-flag>
+    <page-attributes/>
+    <custom-attributes>
+      <custom-attribute attribute-id="blockText" xml:lang="zh-cn">Luisa Esposito is 24 years old and lives in Piano di Sorrento, Italy, with her parents and brother.</custom-attribute>
+      <custom-attribute attribute-id="blockContent1" xml:lang="zh-cn">&lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent2" xml:lang="zh-cn">&lt;p&gt;</custom-attribute>
+    </custom-attributes>
+    <folder-links>
+      <classification-link folder-id="designer"/>
+    </folder-links>
+  </content>
+  <content content-id="designer-83">
+    <display-name xml:lang="x-default">Valentina Rocchi</display-name>
+    <online-flag>true</online-flag>
+    <searchable-flag>false</searchable-flag>
+    <page-attributes/>
+    <custom-attributes>
+      <custom-attribute attribute-id="blockText" xml:lang="zh-cn">Valentina Rocchi was born in Rome, Italy, and still live in this beautiful city with her parents and sister.</custom-attribute>
+      <custom-attribute attribute-id="blockContent1" xml:lang="zh-cn">&lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent2" xml:lang="zh-cn">&lt;p&gt;</custom-attribute>
+    </custom-attributes>
+    <folder-links>
+      <classification-link folder-id="designer"/>
+    </folder-links>
+  </content>
+  <content content-id="designer-84">
+    <display-name xml:lang="x-default">Rachel Morris</display-name>
+    <online-flag>true</online-flag>
+    <searchable-flag>false</searchable-flag>
+    <page-attributes/>
+    <custom-attributes>
+      <custom-attribute attribute-id="blockText" xml:lang="zh-cn">Rachel Morris is living in South West London with her husband Oliver and their daughter Ruby.</custom-attribute>
+      <custom-attribute attribute-id="blockContent1" xml:lang="zh-cn">&lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent2" xml:lang="zh-cn">&lt;p&gt;</custom-attribute>
+    </custom-attributes>
+    <folder-links>
+      <classification-link folder-id="designer"/>
+    </folder-links>
+  </content>
+  <content content-id="designer-85">
+    <display-name xml:lang="x-default">Shizue Ishiwata</display-name>
+    <online-flag>true</online-flag>
+    <searchable-flag>false</searchable-flag>
+    <page-attributes/>
+    <custom-attributes>
+      <custom-attribute attribute-id="blockText" xml:lang="zh-cn">Shizue Ishiwata was born in Tokyo, Japan, and today she is living in Chiba Prefecture.</custom-attribute>
+      <custom-attribute attribute-id="blockContent1" xml:lang="zh-cn">&lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent2" xml:lang="zh-cn">&lt;p&gt;</custom-attribute>
+    </custom-attributes>
+    <folder-links>
+      <classification-link folder-id="designer"/>
+    </folder-links>
+  </content>
+  <content content-id="designer-86">
+    <display-name xml:lang="x-default">Iris Heyer</display-name>
+    <online-flag>true</online-flag>
+    <searchable-flag>false</searchable-flag>
+    <page-attributes/>
+    <custom-attributes>
+      <custom-attribute attribute-id="blockText" xml:lang="zh-cn">Iris Heyer lives with her husband in the Northwest of Germany, which in her opinion is much too far from the sea! Therefore most of the family’s holidays are spent visiting Scandinavia, Scotland or Shetland.</custom-attribute>
+      <custom-attribute attribute-id="blockContent1" xml:lang="zh-cn">&lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent2" xml:lang="zh-cn">&lt;p&gt;</custom-attribute>
+    </custom-attributes>
+    <folder-links>
+      <classification-link folder-id="designer"/>
+    </folder-links>
+  </content>
+  <content content-id="designer-87">
+    <display-name xml:lang="x-default">Rebecca Cresswell</display-name>
+    <online-flag>true</online-flag>
+    <searchable-flag>false</searchable-flag>
+    <page-attributes/>
+    <custom-attributes>
+      <custom-attribute attribute-id="blockText" xml:lang="zh-cn">Rebecca Cresswell is very passionate about art and design; having painted from a very early age she grew up entering competitions and exhibiting her work. In 2002 Rebecca graduated from the University of Wolverhampton’s School of Art and Design, in the UK after studying Illustration. </custom-attribute>
+      <custom-attribute attribute-id="blockContent1" xml:lang="zh-cn">&lt;p&gt;Her installations are seen in hospitals and palliative care facilities throughout the UK and shares spaces with famous British artists.&lt;/p&gt;&lt;p&gt;In her spare time Rebecca enjoys long walks in the Shropshire countryside with her partner and pet dog Poppy, a two-year old border collie. The natural world is a great source of inspiration for her artwork and the landscape is the place she escapes to when she needs time to contemplate and reflect.&lt;&lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent2" xml:lang="zh-cn">&lt;p&gt;/p&gt;&lt;p&gt;Rebecca Cresswell is one of the winners of People's Bead 2013 and designed &lt;/p&gt;&lt;p&gt; “I am absolutely delighted that my design and the idea behind it is recognised and included in this lovely collection, it is an unexpected honour. Art is my salvation in many respects, I love to interpret the world around me in a creative way, and there are endless varieties of subjects and possibilities to how we see things.&lt;/p&gt;&lt;p&gt; I also love the impact and influence that art and design can have on us as individuals; working within healthcare, the great benefits to health and wellbeing in the community from viewing artworks and participation in projects is obvious to me.” &lt;/p&gt;</custom-attribute>
+    </custom-attributes>
+    <folder-links>
+      <classification-link folder-id="designer"/>
+    </folder-links>
+  </content>
+  <content content-id="designer-88">
+    <display-name xml:lang="x-default">Trollbeads Design Group</display-name>
+    <online-flag>true</online-flag>
+    <searchable-flag>false</searchable-flag>
+    <page-attributes/>
+    <custom-attributes>
+      <custom-attribute attribute-id="blockText" xml:lang="zh-cn">Our finished bracelets and necklaces make it easy for you to find the perfect gift</custom-attribute>
+      <custom-attribute attribute-id="blockContent1" xml:lang="zh-cn">&lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent2" xml:lang="zh-cn">&lt;p&gt;</custom-attribute>
+    </custom-attributes>
+    <folder-links>
+      <classification-link folder-id="designer"/>
+    </folder-links>
+  </content>
+  <content content-id="designer-89">
+    <display-name xml:lang="x-default">Tashi, Dhundup and Dolma</display-name>
+    <online-flag>true</online-flag>
+    <searchable-flag>false</searchable-flag>
+    <page-attributes/>
+    <custom-attributes>
+      <custom-attribute attribute-id="blockText" xml:lang="zh-cn">Tashi, Dhundup and Dolma are the designers of the 2014 Summer Limited edition glass beads. They have all created beautiful beads for the Trollbeads Collection since 2004. Originally from Tibet, but now living in Dhramsala – home of their spiritual leader Dalai Lama. </custom-attribute>
+      <custom-attribute attribute-id="blockContent1" xml:lang="zh-cn">&lt;p&gt;The three ladies love to sing and dance in their spare time and sometimes they daydream about Tibet, about herding cattle and gazing at them.&lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent2" xml:lang="zh-cn">&lt;p&gt;&lt;/p&gt;</custom-attribute>
+    </custom-attributes>
+    <folder-links>
+      <classification-link folder-id="designer"/>
+    </folder-links>
+  </content>
+  <content content-id="designer-90">
+    <display-name xml:lang="x-default">Morten Pol Engell Nørregård</display-name>
+    <online-flag>true</online-flag>
+    <searchable-flag>false</searchable-flag>
+    <page-attributes/>
+    <custom-attributes>
+      <custom-attribute attribute-id="blockText" xml:lang="zh-cn">Goldsmith, designer, scientist, inventor. It is not entirely obvious how to describe Morten Engell - Nørregård. His insatiable curiosity has always driven him to explore new ideas and seek new knowledge. </custom-attribute>
+      <custom-attribute attribute-id="blockContent1" xml:lang="zh-cn">&lt;p&gt;He got his apprenticeship in 1999 from Melcher Copenhagen and then worked for a period at the model workshop of Georg Jensen. Here he decided to pursue a career in research and took first his master's degree in computer science and then a Ph.d. at Copenhagen University on physically based simulation of human movement, a topic that can be applied in the development of prostheses for the disabled as well as in robotics. He continues to work as a researcher, but has now also returned to his jewellers&lt;/p&gt;&lt;p&gt;roots as a designer for Trollbeads.&lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent2" xml:lang="zh-cn">&lt;p&gt;&lt;/p&gt;&lt;p&gt; "For as long as I can remember, I have always made things with my hands. Inspiration comes to me from everything that surrounds me and I have to channel it into objects and shapes. It's almost an involuntary process. In order to realize my ideas, I have always hunted knowledge of how different materials are processed, ranging from clay, wax, wood, and paper, to virtual 3D objects in computers. I will always return to metal though. There is something in the process of working with metal that never ceases to fascinate me.” &lt;/p&gt;</custom-attribute>
+    </custom-attributes>
+    <folder-links>
+      <classification-link folder-id="designer"/>
+    </folder-links>
+  </content>
+  <content content-id="designer-91">
+    <display-name xml:lang="x-default">Neetu Gupta</display-name>
+    <online-flag>true</online-flag>
+    <searchable-flag>false</searchable-flag>
+    <page-attributes/>
+    <custom-attributes>
+      <custom-attribute attribute-id="blockText" xml:lang="zh-cn">我相信爱，勇气，毅力和信心。我认为笑是最好的良药，我们应该充分享受生活中的每分每秒。我相信吸引力法则。</custom-attribute>
+      <custom-attribute attribute-id="blockContent1" xml:lang="zh-cn">&lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent2" xml:lang="zh-cn">&lt;p&gt;</custom-attribute>
+    </custom-attributes>
+    <folder-links>
+      <classification-link folder-id="designer"/>
+    </folder-links>
+  </content>
+  <content content-id="designer-92">
+    <display-name xml:lang="x-default">Jenke Gorter</display-name>
+    <online-flag>true</online-flag>
+    <searchable-flag>false</searchable-flag>
+    <page-attributes/>
+    <custom-attributes>
+      <custom-attribute attribute-id="blockText" xml:lang="zh-cn">Trollbeads让你可以设计自己的个性化的外观，它要求个性的感觉，也需要一点创意。现在我所收纳的各种不同的琉璃珠和银串珠让我可以随心所欲的根据心情和风格设计组合。每当有新的系列出现，我就会飞快的开始思考他们是否与我的喜好相合，以及如何组合搭配。实在是太令人兴奋了！ </custom-attribute>
+      <custom-attribute attribute-id="blockContent1" xml:lang="zh-cn">&lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent2" xml:lang="zh-cn">&lt;p&gt;</custom-attribute>
+    </custom-attributes>
+    <folder-links>
+      <classification-link folder-id="designer"/>
+    </folder-links>
+  </content>
+  <content content-id="designer-94">
+    <display-name xml:lang="x-default">Anne Sofie Bodenhoff</display-name>
+    <online-flag>true</online-flag>
+    <searchable-flag>false</searchable-flag>
+    <page-attributes/>
+    <custom-attributes>
+      <custom-attribute attribute-id="blockText" xml:lang="zh-cn">To me, working with Trollbeads is very meditative. I create a sculpture or a small world in every bead. It pleases me to be able to dive in and work to the detail in a small scale in a world where we constantly receive lots of information and impressions. </custom-attribute>
+      <custom-attribute attribute-id="blockContent1" xml:lang="zh-cn">&lt;p&gt;This is a unique chance for me and I appreciate it very much.&lt;/p&gt;&lt;p&gt;Anne Sofie Bodenhoff was born in 1980 and is a goldsmith, trained by Kim Buck. She finished her education in 2012 and won the Nordic Championship for goldsmiths that same year.&lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent2" xml:lang="zh-cn">&lt;p&gt;Before Anne Sofie decided to follow her dream of being a goldsmith, she was an educated designer and worked in the textile industry for a couple of years.&lt;/p&gt;</custom-attribute>
+    </custom-attributes>
+    <folder-links>
+      <classification-link folder-id="designer"/>
+    </folder-links>
+  </content>
+  <content content-id="designer-96">
+    <display-name xml:lang="x-default">Mirjam Seling</display-name>
+    <online-flag>true</online-flag>
+    <searchable-flag>false</searchable-flag>
+    <page-attributes/>
+    <custom-attributes>
+      <custom-attribute attribute-id="blockText" xml:lang="zh-cn">Mirjam Seling 于1979年诞生在白雪之城，德国巴伐利亚州下弗兰肯行政区洛尔。这个城市相传是格林童话的历史遗迹。也许就是因为如此，她的设计中饱含生动地想象力和创造力。</custom-attribute>
+      <custom-attribute attribute-id="blockContent1" xml:lang="zh-cn">&lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent2" xml:lang="zh-cn">&lt;p&gt;</custom-attribute>
+    </custom-attributes>
+    <folder-links>
+      <classification-link folder-id="designer"/>
+    </folder-links>
+  </content>
+  <content content-id="designer-93">
+    <display-name xml:lang="x-default">Josefine R Smith</display-name>
+    <online-flag>true</online-flag>
+    <searchable-flag>false</searchable-flag>
+    <page-attributes/>
+    <custom-attributes>
+      <custom-attribute attribute-id="blockText" xml:lang="zh-cn">“我倾向于同时运用几何形和有机形。我喜欢作为一个金匠从事定制工作，但在Trollbeads的设计工作给了我一个机会，从万物有灵论的角度进行设计，同时可以用一直以来都很吸引我的公司设计理念从新定义自我。正如许多其他的设计师一样，在长时间从事小物品的设计之后，我已经开始受到“玩偶之家综合症”的困扰......</custom-attribute>
+      <custom-attribute attribute-id="blockContent1" xml:lang="zh-cn">&lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent2" xml:lang="zh-cn">&lt;p&gt;</custom-attribute>
+    </custom-attributes>
+    <folder-links>
+      <classification-link folder-id="designer"/>
+    </folder-links>
+  </content>
+  <content content-id="designer-95">
+    <display-name xml:lang="x-default">The Lithuania 工作组</display-name>
+    <online-flag>true</online-flag>
+    <searchable-flag>false</searchable-flag>
+    <page-attributes/>
+    <custom-attributes>
+      <custom-attribute attribute-id="blockText" xml:lang="zh-cn">(从左至右为: Raminta Tamulevičiūtė,</custom-attribute>
+      <custom-attribute attribute-id="blockContent1" xml:lang="zh-cn">&lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent2" xml:lang="zh-cn">&lt;p&gt;</custom-attribute>
+    </custom-attributes>
+    <folder-links>
+      <classification-link folder-id="designer"/>
+    </folder-links>
+  </content>
+  <content content-id="designer-73">
+    <display-name xml:lang="x-default">Sandra Bus</display-name>
+    <online-flag>true</online-flag>
+    <searchable-flag>false</searchable-flag>
+    <page-attributes/>
+    <custom-attributes>
+      <custom-attribute attribute-id="blockText" xml:lang="zh-cn">"When I started collecting Trollbeads in 2009, I also fell in love with glass. I was so fascinated by those tiny, colourful and shiny artworks with the little flowers, stripes and their unbelievable depth effect that I could not stop gazing at all the little details again and again. </custom-attribute>
+      <custom-attribute attribute-id="blockContent1" xml:lang="zh-cn">&lt;p&gt;In the same year, I took part in my first glass course. From the first moment on, I knew that working with glass was what I wanted to do from now on."&lt;/p&gt;&lt;p&gt;"Working with glass for me is something fulfilling and reflects my attitude towards life – creating something beautiful.&lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent2" xml:lang="zh-cn">&lt;p&gt;The material glass is so miscellaneous and exciting and gives me the room for creativity, which I was searching for a long time."&lt;/p&gt;&lt;p&gt;In 2012 Sandra Bus gave up working for a software company and satisfies her wish, just to work with glass.&lt;/p&gt;</custom-attribute>
+    </custom-attributes>
+    <folder-links>
+      <classification-link folder-id="designer"/>
+    </folder-links>
+  </content>
+  <content content-id="designer-97">
+    <display-name xml:lang="x-default">Louise Rimpler</display-name>
+    <online-flag>true</online-flag>
+    <searchable-flag>false</searchable-flag>
+    <page-attributes/>
+    <custom-attributes>
+      <custom-attribute attribute-id="blockText" xml:lang="zh-cn">Louise Rimpler has since 1990 been a tattoo artist in the inner city of Copenhagen. She is best known for her colourful cartoon style and is the most awarded female tattoo artist in Denmark.</custom-attribute>
+      <custom-attribute attribute-id="blockContent1" xml:lang="zh-cn">&lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent2" xml:lang="zh-cn">&lt;p&gt;</custom-attribute>
+    </custom-attributes>
+    <folder-links>
+      <classification-link folder-id="designer"/>
+    </folder-links>
+  </content>
+  <content content-id="designer-98">
+    <display-name xml:lang="x-default">Amanda White</display-name>
+    <online-flag>true</online-flag>
+    <searchable-flag>false</searchable-flag>
+    <page-attributes/>
+    <custom-attributes>
+      <custom-attribute attribute-id="blockText" xml:lang="zh-cn">Amanda was born in Buckinghamshire (United Kingdom) in 1976, the same year the Trollbeads story began. From a young age she developed an interest in drawing and painting. She sees as a gift, a talent that she inherited from her mother. Amanda has studied Art </custom-attribute>
+      <custom-attribute attribute-id="blockContent1" xml:lang="zh-cn">&lt;/p&gt;</custom-attribute>
+      <custom-attribute attribute-id="blockContent2" xml:lang="zh-cn">&lt;p&gt;</custom-attribute>
     </custom-attributes>
     <folder-links>
       <classification-link folder-id="designer"/>

@@ -17,9 +17,13 @@ var designer_ids = [
     "/designers/90", "/designers/91", "/designers/92", "/designers/94", "/designers/96", "/designers/93",
     "/designers/95", "/designers/73", "/designers/97", "/designers/98"
 ];
+// var languages = [
+//     "/czech-republic/cs-cz", "/denmark/da-dk", "/nederlands/nl-nl", "/france/fr-fr", "/germany/de-de",
+//     "/italy/it-it", "/japan/ja-jp", "/south-korea/ko-kr", "/lithuania/lt-lt", "/spain/es-es"
+// ];
+
 var languages = [
-    "/czech-republic/cs-cz", "/denmark/da-dk", "/nederlands/nl-nl", "/france/fr-fr", "/germany/de-de",
-    "/italy/it-it", "/japan/ja-jp", "/south-korea/ko-kr", "/lithuania/lt-lt", "/spain/es-es"
+    "/china/zh-cn"
 ];
 
 //host + lang + designer_id
@@ -79,32 +83,35 @@ var next_designer = function() {
 
             var statusCode = null;
             page.onResourceReceived = function(resource) {
+                // console.log("RESOURCE STATUS ", resource.status, resource.url);
                 statusCode = resource.status;
             };
 
             page.open(lang.url, {}, function(status) {
-                if (statusCode >= 200 && statusCode < 300) {
-                    if (status === "success") {
+                if (status === "success") {
+                    if (statusCode >= 200 && statusCode < 300) {
                         if (!page.injectJs("jquery.js")) {
                             console.log("Failed to inject jQuery");
                         } else {
                             var description = page.evaluate(function() {
-                                return $(".designer-info h1[itemprop=name]").text();
-//                                return $(".designer-info .desc").html();
+                                return {
+                                    name: $(".designer-info h1[itemprop=name]").text(),
+                                    html: $(".designer-info .desc").html()
+                                }
                             });
-                            if (!description) {
+                            if (!description.name || !description.html) {
                                 console.log("No description: " + lang.url);
                                 fs.write(designers_folder + "/" + designer.designer.replace(/\//g, "_") + "/name.html", "No description: " + lang.url, 'w');
-//                                fs.write(designers_folder + "/" + designer.designer.replace(/\//g, "_") + "/" + lang.lang.replace(/\//g, "_") + ".html", "No description: " + lang.url, 'w');
+                                // fs.write(designers_folder + "/" + designer.designer.replace(/\//g, "_") + "/" + lang.lang.replace(/\//g, "_") + ".html", "No description: " + lang.url, 'w');
                             } else {
                                 //console.log("Saving description to:\n" + designers_folder + "/" + designer.designer.replace(/\//g, "_") + lang.lang.replace(/\//g, "_") + ".html");
-//                                fs.write(designers_folder + "/" + designer.designer.replace(/\//g, "_") + "/" + lang.lang.replace(/\//g, "_") + ".html", description, 'w');
-                                fs.write(designers_folder + "/" + designer.designer.replace(/\//g, "_") + "/name.html", description, 'w');
+                                fs.write(designers_folder + "/" + designer.designer.replace(/\//g, "_") + "/" + lang.lang.replace(/\//g, "_") + ".html", description.html, 'w');
+                                fs.write(designers_folder + "/" + designer.designer.replace(/\//g, "_") + "/name.html", description.name, 'w');
                             }
                         }
 
                     } else {
-                        console.log("Failed to open: " + lang.url);
+                        console.log("Failed to open (2): " + lang.url, "\t", statusCode);
                         fs.write(designers_folder + "/" + designer.designer.replace(/\//g, "_") + "/name.html", "Failed to open: " + lang.url, 'w');
                     }
                 } else {

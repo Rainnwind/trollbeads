@@ -50,9 +50,9 @@ var designer_ids_orig = [
 
 var languages_orig = [
     "/czech-republic/cs-cz", "/denmark/da-dk", "/nederlands/nl-nl", "/france/fr-fr", "/germany/de-de",
-    "/italy/it-it", "/japan/ja-jp", "/south-korea/ko-kr", "/lithuania/lt-lt", "/spain/es-es"
+    "/italy/it-it", "/japan/ja-jp", "/south-korea/ko-kr", "/lithuania/lt-lt", "/spain/es-es", "/china/zh-cn"
 ];
-var languages = ["cs-CZ", "da-DK", "nl", "fr", "de", "it", "ja-JP", "ko-KR", "lt-LT", "es"];
+var languages = ["cs-CZ", "da-DK", "nl", "fr", "de", "it", "ja-JP", "ko-KR", "lt-LT", "es", "zh-cn"];
 
 var fs = require("fs"),
     path = require("path");
