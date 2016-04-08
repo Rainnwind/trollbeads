@@ -1,5 +1,6 @@
 var fs = require("fs"),
-    path = require("path");
+    path = require("path"),
+    handlebars = require("handlebars");
 
 
 var types = {
@@ -48,6 +49,7 @@ var template = {
 };
 
 var textDiv = require("./textDivider.js");
+var txml    = require("./txml.js");
 
 fs.readdirSync("../phantom/about/about/").forEach(function(folder) {
     fs.readdirSync(path.join("../phantom/about/about/", folder)).forEach(function(file) {
@@ -60,7 +62,7 @@ fs.readdirSync("../phantom/about/about/").forEach(function(folder) {
                 contents: textDiv(js.strings, types[js.type]),
                 lang: js.lang
             });
-            console.log(template);
+            // console.log(template);
 
         } catch (er) {
             console.log(path.join("../phantom/about/about/", folder, file));
@@ -68,3 +70,40 @@ fs.readdirSync("../phantom/about/about/").forEach(function(folder) {
         }
     });
 });
+
+var templateString = {}
+for (var page in template) {
+    if (template.hasOwnProperty(page)) {
+        for (var lang in template[page]) {
+            if (template[page].hasOwnProperty(lang)){
+                var language = template[page][lang].lang
+                // console.log(language)
+                for (var contID in template[page][lang].contents) {
+                    if (template[page][lang].contents.hasOwnProperty(contID)) {
+                        templateString[contID] = []
+                        templateString[contID].push(
+                            txml({
+                                lang : language,
+                                contID : contID,
+                                htmlList : [template[page][lang].contents[contID]]
+                            })
+                        );
+                    }
+                }
+                
+            }
+        }
+    }
+}
+// console.log(templateString);
+
+var source = fs.readFileSync("./xmltemplate.xml", "utf8");
+
+console.log(typeof(source));
+
+var hbarsCompile = handlebars.compile(source);
+var result = hbarsCompile(templateString);
+
+console.log(result)
+
+fs.writeFileSync("compiledTemplateTest", result, "utf8");
