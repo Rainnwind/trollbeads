@@ -80,7 +80,8 @@ for (var page in template) {
                 // console.log(language)
                 for (var contID in template[page][lang].contents) {
                     if (template[page][lang].contents.hasOwnProperty(contID)) {
-                        templateString[contID] = []
+                        if (!templateString[contID]) 
+                            templateString[contID] = [];
                         templateString[contID].push(
                             txml({
                                 lang : language,
@@ -99,7 +100,7 @@ for (var page in template) {
 
 var source = fs.readFileSync("./xmltemplate.xml", "utf8");
 
-console.log(typeof(source));
+// console.log(typeof(source));
 
 var hbarsCompile = handlebars.compile(source);
 var result = hbarsCompile(templateString);
