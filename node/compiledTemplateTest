@@ -3,54 +3,146 @@
 
 
     <content content-id="half-block-text-the-products-trollbeads">
-    </content>
-
-    <content content-id="half-block-text-the-products-inspiration">
-    </content>
-
-    <content content-id="half-block-text-the-products-inspiration-2">
-    </content>
-
-    <content content-id="half-block-text-the-products-idea-to-collection">
-    </content>
-
-    <content content-id="half-block-text-the-products-material-and-production">
-    </content>
-
-    <content content-id="INT_halfblock_text_aboutus_theproducts_designers">
-    </content>
-
-    <content content-id="INT_halfblock_text_aboutus_theproducts_distributionandretailers">
-    </content>
-
-    <content content-id="INT_deckwithcontent_artfuldesign_aboutus_theconcept">
-        <display-name xml:lang="danish">About us - the concept</display-name>
+        <display-name xml:lang="es-ES">Trollbeads</display-name>
         <online-flag>true</online-flag>
         <searchable-flag>false</searchable-flag>
         <page-attributes/>
         <custom-attributes>
-            <custom-attribute attribute-id="blockHeader" xml:lang="danish">
-                Lorem ipsum dolor sit amet.
+            <custom-attribute attribute-id="blockBackgroundFill">dark</custom-attribute>
+            <custom-attribute attribute-id="blockHeader" xml:lang="es-ES">
+                &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;LOS PRODUCTOS&lt;br&gt; &lt;br&gt;TROLLBEADS es un extraordinario juego de piezas de joyería intercambiables que le permitirán crear su propio look.
             </custom-attribute>
-            <custom-attribute attribute-id="blockSubHeader" xml:lang="danish"></custom-attribute>
-            <custom-attribute attribute-id="blockText" xml:lang="danish">
-                Consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodoconsequat. Duis aute irure dolor in reprehenderit in voluptate velit essecillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat nonproident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+            <custom-attribute attribute-id="blockText" xml:lang="es-ES">
+                Como eje principal de la colección encontramos las célebres y atractivas beads. Cada pieza de la colección TROLLBEADS tiene su pequeña historia propia, inspirada en la mitología, la astrología, los cuentos de hadas, la fauna, la flora, la diversidad cultural y finalmente, aunque no por ello menos importante, en los aspectos familiares de la vida cotidiana.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt; &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;Las joyas TROLLBEADS incluyen asombrosas beads, pulseras, collares, pendientes y anillos. Las joyas se distribuyen entre una amplia gama de colecciones que le permitirán contar su propia historia a través de  beads y accesorios.
             </custom-attribute>
         </custom-attributes>
         <folder-links>
-            <classification-link folder-id="decks-with-content"/>
+            <classification-link folder-id="block-half-text"/>
         </folder-links>
-        <display-name xml:lang="danish">About us - the concept</display-name>
+    </content>
+
+    <content content-id="half-block-text-the-products-inspiration">
+        <display-name xml:lang="es-ES">Inspiration</display-name>
         <online-flag>true</online-flag>
         <searchable-flag>false</searchable-flag>
         <page-attributes/>
         <custom-attributes>
-            <custom-attribute attribute-id="blockHeader" xml:lang="danish">
+            <custom-attribute attribute-id="blockBackgroundFill">light</custom-attribute>
+            <custom-attribute attribute-id="blockHeader" xml:lang="es-ES">
+                br&gt;El nombre TROLLBEADS proviene de la primera bead que simula las caras de los antiguos Troll y fue diseñada por Søren Nielsen en 1976.
+            </custom-attribute>
+            <custom-attribute attribute-id="blockText" xml:lang="es-ES">
+                br&gt; &lt;br&gt;&lt;br&gt;YO CREO QUE ES BONITO QUE QUE LA GENTE COJA NUESTROS TROLLBEADS Y LOS CONVIERTA EN ALGO PROPIO.ME ENCATARÍA QUE LOS TROLLBEADS FUNCIONASES COMO UN PEGAMENTO INVISIBLE QUE UNIESE LOS MENSAJES PARTICULARES DE LA GENTE DE TODO EL MUNDO…&quot;&lt;br&gt;Lise Aagaard,Diseñador y fundador de TROLLBEADS&lt;br&gt; &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt; &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;Inspiración&lt;br&gt; &lt;br&gt;TROLLBEADS están inspirados en la mitología, la astrología, los cuentos de hadas, la fauna, la flora, la diversidad cultural y los aspectos familiares de la vida cotidiana.
+            </custom-attribute>
+        </custom-attributes>
+        <folder-links>
+            <classification-link folder-id="block-half-text"/>
+        </folder-links>
+    </content>
+
+    <content content-id="half-block-text-the-products-inspiration-2">
+        <online-flag>true</online-flag>
+        <searchable-flag>false</searchable-flag>
+        <page-attributes/>
+        <custom-attributes>
+            <custom-attribute attribute-id="blockBackgroundFill">transparent</custom-attribute>
+            <custom-attribute attribute-id="blockText" xml:lang="es-ES">
+                Sin embargo, lo que cada una de las piezas tiene en común es que:&lt;br&gt;- Todas son originales .&lt;br&gt;- Todas las piezas de joyería están fabricadas con materiales de máxima calidad - Todas las piezas están fabricadas con los niveles más exigentes de calidad.&lt;br&gt;Es esta diversidad la que ofrece al cliente una experiencia única. Éste se convierte en diseñador creando su propia joya personalizada y es él quien decide qué historia desea contar. Mujeres de más de 50 países han descubierto el concepto original de joyería, al mismo tiempo que satisfacen una demanda de alta calidad, además de sus gustos y preferencias individuales.
+            </custom-attribute>
+        </custom-attributes>
+        <folder-links>
+            <classification-link folder-id="block-half-text"/>
+        </folder-links>
+    </content>
+
+    <content content-id="half-block-text-the-products-idea-to-collection">
+        <display-name xml:lang="es-ES">From Idea to Collection</display-name>
+        <online-flag>true</online-flag>
+        <searchable-flag>false</searchable-flag>
+        <page-attributes/>
+        <custom-attributes>
+            <custom-attribute attribute-id="blockBackgroundFill">dark</custom-attribute>
+            <custom-attribute attribute-id="blockHeader" xml:lang="es-ES">
+                br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt; &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;¿Cómo están hechas las TROLLBEADS?&lt;br&gt; &lt;br&gt;Las beads de cristal están fabricadas todas a mano.
+            </custom-attribute>
+            <custom-attribute attribute-id="blockText" xml:lang="es-ES">
+                Vea el vídeo de Lise Aagaard donde se muestran las diferentes técnicas:&lt;br&gt;&lt;br&gt; &lt;br&gt;Las beads de ámbar se cortan y tallan a mano. Vea el vídeo para comprobar su magia:&lt;br&gt; &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt; &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;Compruebe cómo una idea llega a formar parte de una colección.  &lt;br&gt;La idea suele empezar sobre un papel y a partir de ahí es esculpida en cera.
+            </custom-attribute>
+        </custom-attributes>
+        <folder-links>
+            <classification-link folder-id="block-half-text"/>
+        </folder-links>
+    </content>
+
+    <content content-id="half-block-text-the-products-material-and-production">
+        <display-name xml:lang="es-ES">Material and Production</display-name>
+        <online-flag>true</online-flag>
+        <searchable-flag>false</searchable-flag>
+        <page-attributes/>
+        <custom-attributes>
+            <custom-attribute attribute-id="blockBackgroundFill">light</custom-attribute>
+            <custom-attribute attribute-id="blockHeader" xml:lang="es-ES">
+                A continuación, interviene el proceso de fundición que comienza con un modelo de yeso.
+            </custom-attribute>
+            <custom-attribute attribute-id="blockText" xml:lang="es-ES">
+                La cera se derrite y se sustituye por plata. Después, la pieza de plata se enfría y se retira del molde. Se inicia el proceso de limpieza de cara a dejar lista la cuenta para su oxidación. El proceso de oxidación es en realidad el proceso natural de deslustrado que el aire ejerce sobre la plata, simplemente acelerado. La pieza oxidada se lava y se pule en un vaso.
+            </custom-attribute>
+        </custom-attributes>
+        <folder-links>
+            <classification-link folder-id="block-half-text"/>
+        </folder-links>
+    </content>
+
+    <content content-id="INT_halfblock_text_aboutus_theproducts_designers">
+        <display-name xml:lang="es-ES">About us - the products - designers</display-name>
+        <online-flag>true</online-flag>
+        <searchable-flag>false</searchable-flag>
+        <page-attributes/>
+        <custom-attributes>
+            <custom-attribute attribute-id="blockBackgroundFill">transparent</custom-attribute>
+            <custom-attribute attribute-id="blockHeader" xml:lang="es-ES">
+                El prototipo de plata ya está terminado creando así una nueva bead.
+            </custom-attribute>
+            <custom-attribute attribute-id="blockText" xml:lang="es-ES">
+                br&gt; &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt; &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;Material&lt;br&gt;Las TROLLBEADS están fabricadas con las materias primas de mayor calidad y desde el principio han sido elaboradas con plata de ley, hasta  18 quilates de oro, perlas de agua dulce y piedras preciosas.
+            </custom-attribute>
+        </custom-attributes>
+        <folder-links>
+            <classification-link folder-id="block-half-text"/>
+        </folder-links>
+    </content>
+
+    <content content-id="INT_halfblock_text_aboutus_theproducts_distributionandretailers">
+        <display-name xml:lang="es-ES">About us - the products - Distribution and Retailers</display-name>
+        <online-flag>true</online-flag>
+        <searchable-flag>false</searchable-flag>
+        <page-attributes/>
+        <custom-attributes>
+            <custom-attribute attribute-id="blockBackgroundFill">dark</custom-attribute>
+            <custom-attribute attribute-id="blockHeader" xml:lang="es-ES">
                 
             </custom-attribute>
-            <custom-attribute attribute-id="blockSubHeader" xml:lang="danish"></custom-attribute>
-            <custom-attribute attribute-id="blockText" xml:lang="danish">
-                Lorem ipsum dolor sit amet. Consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodoconsequat. Duis aute irure dolor in reprehenderit in voluptate velit essecillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat nonproident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+            <custom-attribute attribute-id="blockText" xml:lang="es-ES">
+                br&gt;Las TROLLBEADS de oro y plata están modeladas utilizando el llamado método a la &quot;cera perdida&quot;. Esta técnica milenaria permite obtener finos detalles que se reproducen en cera y se trasladan posteriormente a los metales preciosos. Mientras que las TROLLBEADS de cristal están elaboradas todas a mano a partir de cristal calentado al rojo.  &lt;br&gt;¿Dónde se fabrican?&lt;br&gt;TROLLBEADS se fabrica en todo el mundo, desde Dinamarca y Alemania hasta el Este de Europa, EE.UU. y China. Buscamos socios comerciales con los mejores conocimientos sobre el producto y a menudo los encontramos en culturas donde existe una tradición y un conocimiento especial de los materiales empleados.&lt;br&gt; &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt; &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;DiseñadoresEl diseño es el punto clave, el que da carácter a TROLLBEADS. Son los diseñadores los que crean la colección TROLLBEADS. Se utiliza mano de obra y materiales de la mayor calidad, lo cual,  distingue a TROLLBEADS del resto de sus competidores. Hoy en día, más de 50 diseñadores colaboran con los diseños de TROLLBEADS.&lt;br&gt;Existen diseñadores muy diversos, con una gran variedad de repertorios, filosofías, experiencias, ideas y destreza; algunos con un don para los diseños geométricos, otros destacando en las creaciones a base de luz y sombras, otros con un talento especial para las combinaciones atrevidas y los deslumbrantes juegos de colores, y otros con una excelente facilidad para la creación de animales, figuras mitológicas y troles.&lt;br&gt;Las TROLLBEADS han obtenido distintos reconocimientos internacionales y han sido expuestas en la Sculpture Objects &amp; Functional Art en Chicago y Nueva York.&lt;br&gt; &lt;br&gt;&lt;br&gt;&lt;br&gt;Uno de los muchos y diversos diseñadores de TROLLBEADS: Gabriele Weber-Vögele&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt; &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;Distribuidores y minoristas&lt;br&gt;La sede de TROLLBEADS se encuentra en Copenhague, Dinamarca, y cuenta con un gran número de distribuidores independientes en todo el mundo. Los distribuidores TROLLBEADS son tan exclusivos como las joyas. Los distribuidores tienen en común una auténtica pasión por las TROLLBEADS, y conocen las beads al detalle. Éstos están en permanente contacto con las tiendas de su país. Puede encontrar su distribuidor más cercano en el Universo TROLLBEADS.&lt;br&gt;Los distribuidores TROLLBEADS constituyen el enlace fundamental entre la oficina central en Dinamarca y el usuario final. Los profesionales distribuidores son capaces de mezclarse perfectamente con la cultura TROLLBEADS y la cultura local, encontrando el lugar perfecto dentro del mercado.&lt;br&gt; &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt; Regresar a Acerca de TROLLBEADS
+            </custom-attribute>
+        </custom-attributes>
+        <folder-links>
+            <classification-link folder-id="block-half-text"/>
+        </folder-links>
+    </content>
+
+    <content content-id="INT_deckwithcontent_artfuldesign_aboutus_theconcept">
+        <display-name xml:lang="es-ES">About us - the concept</display-name>
+        <online-flag>true</online-flag>
+        <searchable-flag>false</searchable-flag>
+        <page-attributes/>
+        <custom-attributes>
+            <custom-attribute attribute-id="blockHeader" xml:lang="es-ES">
+                
+            </custom-attribute>
+            <custom-attribute attribute-id="blockSubHeader" xml:lang="es-ES"></custom-attribute>
+            <custom-attribute attribute-id="blockText" xml:lang="es-ES">
+                r&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;DETRÁS DE TROLLBEADS&lt;br&gt;La compañía que hay detrás de TROLLBEADS, Trollbeads A/S, es una empresa familiar creadora del concepto original de &quot;bead en pulsera&quot;. En los tiempos que corren, no es frecuente ver una empresa familiar tradicional, sin embargo, la familia Nielsen/Aagaard es la prueba real de que todavía es posible gestionar un negocio de éxito a nivel familiar y divirtiéndose a la vez.
             </custom-attribute>
         </custom-attributes>
         <folder-links>
@@ -62,39 +154,169 @@
     </content>
 
     <content content-id="INT_halfblock_text_artfuldesign_aboutus_theconcept_behindtrollbeads2">
+        <display-name xml:lang="es-ES">Behind Trollbeads 2</display-name>
+        <online-flag>true</online-flag>
+        <searchable-flag>false</searchable-flag>
+        <page-attributes/>
+        <custom-attributes>
+            <custom-attribute attribute-id="blockBackgroundFill">light</custom-attribute>
+            <custom-attribute attribute-id="blockText" xml:lang="es-ES">
+                Todo en nuestra vida se construye a base de recuerdos, y TROLLBEADS le da la oportunidad de llevar simbólicamente estos recuerdos con usted, o al menos divertirse con ellos.&lt;br&gt;Nos gusta que nuestros clientes nos inspiren y sigan el desarrollo del concepto.
+            </custom-attribute>
+        </custom-attributes>
+        <folder-links>
+            <classification-link folder-id="block-half-text"/>
+        </folder-links>
     </content>
 
     <content content-id="INT_halfblock_text_artful_deisgn_aboutus_theconcept_customerinteraction">
     </content>
 
     <content content-id="INT_deckwithcontent_footer_trollbeadmantra_header">
+        <display-name xml:lang="es-ES">Footer - trollbead mantra - header</display-name>
+        <online-flag>true</online-flag>
+        <searchable-flag>false</searchable-flag>
+        <page-attributes/>
+        <custom-attributes>
+            <custom-attribute attribute-id="blockHeader" xml:lang="es-ES">
+                &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;TROLLBEADS MANTRA&lt;br&gt;Como artistas, buscamos expresar la belleza a través de toda la magia, la mística y el enigma que podemos encontrar en el mundo que nos rodea, para que otros puedan encontrar un motivo de expresión personal y disfrute a través de nuestro trabajo.
+            </custom-attribute>
+            <custom-attribute attribute-id="blockText" xml:lang="es-ES">
+                 &lt;br&gt;Como artesanos que somos, nos esforzamos en crear joyas a base de los mejores y más duraderos materiales naturales y con la más alta calidad, para que nuestro trabajo sea considerado todo un estándarte de excelencia. Como empresa, buscamos colaborar con aquellos que comparten nuestra visión, nuestra pasión e ideales, y trabajar con la mayor honestidad con todos ellos - por esto se nos conoce como una empresa con alma.&lt;br&gt; &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt; Regresar a Acerca de TROLLBEADS
+            </custom-attribute>
+        </custom-attributes>
+        <folder-links>
+            <classification-link folder-id="decks-with-content"/>
+        </folder-links>
     </content>
 
     <content content-id="INT_deckwithcontent_footer_the_story_header">
     </content>
 
     <content content-id="INT_deckwithcontent_footer_thestory2">
+        <display-name xml:lang="es-ES">Footer - the story 2</display-name>
+        <online-flag>true</online-flag>
+        <searchable-flag>false</searchable-flag>
+        <page-attributes/>
+        <custom-attributes>
+            <custom-attribute attribute-id="blockText" xml:lang="es-ES">
+                Más tarde, la hermana de Søren, Lise, comenzó a colocar beads en pulseras de plata, una por pulsera.&lt;br&gt;Lise abrió otra joyería y un día una clienta le preguntó si tenía alguna bead suelta para colocar en su pulsera. La dependienta se sorprendió, pero atendió la petición de la clienta. A partir de entonces, comenzó la aventura y la historia de TROLLBEADS. En cooperación con los clientes y de acuerdo con sus necesidades, la colección fue creciendo.
+            </custom-attribute>
+        </custom-attributes>
+        <folder-links>
+            <classification-link folder-id="decks-with-content"/>
+        </folder-links>
     </content>
 
     <content content-id="INT_deckwithcontent_footer_thestory3">
+        <display-name xml:lang="es-ES">Footer - the story 3</display-name>
+        <online-flag>true</online-flag>
+        <searchable-flag>false</searchable-flag>
+        <page-attributes/>
+        <custom-attributes>
+            <custom-attribute attribute-id="blockText" xml:lang="es-ES">
+                Así se inventó y dio comienzo un concepto original de joyas que hoy se disfruta en todo el mundo.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt; &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;El inventor de TROLLBEADS - Søren Silversmith&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;Este primer TROLLBEADS ofrece 6 caras del duende. Ruédelo y las 6 caras demostrarán.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt; &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;La compañía que hay detrás de TROLLBEADS, Trollbeads A/S, es una empresa familiar creadora del concepto original de &quot;bead en pulsera&quot;.&lt;br&gt;En los tiempos que corren, no es frecuente ver una empresa familiar tradicional, sin embargo, la familia Nielsen/Aagaard es la prueba real de que todavía es posible gestionar un negocio de éxito a nivel familiar y divirtiéndose a la vez.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt; &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;Hoy en día, la familia TROLLBEADS cuenta con 40 empleados en su sede central de Copenhague, además de 20 distribuidores repartidos por todo el mundo. TROLLBEADS está presente en más de 50 países.&lt;br&gt; &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt; Regresar a Acerca de TROLLBEADS
+            </custom-attribute>
+        </custom-attributes>
+        <folder-links>
+            <classification-link folder-id="decks-with-content"/>
+        </folder-links>
     </content>
 
     <content content-id="INT_deckwithcontent_footer_abouttrollbeads_ourresponsibility">
+        <display-name xml:lang="es-ES">About trollbeads - our responsibility</display-name>
+        <online-flag>true</online-flag>
+        <searchable-flag>false</searchable-flag>
+        <page-attributes/>
+        <custom-attributes>
+            <custom-attribute attribute-id="blockHeader" xml:lang="es-ES">
+                &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;NUESTRA RESPONSABILIDAD &lt;br&gt;En TROLLBEADS, creemos en dos cosas: trabajar con el corazón y el mantenimiento de una responsabilidad social.
+            </custom-attribute>
+            <custom-attribute attribute-id="blockSubHeader" xml:lang="es-ES">
+                Estos valores son factores esenciales para nosotros a la hora de gestionar un negocio global.&lt;br&gt;&lt;br&gt;&lt;br&gt; &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;Miembro del Consejo de Joyería Responsable  En 2010 TROLLBEADS se convirtió en miembro del Consejo de Joyería Responsable.
+            </custom-attribute>
+            <custom-attribute attribute-id="blockText" xml:lang="es-ES">
+                
+            </custom-attribute>
+        </custom-attributes>
+        <folder-links>
+            <classification-link folder-id="decks-with-content"/>
+        </folder-links>
     </content>
 
      <content content-id="INT_halfblock_text_footer_abouttrollbeads_ourresponsibility">
+        <display-name xml:lang="es-ES">About trollbeads - our responsibility</display-name>
+        <online-flag>true</online-flag>
+        <searchable-flag>false</searchable-flag>
+        <page-attributes/>
+        <custom-attributes>
+            <custom-attribute attribute-id="blockBackgroundFill">transparent</custom-attribute>
+            <custom-attribute attribute-id="blockText" xml:lang="es-ES">
+                 El consejo es una organización internacional sin ánimo de lucro creada para fortalecer la confianza del consumidor en la industria de la joyería abogando por prácticas responsables de negocios en toda la cadena de distribución de joyas de oro y diamantes.&lt;br&gt;Como miembro de CJR, TROLLBEADS se ha comprometido a promover la responsabilidad, la ética, los derechos humanos y las prácticas sociales y medioambientales de una manera transparente y responsable, a través de la industria de la joyería, desde las minas hasta las tiendas.
+            </custom-attribute>
+        </custom-attributes>
+        <folder-links>
+            <classification-link folder-id="block-half-text"/>
+        </folder-links>
     </content>
 
     <content content-id="INT_halfblock_text_footer_abouttrollbeads_ourresponsibility2">
+        <display-name xml:lang="es-ES">About trollbeads - our responsibility 2</display-name>
+        <online-flag>true</online-flag>
+        <searchable-flag>false</searchable-flag>
+        <page-attributes/>
+        <custom-attributes>
+            <custom-attribute attribute-id="blockBackgroundFill">light</custom-attribute>
+            <custom-attribute attribute-id="blockHeader" xml:lang="es-ES">Nuestro compromiso está destinado a reforzar la confianza del consumidor y de los interesados en los productos de joyería.</custom-attribute>
+            <custom-attribute attribute-id="blockHeader" xml:lang="es-ES">br&gt; &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt; &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;La Trollmoneda es una de nuestras beads de solidaridad. Se utiliza en proyectos de caridad en todo el mundo.&lt;br&gt;&lt;br&gt;&lt;br&gt;Ética comercial: - defensa de las prácticas comerciales éticas.</custom-attribute>
+        </custom-attributes>
+        <folder-links>
+            <classification-link folder-id="block-half-text"/>
+        </folder-links>
     </content>
 
     <content content-id="INT_halfblock_text_footer_abouttrollbeads_ourresponsibility3">
+        <display-name xml:lang="es-ES">About trollbeads - our responsibility 3</display-name>
+        <online-flag>true</online-flag>
+        <searchable-flag>false</searchable-flag>
+        <page-attributes/>
+        <custom-attributes>
+            <custom-attribute attribute-id="blockBackgroundFill">light</custom-attribute>
+            <custom-attribute attribute-id="blockHeader" xml:lang="es-ES"> &lt;br&gt;Derechos Humanos y Labor Social: - defensa de los derechos humanos fundamentales, tratamiento de los trabajadores y las comunidades de manera justa y con respeto, fomentando una mano de obra diversa y la provisión de un entorno de trabajo seguro.</custom-attribute>
+        </custom-attributes>
+        <folder-links>
+            <classification-link folder-id="block-half-text"/>
+        </folder-links>
     </content>
 
     <content content-id="INT_halfblockwithimageandtext_footer_abouttrollbeads_ourresponsibility">
+        <display-name xml:lang="es-ES">About trollbeads - our responsibility</display-name>
+        <online-flag>true</online-flag>
+        <searchable-flag>false</searchable-flag>
+        <page-attributes/>
+        <custom-attributes>
+            <custom-attribute attribute-id="blockBackgroundFill">light</custom-attribute>
+            <custom-attribute attribute-id="blockImage">blocks/indien3.jpg</custom-attribute>
+            <custom-attribute attribute-id="blockHeader" xml:lang="es-ES">br&gt;Actuación Medioambiental: - promoción del uso eficiente de los recursos y la energía, protección de la biodiversidad y reducción y prevención de la contaminación.</custom-attribute>
+        </custom-attributes>
+        <folder-links>
+            <classification-link folder-id="block-half-image-text"/>
+        </folder-links>
     </content>
 
     <content content-id="INT_halfblockwithimageandtext_footer_abouttrollbeads_ourresponsibility2">
+        <display-name xml:lang="es-ES">About trollbeads - our responsibility 2</display-name>
+        <online-flag>true</online-flag>
+        <searchable-flag>false</searchable-flag>
+        <page-attributes/>
+        <custom-attributes>
+            <custom-attribute attribute-id="blockBackgroundFill">light</custom-attribute>
+            <custom-attribute attribute-id="blockImage">blocks/indien2.jpg</custom-attribute>
+            <custom-attribute attribute-id="blockHeader" xml:lang="es-ES"> &lt;br&gt;Sistemas de Gestión: - cumplimiento de las leyes aplicables, evaluación de impactos y beneficios, política de establecimiento y gestión de riesgos comerciales incluidos contratistas, proveedores y socios.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt; &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;Compromiso Social  Además de ser parte del Consejo de Joyería Responsable, TROLLBEADS también da apoyo a obras benéficas en todo el mundo. Algunos ejemplos de su labor social son:&lt;br&gt;Lise Aagaard, juntamente con una organización llamada Tibet Charity, desarrolló el proyecto Beads Tíbet en 2005, enfocado a ofrecer a refugiados tibetanos en la India y sin empleo la oportunidad de formarse en el aprendizaje de manufacturación de nuevas materias y obtener así ingresos.Lise Aagaard formó a un grupo de doce personas y a su líder (nombrado éste por el propio Dalai Lama) en todos los aspectos del funcionamiento de un negocio de joyería, incluyendo el diseño, la producción de beads y la comercialización.&lt;br&gt;Lise Aagaard también aportó soporte económico al proyecto. Lo gestiona ahora la Tibetan Unemployment Cooperative Society (Sociedad Cooperativa de Desempleo Tibetano) dando empleo a 17 personas. El grupo vende sus beads de cristal y sus piezas de joyería en una tienda de la calle principal de Dharamsala, India. Desde entonces, se ha iniciado un proyecto similar en África.&lt;br&gt;TROLLBEADS, como marca, también ha dado apoyo a la lucha contra el cáncer, así como a iniciativas de recaudación de fondos para zonas del mundo afectadas por las fuerzas de la naturaleza.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt; &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;TROLLBEADS ha ayudado a un grupo de refugiados tibetanos a iniciar la producción de joyas en Dharamsala, India.&lt;br&gt;&lt;br&gt;&lt;br&gt;Los refugiados tibetanos y sus familias en Dharamsala pueden ahora autofinanciarse gracias a la producción de beads de cristal.&lt;br&gt;&lt;br&gt;&lt;br&gt; &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&quot;Mi deseo es que los proyectos de caridad que elegimos sean lo más variados posibles. Todo lo que hacemos está destinado a las personas&quot;.- Lise Aagaard&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt; Regresar a Acerca de TROLLBEADS</custom-attribute>
+        </custom-attributes>
+        <folder-links>
+            <classification-link folder-id="block-half-image-text"/>
+        </folder-links>
     </content>
 
 
