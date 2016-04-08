@@ -112,7 +112,7 @@ var pages = [{
 var designers_folder = "./designers";
 var fs = require('fs'),
     system = require("system");
-
+fs.removeTree("./about");
 fs.makeDirectory("./about");
 
 var next_about_page = function() {
