@@ -158,7 +158,7 @@ var next_about_page = function() {
 
                                 function remove_images(elem) {
                                     $.each($(elem).children(), function() {
-                                        if ($(this).prop("tagName").toLowerCase() === "img")
+                                        if ($(this).prop("tagName").toLowerCase() === "img" || ($(this).prop("tagName").toLowerCase() === "a") && $(this).attr("href") !== undefined)
                                             $(this).remove();
                                         else
                                             remove_images(this);
