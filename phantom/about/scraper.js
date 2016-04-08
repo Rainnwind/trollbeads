@@ -168,7 +168,7 @@ var next_about_page = function() {
                                 $.each($("#content .content-w-left-menu .row .col-xs-12 > *"), function() {
                                     remove_images(this);
                                     if ($(this).text().trim())
-                                        _result.strings.push($(this).text().replace(/\n/g, "").trim());
+                                        _result.strings.push($(this).text().replace(/\n/g, "<br>").replace(/“/g, "\"").replace(/”/g, "\"").trim());
                                 });
                                 return _result;
                             });
@@ -185,7 +185,8 @@ var next_about_page = function() {
                                     result.lang = languages[lang_match[0]];
                                     result.type = _about_page.name;
                                 }
-                                fs.write(save_file, "module.exports = " + JSON.stringify(result) + ";", 'w');
+                                JSON.parse(JSON.stringify(result));
+                                fs.write(save_file, JSON.stringify(result), 'w');
                             }
                         }
 
