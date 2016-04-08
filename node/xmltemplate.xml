@@ -247,7 +247,7 @@
     </content>
 
     <content content-id="INT_deckwithcontent_footer_the_story_header">
-        {{each INT_deckwithcontent_footer_the_story_header}}
+        {{#each INT_deckwithcontent_footer_the_story_header}}
         <display-name xml:lang="{{this.lang}}">Footer - the story - header</display-name>
         <online-flag>true</online-flag>
         <searchable-flag>false</searchable-flag>
