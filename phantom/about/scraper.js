@@ -168,7 +168,7 @@ var next_about_page = function() {
                                 $.each($("#content .content-w-left-menu .row .col-xs-12 > *"), function() {
                                     remove_images(this);
                                     if ($(this).text().trim())
-                                        _result.strings.push($(this).html().replace(/\n/g, ""));
+                                        _result.strings.push($(this).text().replace(/\n/g, "").trim());
                                 });
                                 return _result;
                             });
