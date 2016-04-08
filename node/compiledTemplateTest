@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<library xmlns="http://www.demandware.com/xml/impex/library/2006-10-31" library-id="SharedLibrary">
+
+
+    <content content-id="half-block-text-the-products-trollbeads">
+    </content>
+
+    <content content-id="half-block-text-the-products-inspiration">
+    </content>
+
+    <content content-id="half-block-text-the-products-inspiration-2">
+    </content>
+
+    <content content-id="half-block-text-the-products-idea-to-collection">
+    </content>
+
+    <content content-id="half-block-text-the-products-material-and-production">
+    </content>
+
+    <content content-id="INT_halfblock_text_aboutus_theproducts_designers">
+    </content>
+
+    <content content-id="INT_halfblock_text_aboutus_theproducts_distributionandretailers">
+    </content>
+
+    <content content-id="INT_deckwithcontent_artfuldesign_aboutus_theconcept">
+        <display-name xml:lang="danish">About us - the concept</display-name>
+        <online-flag>true</online-flag>
+        <searchable-flag>false</searchable-flag>
+        <page-attributes/>
+        <custom-attributes>
+            <custom-attribute attribute-id="blockHeader" xml:lang="danish">
+                Lorem ipsum dolor sit amet.
+            </custom-attribute>
+            <custom-attribute attribute-id="blockSubHeader" xml:lang="danish"></custom-attribute>
+            <custom-attribute attribute-id="blockText" xml:lang="danish">
+                Consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodoconsequat. Duis aute irure dolor in reprehenderit in voluptate velit essecillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat nonproident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+            </custom-attribute>
+        </custom-attributes>
+        <folder-links>
+            <classification-link folder-id="decks-with-content"/>
+        </folder-links>
+        <display-name xml:lang="danish">About us - the concept</display-name>
+        <online-flag>true</online-flag>
+        <searchable-flag>false</searchable-flag>
+        <page-attributes/>
+        <custom-attributes>
+            <custom-attribute attribute-id="blockHeader" xml:lang="danish">
+                
+            </custom-attribute>
+            <custom-attribute attribute-id="blockSubHeader" xml:lang="danish"></custom-attribute>
+            <custom-attribute attribute-id="blockText" xml:lang="danish">
+                Lorem ipsum dolor sit amet. Consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodoconsequat. Duis aute irure dolor in reprehenderit in voluptate velit essecillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat nonproident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+            </custom-attribute>
+        </custom-attributes>
+        <folder-links>
+            <classification-link folder-id="decks-with-content"/>
+        </folder-links>
+    </content>
+
+    <content content-id="INT_halfblock_text_artful deisgn_aboutus_theconcept_behindtrollbeads">
+    </content>
+
+    <content content-id="INT_halfblock_text_artfuldesign_aboutus_theconcept_behindtrollbeads2">
+    </content>
+
+    <content content-id="INT_halfblock_text_artful_deisgn_aboutus_theconcept_customerinteraction">
+    </content>
+
+    <content content-id="INT_deckwithcontent_footer_trollbeadmantra_header">
+    </content>
+
+    <content content-id="INT_deckwithcontent_footer_the_story_header">
+    </content>
+
+    <content content-id="INT_deckwithcontent_footer_thestory2">
+    </content>
+
+    <content content-id="INT_deckwithcontent_footer_thestory3">
+    </content>
+
+    <content content-id="INT_deckwithcontent_footer_abouttrollbeads_ourresponsibility">
+    </content>
+
+     <content content-id="INT_halfblock_text_footer_abouttrollbeads_ourresponsibility">
+    </content>
+
+    <content content-id="INT_halfblock_text_footer_abouttrollbeads_ourresponsibility2">
+    </content>
+
+    <content content-id="INT_halfblock_text_footer_abouttrollbeads_ourresponsibility3">
+    </content>
+
+    <content content-id="INT_halfblockwithimageandtext_footer_abouttrollbeads_ourresponsibility">
+    </content>
+
+    <content content-id="INT_halfblockwithimageandtext_footer_abouttrollbeads_ourresponsibility2">
+    </content>
+
+
+</library>

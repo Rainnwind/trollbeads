@@ -1,110 +1,67 @@
-var htmlparser  = require("htmlparser2"),
-    builder     = require("xmlbuilder"),
-    handlebars  = require("handlebars"),
-    fs          = require("fs"),
-    maxHeaderLength = 300,
-    maxTextLength   = 500,
-    maxSubHeaderLength = 300;
+var htmlparser = require("htmlparser2"),
+    builder = require("xmlbuilder"),
+    handlebars = require("handlebars"),
+    fs = require("fs"),
+    getTextBlocks = require("./textDivider.js");
 
+var relations = {
 
-// var getTextString = function (htmlstring) {
-//     var textString;
-//     parser = new htmlparser.Parser({
-//         onopentag   : function() {
-
-//         }, 
-//         ontext      : function(text) {
-//             textString += text;
-//         },
-//         onclosetag  : function() {
-
-//         }
-//     });
-//     parser.write(htmlstring);
-//     parser.end();
-//     return textString;
-// }
-
-var getTextBlocks = function(textString, blockTypes) {
-    var textBlocks  = {},
-        Rpattern    = /\.(\<|\s|$)|\"\s|\u3002/,
-        Lpattern    = /(\<|\s|^)\.|\s\"|\u3002/;
-
-    blockTypes.forEach(function(type, index) {
-        var maxLength;
-        switch (blockType) {
-
-            case "blockHeader":
-                maxLength = maxHeaderLength;
-                break;
-
-            case "blockText":
-                // maxLength = maxTextLength;
-                maxLength = Infinity;
-                break;
-
-            case "blockSubHeader":
-                maxLength = maxSubHeaderLength;
-                break;
-        }
-
-        if (blockTypes.length === 1  ||
-            index === blockTypes.length -1) {
-
-            textBlocks[type] = textString;
-
-        } else  {
-
-            var portion = textString.length / blockTypes.length;
-                if (portion > maxLength) {
-                    portion = maxLength;
-                }
-
-                portion = textString.slice(0, portion);
-
-            var lastDot = portion.split("").reverse().join("").search(Lpattern);
-                lastDot = portion.length - lastDot;
-
-            textBlocks[type] = textString.slice(0, lastDot - 1);
-            textString = textString.slice(lastDot);
-
-        }
-    });
+    "half-block-text-the-products-trollbeads": ["blockHeader", "blockText"],
+    "half-block-text-the-products-inspiration": ["blockHeader", "blockText"],
+    "half-block-text-the-products-inspiration-2": ["blockText"],
+    "half-block-text-the-products-idea-to-collection": ["blockHeader", "blockText"],
+    "half-block-text-the-products-material-and-production": ["blockHeader", "blockText"],
+    "INT_halfblock_text_aboutus_theproducts_designers": ["blockHeader", "blockText"],
+    "INT_halfblock_text_aboutus_theproducts_distributionandretailers": ["blockHeader", "blockText"],
+    "INT_deckwithcontent_artfuldesign_aboutus_theconcept": ["blockHeader", "blockSubHeader","blockText"],
+    "INT_halfblock_text_artful_deisgn_aboutus_theconcept_behindtrollbeads": ["blockHeader", "blockText"],
+    "INT_halfblock_text_artfuldesign_aboutus_theconcept_behindtrollbeads2": ["blockText"],
+    "INT_halfblock_text_artful_deisgn_aboutus_theconcept_customerinteraction": ["blockHeader","blockText"],
+    "INT_deckwithcontent_footer_trollbeadmantra_header" :["blockHeader", "blockText"],
+    "INT_deckwithcontent_footer_the_story_header": ["blockHeader", "blockText"],
+    "INT_deckwithcontent_footer_thestory2": ["blockText"],
+    "INT_deckwithcontent_footer_thestory3": ["blockText"],
+    "INT_deckwithcontent_footer_abouttrollbeads_ourresponsibility": ["blockHeader","blockSubHeader"],
+    "INT_halfblock_text_footer_abouttrollbeads_ourresponsibility": ["blockText"],
+    "INT_halfblock_text_footer_abouttrollbeads_ourresponsibility2": ["blockHeader", "blockText"],
+    "INT_halfblock_text_footer_abouttrollbeads_ourresponsibility3": ["blockText"],
+    "INT_halfblockwithimageandtext_footer_abouttrollbeads_ourresponsibility": ["blockText"],
+    "INT_halfblockwithimageandtext_footer_abouttrollbeads_ourresponsibility2": ["blockText"],
+    "INT_deckwithcontent_artfuldesign_aboutus_letsplay_header": ["blockHeader","blockText"],
+    "INT_deckwithcontent_artfuldesign_aboutus_letsplay2": ["blockHeader","blockText"],
+    "INT_halfblock_text_aboutus_letsplay": ["blockHeader","blockText"],
+    "INT_halfblock_text_aboutus_letsplay2": ["blockHeader","blockText"],
+    "INT_deckwithcontent_artfuldesign_aboutus_letsplay": ["blockHeader","blockText"]
 
 }
 
-/*
+        /*
 *   @param content {object}     Object has the form:
         ```
         {
-            lang        : {string}
+            lang        : {string},
             contID      : {string},
-            blocks      : {list},
             htmlList    : {string}
         }
         ```
 */
-module.exports = function(content) {
-    // var divider = blocks.length;
-    var contID = content.contID.replace(/\s+/g, "_");
-    var textBlocks = {};
+        module.exports = function(content) {
 
-    if(content.htmlList.length === content.blocks.length) {
-        // Assume 1:1 relationship
-        content.blocks.forEach(function(type, index)) {
-            // do the logic dance
-            textBlocks[type] = content.htmlList[index];
+
+            blocks = relations[content.contID.replace(/\s/g, "_")];
+
+            var textBlocks = getTextBlocks(content.htmlList, blocks);
+
+            textBlocks.lang = content.lang;
+
+            return textBlocks;
         }
-    } else {
-        // different number of blocks expected, so parse and divide
-        htmlString = htmlList.join(" ")
-        getTextBlocks(htmlString, content.blocks);
-    }
-
-}
 
 
-/*
+
+
+
+        /*
 var template = handlebars.compile("./xmltemplate.xml");
 template({
     contID1 : [{da}, {it}],
