@@ -24,7 +24,7 @@
     </content>
 
     <content content-id="half-block-text-the-products-inspiration">
-        {{#each half-block-text-the-products-inspiration.lang}}
+        {{#each half-block-text-the-products-inspiration}}
         <display-name xml:lang="{{this.lang}}">Inspiration</display-name>
         <online-flag>true</online-flag>
         <searchable-flag>false</searchable-flag>
@@ -45,7 +45,7 @@
     </content>
 
     <content content-id="half-block-text-the-products-inspiration-2">
-        {{#each half-block-text-the-products-inspiration-2.lang}}
+        {{#each half-block-text-the-products-inspiration-2}}
         <online-flag>true</online-flag>
         <searchable-flag>false</searchable-flag>
         <page-attributes/>
@@ -62,7 +62,7 @@
     </content>
 
     <content content-id="half-block-text-the-products-idea-to-collection">
-        {{#each half-block-text-the-products-idea-to-collection.lang}}
+        {{#each half-block-text-the-products-idea-to-collection}}
         <display-name xml:lang="{{this.lang}}">From Idea to Collection</display-name>
         <online-flag>true</online-flag>
         <searchable-flag>false</searchable-flag>
@@ -83,7 +83,7 @@
     </content>
 
     <content content-id="half-block-text-the-products-material-and-production">
-        {{#each half-block-text-the-products-material-and-production.lang}}
+        {{#each half-block-text-the-products-material-and-production}}
         <display-name xml:lang="{{this.lang}}">Material and Production</display-name>
         <online-flag>true</online-flag>
         <searchable-flag>false</searchable-flag>
@@ -104,7 +104,7 @@
     </content>
 
     <content content-id="INT_halfblock_text_aboutus_theproducts_designers">
-        {{#each INT_halfblock_text_aboutus_theproducts_designers.lang}}
+        {{#each INT_halfblock_text_aboutus_theproducts_designers}}
         <display-name xml:lang="{{this.lang}}">About us - the products - designers</display-name>
         <online-flag>true</online-flag>
         <searchable-flag>false</searchable-flag>
@@ -125,7 +125,7 @@
     </content>
 
     <content content-id="INT_halfblock_text_aboutus_theproducts_distributionandretailers">
-        {{#each INT_halfblock_text_aboutus_theproducts_distributionandretailers.lang}}
+        {{#each INT_halfblock_text_aboutus_theproducts_distributionandretailers}}
         <display-name xml:lang="{{this.lang}}">About us - the products - Distribution and Retailers</display-name>
         <online-flag>true</online-flag>
         <searchable-flag>false</searchable-flag>
@@ -146,7 +146,7 @@
     </content>
 
     <content content-id="INT_deckwithcontent_artfuldesign_aboutus_theconcept">
-        {{#each INT_deckwithcontent_artfuldesign_aboutus_theconcept.lang}}
+        {{#each INT_deckwithcontent_artfuldesign_aboutus_theconcept}}
         <display-name xml:lang="{{this.lang}}">About us - the concept</display-name>
         <online-flag>true</online-flag>
         <searchable-flag>false</searchable-flag>
@@ -167,7 +167,7 @@
     </content>
 
     <content content-id="INT_halfblock_text_artful deisgn_aboutus_theconcept_behindtrollbeads">
-        {{#each INT_halfblock_text_artful_deisgn_aboutus_theconcept_behindtrollbeads.lang}}
+        {{#each INT_halfblock_text_artful_deisgn_aboutus_theconcept_behindtrollbeads}}
         <display-name xml:lang="{{this.lang}}">Behind Trollbeads</display-name>
         <online-flag>true</online-flag>
         <searchable-flag>false</searchable-flag>
@@ -188,7 +188,7 @@
     </content>
 
     <content content-id="INT_halfblock_text_artfuldesign_aboutus_theconcept_behindtrollbeads2">
-        {{#each INT_halfblock_text_artfuldesign_aboutus_theconcept_behindtrollbeads2.lang}}
+        {{#each INT_halfblock_text_artfuldesign_aboutus_theconcept_behindtrollbeads2}}
         <display-name xml:lang="{{this.lang}}">Behind Trollbeads 2</display-name>
         <online-flag>true</online-flag>
         <searchable-flag>false</searchable-flag>
@@ -206,7 +206,7 @@
     </content>
 
     <content content-id="INT_halfblock_text_artful_deisgn_aboutus_theconcept_customerinteraction">
-        {{#each INT_halfblock_text_artful_deisgn_aboutus_theconcept_customerinteraction.lang}}
+        {{#each INT_halfblock_text_artful_deisgn_aboutus_theconcept_customerinteraction}}
         <display-name xml:lang="{{this.lang}}">About us - the concept - customer interaction</display-name>
         <online-flag>true</online-flag>
         <searchable-flag>false</searchable-flag>
@@ -227,7 +227,7 @@
     </content>
 
     <content content-id="INT_deckwithcontent_footer_trollbeadmantra_header">
-        {{#each INT_deckwithcontent_footer_trollbeadmantra_header.lang}}
+        {{#each INT_deckwithcontent_footer_trollbeadmantra_header}}
         <display-name xml:lang="{{this.lang}}">Footer - trollbead mantra - header</display-name>
         <online-flag>true</online-flag>
         <searchable-flag>false</searchable-flag>
@@ -386,7 +386,7 @@
         </folder-links>
         {{/each}}
     </content>
-    
+
     <content content-id="INT_halfblockwithimageandtext_footer_abouttrollbeads_ourresponsibility2">
         {{#each INT_halfblockwithimageandtext_footer_abouttrollbeads_ourresponsibility2}}
         <display-name xml:lang="{{this.lang}}">About trollbeads - our responsibility 2</display-name>

@@ -7,23 +7,23 @@ var htmlparser  = require("htmlparser2"),
     maxSubHeaderLength = 300;
 
 
-var getTextString = function (htmlstring) {
-    var textString;
-    parser = new htmlparser.Parser({
-        onopentag   : function() {
+// var getTextString = function (htmlstring) {
+//     var textString;
+//     parser = new htmlparser.Parser({
+//         onopentag   : function() {
 
-        }, 
-        ontext      : function(text) {
-            textString += text;
-        },
-        onclosetag  : function() {
+//         }, 
+//         ontext      : function(text) {
+//             textString += text;
+//         },
+//         onclosetag  : function() {
 
-        }
-    });
-    parser.write(htmlstring);
-    parser.end();
-    return textString;
-}
+//         }
+//     });
+//     parser.write(htmlstring);
+//     parser.end();
+//     return textString;
+// }
 
 var getTextBlocks = function(textString, blockTypes) {
     var textBlocks  = {},
@@ -77,22 +77,37 @@ var getTextBlocks = function(textString, blockTypes) {
 *   @param content {object}     Object has the form:
         ```
         {
-            lang   : {string}
-            contID : {string},
-            blocks : {list},
-            htmlString : {string}
+            lang        : {string}
+            contID      : {string},
+            blocks      : {list},
+            htmlList    : {string}
         }
         ```
 */
 module.exports = function(content) {
     // var divider = blocks.length;
     var contID = content.contID.replace(/\s+/g, "_");
+    var textBlocks = {};
+
+    if(content.htmlList.length === content.blocks.length) {
+        // Assume 1:1 relationship
+        content.blocks.forEach(function(type, index)) {
+            // do the logic dance
+            textBlocks[type] = content.htmlList[index];
+        }
+    } else {
+        // different number of blocks expected, so parse and divide
+        htmlString = htmlList.join(" ")
+        getTextBlocks(htmlString, content.blocks);
+    }
 
 }
 
 
-
+/*
 var template = handlebars.compile("./xmltemplate.xml");
 template({
-    key:value
+    contID1 : [{da}, {it}],
+    contID2 : [{da}, {it}]
 });
+*/
