@@ -48,7 +48,7 @@ var relations = {
         module.exports = function(content) {
 
 
-            blocks = relations[content.contID.replace(/\s/g, "_")];
+            var blocks = relations[content.contID.replace(/\s/g, "_")];
 
             var textBlocks = getTextBlocks(content.htmlList, blocks);
 

@@ -396,7 +396,7 @@
         <custom-attributes>
             <custom-attribute attribute-id="blockBackgroundFill">light</custom-attribute>
             <custom-attribute attribute-id="blockImage">blocks/indien2.jpg</custom-attribute>
-            <custom-attribute attribute-id="blockHeader" xml:lang="{{this.lang}}">{{this.blockText}}</custom-attribute>
+            <custom-attribute attribute-id="blockText" xml:lang="{{this.lang}}">{{this.blockText}}</custom-attribute>
         </custom-attributes>
         <folder-links>
             <classification-link folder-id="block-half-image-text"/>
